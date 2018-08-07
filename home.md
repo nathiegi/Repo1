@@ -2,6 +2,8 @@
 <!-- SUBTITLE: We can find here all the latest documentation for the latest versions of our internal projects  -->
 
 # Project "A"
+Short description of project A with the link for it.
+
 http://w2012-nathalie/1111#project-a
 #  Project "B"
 #  Project "C"
