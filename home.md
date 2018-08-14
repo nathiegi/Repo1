@@ -5,6 +5,7 @@
 Short description of project ***Training Video Project*** with the link for it.
 
 http://w2012-nathalie/1111#project-a
-#  Project "B"
+#  Project "Wish Grid"
+Find all the documents on: 
 #  Project "C"
 #  Project "D"
