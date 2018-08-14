@@ -6,9 +6,9 @@ Short description of project ***Training Video Project*** with the link for it.
 
 http://w2012-nathalie/1111#project-a
 #  Project "Wish Grid"
-----Description----- + link
+----Description----- http://w2012-nathalie/training-video-project
 Find all the documents on: 
-Manual de implementacion--link
+Manual de implementacion--http://w2012-nathalie/training-video-project/manual-de-implementacion
 Manual de usuario--http://w2012-nathalie/training-video-project
 
 #  Project "C"
