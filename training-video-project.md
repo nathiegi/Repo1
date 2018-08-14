@@ -1,5 +1,5 @@
-<!-- TITLE: Training Video Project -->
-<!-- SUBTITLE: A quick summary of Training Video Project -->
+<!-- TITLE: Wish Grid v0.2 -->
+<!-- SUBTITLE: A quick summary of Wish Grid -->
 
 # Manual of deployment
 ## Requirements
