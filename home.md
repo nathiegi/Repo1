@@ -9,7 +9,7 @@ http://w2012-nathalie/1111#project-a
 ----Description----- + link
 Find all the documents on: 
 Manual de implementacion--link
-Manual de usuario--link
+Manual de usuario--http://w2012-nathalie/training-video-project
 
 #  Project "C"
 #  Project "D"
