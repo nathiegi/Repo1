@@ -4,8 +4,7 @@
 #  Project "Wish Grid"
 ----Description of the Software-----
 
-Todos los manuales de Implementacion and user you can find here:
-http://172.30.1.119/wish-grid
+*For more details about this software you can click here : http://172.30.1.119/wish-grid*
 
 #  Project "B"
 #  Project "C"
