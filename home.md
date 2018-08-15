@@ -8,7 +8,7 @@ http://w2012-nathalie/1111#project-a
 #  Project "Wish Grid"
 ----Description-----
 Todos los manuales de Implementacion and user you can find here:
-http://w2012-nathalie/training-video-project
+http://172.30.1.119/wish-grid
 
 #  Project "C"
 #  Project "D"
