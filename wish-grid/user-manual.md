@@ -12,18 +12,38 @@
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
 
+![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")
 
-
-
+## MAIN FEATURES
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
+## ACRONYMS & ABBRIVIATIONS
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
+
+## STEPS FOR SYSTEM FUNCTIONS
+
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
+
+
+### Setup
+
+
+sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+
+### Feauture 1
+
+sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+
+### Feauture 2
+
+sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+
+### Feauture n
+sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
 
 
-
-
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
-
-
+![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")3
+## POINTS OF CONTACTS
 
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
