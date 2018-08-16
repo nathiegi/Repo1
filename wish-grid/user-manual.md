@@ -2,11 +2,12 @@
 <!-- SUBTITLE: A quick summary of User Manual -->
 
 # USER MANUAL FOR CLIENT
+> Info
+{.is-info}
 ### System Name Here
 ### Team: ____________________________________
 ### Date: _____________________________________
-> Info
-{.is-info}
+
 ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
 > Success
 {.is-success}
