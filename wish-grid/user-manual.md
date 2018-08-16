@@ -1,7 +1,7 @@
 <!-- TITLE: User Manual -->
 <!-- SUBTITLE: A quick summary of User Manual -->
 
-# **USER MANUAL FOR CLIENT**
+# USER MANUAL FOR CLIENT
 ### System Name Here
 ### Team: ____________________________________
 ### Date: _____________________________________
