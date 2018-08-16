@@ -2,9 +2,10 @@
 <!-- SUBTITLE: A quick summary of User Manual -->
 
 # USER MANUAL FOR CLIENT
-> Info
-{.is-info}
+
 ### System Name Here
+> Info
+{.is- Team}
 ### Team: ____________________________________
 ### Date: _____________________________________
 
