@@ -13,9 +13,6 @@
 
  
  
-* 
- 
- 
 > Success
 {.is-success}
 
