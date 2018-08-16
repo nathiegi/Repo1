@@ -4,7 +4,7 @@
 # USER MANUAL FOR CLIENT
 
 ### System Name Here
-> Info
+> Team
 {.is- Team}
 ### Team: ____________________________________
 ### Date: _____________________________________
