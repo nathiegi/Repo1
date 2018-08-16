@@ -7,6 +7,8 @@
 ### Date: _____________________________________
 
 ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
+> Success
+{.is-success}
 
 ## 1..1SYSTEM OVERVIEW
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
