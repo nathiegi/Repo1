@@ -4,9 +4,8 @@
 # USER MANUAL FOR CLIENT
 
 ### System Name Here
-> Team
-{.is- Team}
-### Team: _____sdfs_______________________________
+
+### Team: ____________________________________
 ### Date: _____________________________________
 
 ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
