@@ -13,7 +13,7 @@ Sample Text here sample text here sample text here sample text here sample text 
 
 
 ![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")
-
+{.is-danger}
 ## 1 .2 MAIN FEATURES
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
