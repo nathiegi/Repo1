@@ -8,10 +8,9 @@
 ### Team: ____________________________________
 ### Date: _____________________________________
 
-> Info
+> 
  ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
- 
- {.is-info}
+  {.is-info}
  
  
  
