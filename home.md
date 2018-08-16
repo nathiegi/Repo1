@@ -3,20 +3,17 @@
 
 
 # Training Center
-# 2.-
+# IA Test Player
+# Project Line
+# Servers Monitoring Dashboard
 
-# 3.- Project Line
-# 4.- Servers Monitoring Dashboard
+# V1 Notification
 
-# 5.-
+#  V1 Reports
 
-# 6.-
-
-# 7.- V1 Reports
-
-# 8.- Wish Grid
+# Wish Grid
 ----Description of the Software-----
 *For more details about this software you can click here : http://172.30.1.119/wish-grid*
 
-# 9.- Holyday
+# Holyday
 
