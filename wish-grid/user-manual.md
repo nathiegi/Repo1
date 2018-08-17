@@ -1,4 +1,4 @@
-<!-- TITLE: User Manual -->
+<!-- TITLE: User Manual for _________-->
 <!-- SUBTITLE: A quick summary of User Manual -->
 
 # USER MANUAL FOR CLIENT
