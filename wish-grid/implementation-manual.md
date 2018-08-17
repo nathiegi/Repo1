@@ -2,6 +2,12 @@
 <!-- SUBTITLE: A quick summary of Implementation Manual -->
 
 # Implementation Manual
+<PROJECT NAME>
+IMPLEMENTATION MANUAL
+Version <1.0>
+<mm/dd/yyyy>
+
+
 ### System Name Here
 ### Team: ____________________________________
 ### Date: _____________________________________
