@@ -2,15 +2,13 @@
 <!-- SUBTITLE: A quick summary of Implementation Manual -->
 
 # Implementation Manual
-<PROJECT NAME>
-IMPLEMENTATION MANUAL
-Version <1.0>
-<mm/dd/yyyy>
+### Project Name:______________________________
+### Version: ____________________________________
+### Last Modified date: _________________________
 
-
-### System Name Here
-### Team: ____________________________________
-### Date: _____________________________________
+## Purpose
+## System Description
+## Glossary, Acronyms and Abbreviations
 ## Pre-requisites
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
 ### Hardware
