@@ -33,30 +33,17 @@
 
 ## 1.1	System Overview
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
-1.2	Main Features
+## 1.2	Main Features
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
-
-
-
-
-
-sample text here sample text here sample text here sample text here sample text here.
-
-
-
-## 1..1SYSTEM OVERVIEW
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
 
 ![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")
 > Danger
 {.is-danger}
-## 1 .2 MAIN FEATURES
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
 ## ACRONYMS & ABBRIVIATIONS
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
-
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 ## STEPS FOR SYSTEM FUNCTIONS
 
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
