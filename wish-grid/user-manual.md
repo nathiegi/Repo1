@@ -17,21 +17,21 @@
 {.is-success}
 
 # TABLE OF CONTENTS
-Page #
+
 ## 1.0	GENERAL INFORMATION	
 ### 1.1	System Overview	1-1
 ### 1.2	Main Features	1-1
 ### 1.3	Acronyms and Abbreviations	1-1
 ## 2.0	SYSTEM FUNCTIONS	2-1
-2.1	System Configuration	2-1
-2.2	User Access Levels	2-1
-3.0	POINTS OF CONTACTS	3-1
-3.1	Authorized use of System	3-1
+### 2.1	System Configuration	2-1
+### 2.2	User Access Levels	2-1
+## 3.0	POINTS OF CONTACTS	3-1
+### 3.1	Authorized use of System	3-1
 
 
-1.0	GENERAL INFORMATION
+# 1.0	GENERAL INFORMATION
 
-1.1	System Overview
+## 1.1	System Overview
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
 1.2	Main Features
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
