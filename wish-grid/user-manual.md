@@ -12,22 +12,6 @@
  ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
 
  
- 
-> Success
-{.is-success}
-
-# TABLE OF CONTENTS
-
-## 1.0	GENERAL INFORMATION	
-### 1.1	System Overview	
-### 1.2	Main Features	
-### 1.3	Acronyms and Abbreviations	
-## 2.0	SYSTEM FUNCTIONS	
-### 2.1	System Configuration	
-### 2.2	User Access Levels	
-## 3.0	POINTS OF CONTACTS	
-### 3.1	Authorized use of System	
-
 
 # 1.0	GENERAL INFORMATION
 
@@ -38,8 +22,7 @@ Sample Text here sample text here sample text here sample text here sample text 
 
 
 ![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")
-> Danger
-{.is-danger}
+
 
 ## 1.3 ACRONYMS & ABBRIVIATIONS
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
@@ -67,7 +50,6 @@ sample text here sample text here sample text here sample text here sample text 
 
 ### Feauture n
 sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
-
 
 
 ![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")3
