@@ -1,7 +1,7 @@
 <!-- TITLE: Implementation Manual -->
 <!-- SUBTITLE: A quick summary of Implementation Manual -->
 
-# Deployment Manual
+# Implementation Manual
 ### System Name Here
 ### Team: ____________________________________
 ### Date: _____________________________________
