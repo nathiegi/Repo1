@@ -19,14 +19,14 @@
 # TABLE OF CONTENTS
 
 ## 1.0	GENERAL INFORMATION	
-### 1.1	System Overview	1-1
-### 1.2	Main Features	1-1
-### 1.3	Acronyms and Abbreviations	1-1
-## 2.0	SYSTEM FUNCTIONS	2-1
-### 2.1	System Configuration	2-1
-### 2.2	User Access Levels	2-1
-## 3.0	POINTS OF CONTACTS	3-1
-### 3.1	Authorized use of System	3-1
+### 1.1	System Overview	
+### 1.2	Main Features	
+### 1.3	Acronyms and Abbreviations	
+## 2.0	SYSTEM FUNCTIONS	
+### 2.1	System Configuration	
+### 2.2	User Access Levels	
+## 3.0	POINTS OF CONTACTS	
+### 3.1	Authorized use of System	
 
 
 # 1.0	GENERAL INFORMATION
@@ -41,17 +41,20 @@ Sample Text here sample text here sample text here sample text here sample text 
 > Danger
 {.is-danger}
 
-## ACRONYMS & ABBRIVIATIONS
+## 1.3 ACRONYMS & ABBRIVIATIONS
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
-## STEPS FOR SYSTEM FUNCTIONS
+# 2.0	SYSTEM FUNCTIONS	
+## 2.1	System Configuration	
 
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here 
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample
 
 
-### Setup
+## 2.2	User Access Levels	
 
-
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample
 sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
 
 ### Feauture 1
@@ -68,6 +71,11 @@ sample text here sample text here sample text here sample text here sample text 
 
 
 ![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")3
-## POINTS OF CONTACTS
+# 3.0 POINTS OF CONTACTS
 
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+
+## 3.1	Authorized use of System	
+
+Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+
