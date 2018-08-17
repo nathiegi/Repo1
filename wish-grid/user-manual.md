@@ -16,13 +16,13 @@
 > Success
 {.is-success}
 
-TABLE OF CONTENTS
+# TABLE OF CONTENTS
 Page #
-1.0	GENERAL INFORMATION	1-1
-1.1	System Overview	1-1
-1.2	Main Features	1-1
-1.3	Acronyms and Abbreviations	1-1
-2.0	SYSTEM FUNCTIONS	2-1
+## 1.0	GENERAL INFORMATION	
+### 1.1	System Overview	1-1
+### 1.2	Main Features	1-1
+### 1.3	Acronyms and Abbreviations	1-1
+## 2.0	SYSTEM FUNCTIONS	2-1
 2.1	System Configuration	2-1
 2.2	User Access Levels	2-1
 3.0	POINTS OF CONTACTS	3-1
