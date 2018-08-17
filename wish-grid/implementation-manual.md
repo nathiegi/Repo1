@@ -1,4 +1,4 @@
-<!-- TITLE: Implementation Manual -->
+<!-- TITLE: Implementation Manual for __________-->
 <!-- SUBTITLE: A quick summary of Implementation Manual -->
 
 # Implementation Manual
