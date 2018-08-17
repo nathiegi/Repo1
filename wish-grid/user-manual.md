@@ -3,11 +3,9 @@
 
 # USER MANUAL FOR CLIENT
 
-### System Name Here
-
-### Team: ____________________________________
-### Date: _____________________________________
-
+### Project Name:______________________________
+### Version: ____________________________________
+### Last Modified date: _________________________
 
  ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
 
