@@ -1,10 +1,6 @@
 <!-- TITLE: Wish Grid - Implementation Manual V1.0 -->
 <!-- SUBTITLE: A quick summary of Wish Grid Implementation Manual V1.0 -->
 
-# Header
-<!-- TITLE: Implementation Manual for __________-->
-<!-- SUBTITLE: A quick summary of Implementation Manual -->
-
 # Implementation Manual
 ### Project Name:______________________________
 ### Version: ___________________________________
