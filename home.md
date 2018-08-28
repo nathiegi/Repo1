@@ -2,29 +2,29 @@
 <!-- SUBTITLE: We can find here all the latest documentation for the latest versions of our internal projects  -->
 
 
-# Wish Grid
+# Wish Grid (Due Date: 31/08/2018)
 ----Description of the Software-----
 --link--
-# Holyday
+# Holyday (Due Date: 03/09/2018)
 ----Description of the Software-----
 For more details about this software you can click here : http://172.30.1.119/holyday
 
-# IA Test Player
+# IA Test Player (Due Date: 07/09/2018)
 ----Description of the Software-----
 For more details about this software you can click here : --link--
-# Project Line
+# Project Line (Due Date: 17/09/2018)
 ----Description of the Software-----
 For more details about this software you can click here : --link--
-# Training Center
+# Training Center (Due Date: 05/10/2018)
 ----Description of the Software-----
 For more details about this software you can click here : --link--
 
-# V1 Notification
+# V1 Notification (Due Date: 19/10/2018)
 ----Description of the Software-----
 --link--
-#  V1 Reports
+#  V1 Reports (Due Date: 25/10/2018)
 ----Description of the Software-----
 --link--
-# BatMonitor
+# BatMonitor (Due Date: 12/11/2018)
 ----Description of the Software-----
 For more details about this software you can click here : --link--
