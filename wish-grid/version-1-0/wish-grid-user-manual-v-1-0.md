@@ -1,8 +1,7 @@
 <!-- TITLE: Wish Grid - User Manual V1.0 -->
 <!-- SUBTITLE: A quick summary of Wish Grid User Manual V1.0 -->
 
-<!-- TITLE: User Manual for _________-->
-<!-- SUBTITLE: A quick summary of User Manual -->
+
 
 # USER MANUAL FOR CLIENT
 
