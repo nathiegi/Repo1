@@ -10,8 +10,7 @@
 ### Version: ____________________________________
 ### Last Modified date: _________________________
 
- ![1 User Manual](/uploads/1-user-manual.png "1 User Manual")
-
+![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")
  
 
 # 1.0	GENERAL INFORMATION
