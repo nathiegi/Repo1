@@ -1,5 +1,5 @@
 <!-- TITLE: Wish Grid - User Manual V1.0 -->
-<!-- SUBTITLE: WishGrid is a software where people can make suggestions of a company service and the registered community can vote for those suggestions in that way the company can have a feedback from their users. -->
+<!-- SUBTITLE: WishGrid is a software where people can make suggestions of a company service and the registered community can vote for those suggestions, so in that way, the company can have a feedback from their users. -->
 
 
 ### Project Name: WishGrid
