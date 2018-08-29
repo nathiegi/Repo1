@@ -54,4 +54,9 @@ Facilitate the process of requests for absences, provide a better way to manage 
 8. From the item 'Roles & Permissions' you can manage roles and permissions. 
 9. If the user clicks on the 'Log out' option, the session will end.
 
-## MENU ITEM SPECIFICATIONS 
+# 3.0. MENU ITEM SPECIFICATIONS
+## 3.1. LOGIN / LOGOUT
+When you go to the site, and if you have not yet logged in, you can see the HolyDay login, where you will find. 
+1. Enter your email address. 
+2. Enter your password. 
+3. Do click on Login button. 
