@@ -234,4 +234,13 @@ To delete a request you must perform the following steps:
 *5)* Then the confirmation form shown to remove the application. 
 *6)* Select the "Delete" option to delete the request sent. Here it is redirected to the list of requests sent.
 
-> **NOTE:** You can only delete requests that are in waiting status and only if no supervisor has answered these. 
+> **NOTE:** You can only delete requests that are in waiting status and only if no supervisor has answered these.
+
+## 3.2. SUPERVISOR ROLE
+A supervisor can reply to the requests of his supervisees, this is because he knows if the absence of a particular employee harms or not the progress of his team.
+
+### 3.2.1. “Team Request” Section.
+#### **3.2.1.1. See General Calendar. **
+Team Request shows us in the first view a calendar in the current date with the details of the registered holidays and requests received for his supervisees.
+
+Selecting any of these events on the calendar, we are shown a pop-up with a basic detail of the event. If the event needs an answer the pop-up allows us to redirect the details of the request or event to answer. 
