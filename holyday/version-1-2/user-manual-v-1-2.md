@@ -191,3 +191,11 @@ This section contains all the applications submitted which were accepted.
 *e)* From this section you can access to see your request details. 
 
 **ii. Waiting.**
+This section contains all the requests sent that are waiting for a response or supervisors. 
+*1)* Indicates the date when the request was made. 
+*2)* It shows the name of who sent the request. 
+*3)* From this section you can access to see your request details. 
+*4)* From this section you can access to edit your request. 
+*5)* Shows a confirm view to delete your request.
+
+**iii.  Denied.**
