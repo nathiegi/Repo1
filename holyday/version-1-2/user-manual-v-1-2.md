@@ -288,7 +288,7 @@ To edit the information of the submitted request, you must perform the following
 ![](/uploads/user-manual/1-user-manual.png) 
 ![](/uploads/user-manual/1-user-manual.png) 
 
-> > **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these.
+> **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these.
 
 **vi. Delete a Request.**
 To delete a request you must perform the following steps: 
