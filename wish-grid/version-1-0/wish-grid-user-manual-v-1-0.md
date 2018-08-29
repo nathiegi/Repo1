@@ -64,35 +64,32 @@ Note: Once the "Register" button is pressed, the user is created and the applica
 
 ### 2.3.4.	An email will be sent to you to confirm your email.
 
-
+![Illustration 1 5 Email And Code Verification](/uploads/wish-grid/illustration-1-5-email-and-code-verification.jpg "Illustration 1 5 Email And Code Verification")
 ***Illustration 1.5 – Email and code verification***
 
 ### 2.3.5.	Click on the link in the email and enter the code to confirm the email.
-
+![Illustration 1 6 Verification Code](/uploads/wish-grid/illustration-1-6-verification-code.jpg "Illustration 1 6 Verification Code")
 ***Illustration 1.6 – Verification code***
 
 
 ## 2.4.	Reset Password
 If you forget your password WishGrid gives you the option to recover it.
 ### 2.4.1.	At the bottom of the login dialog click on the button that says “I forgot my password”. 
-
-***2-4-1***
+![2 4 1](/uploads/wish-grid/2-4-1.jpg "2 4 1")
 
 ### 2.4.2.	On “Reset Password” dialog, enter the email you used to create your account and complete the captcha.
 
-
+![Illustration 1 7 Reset Password](/uploads/wish-grid/illustration-1-7-reset-password.jpg "Illustration 1 7 Reset Password")
 ***Illustration 1.7 – Reset Password***
 
 
 ### 2.4.3.	You have to enter an email in order to receive a message with the new password, this email must be a valid one (the same you fill when creating the WishGrid account).
-	
-
-
+![Illustration 1 8 E Mail Notification Change Password](/uploads/wish-grid/illustration-1-8-e-mail-notification-change-password.jpg "Illustration 1 8 E Mail Notification Change Password")
 ***Illustration 1.8 – E-mail notification Change Password***
 
 ### 2.4.4.	Click on the link in the email and enter the code to confirm the email.
 
-
+![Illustration 1 9 Verification Code](/uploads/wish-grid/illustration-1-9-verification-code.jpg "Illustration 1 9 Verification Code")
 ***Illustration 1.9 – Verification code***
 
 
