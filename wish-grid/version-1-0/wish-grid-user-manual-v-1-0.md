@@ -51,18 +51,66 @@ Enter a valid user name and password to be able to access the WishGrid applicati
 If you don’t have a user to login to WishGrid, follow next steps: 
 
 ### 2.3.1.	At the bottom of the login dialog click on the button that says “Create One”.
-### 
 ![Createuser](/uploads/wish-grid/createuser.png "Createuser")
 
 ### 2.3.2.	On "Create an account" dialog, you should enter your name, your last name and your email, you must enter a valid email, otherwise the "Next" button will not be enabled. All the fields are required.
-### 
 ![Illustration 1 4 Create An Account I](/uploads/wish-grid/illustration-1-4-create-an-account-i.png "Illustration 1 4 Create An Account I")
 ***Illustration 1.4 – Create an Account I***
 
 ### 2.3.3.	Click on the "Next" button and fill in the fields, otherwise, the "Register" button will not be enabled.
-### 
 ![Illustration 1 5 Create An Account Ii](/uploads/wish-grid/illustration-1-5-create-an-account-ii.png "Illustration 1 5 Create An Account Ii")
 ***Illustration 1.5 – Create an Account II***
+Note: Once the "Register" button is pressed, the user is created and the application redirects you to the "Login" dialog (Figure 1.2).
+
+### 2.3.4.	An email will be sent to you to confirm your email.
+
+
+***Illustration 1.5 – Email and code verification***
+
+### 2.3.5.	Click on the link in the email and enter the code to confirm the email.
+
+***Illustration 1.6 – Verification code***
+
+
+## 2.4.	Reset Password
+If you forget your password WishGrid gives you the option to recover it.
+### 2.4.1.	At the bottom of the login dialog click on the button that says “I forgot my password”. 
+
+***2-4-1***
+
+### 2.4.2.	On “Reset Password” dialog, enter the email you used to create your account and complete the captcha.
+
+
+***Illustration 1.7 – Reset Password***
+
+
+### 2.4.3.	You have to enter an email in order to receive a message with the new password, this email must be a valid one (the same you fill when creating the WishGrid account).
+	
+
+
+***Illustration 1.8 – E-mail notification Change Password***
+
+### 2.4.4.	Click on the link in the email and enter the code to confirm the email.
+
+
+***Illustration 1.9 – Verification code***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
 Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample
 
