@@ -2,9 +2,6 @@
 <!-- SUBTITLE: A quick summary of Wish Grid User Manual V1.0 -->
 
 
-
-# USER MANUAL FOR CLIENT
-
 ### Project Name: WishGrid
 ### Version: 0.2
 ### Last Modified date: 08/29/2018
