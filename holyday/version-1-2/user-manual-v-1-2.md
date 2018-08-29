@@ -23,3 +23,5 @@ Facilitate the process of requests for absences, provide a better way to manage 
 
 ## 2.3    FUNCTIONALITY
 ### 2.3.1. Application modules
+#### Description for each item in the Menu for each Role
+##### User Role
