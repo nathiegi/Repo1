@@ -132,10 +132,10 @@ d) View personal Kardex.
  * Marriage: By marriage. 
  * Appoitment of citizen judge
 
-<i>ii Exclusive types of permits for women workers:</i>
+<i>ii. Exclusive types of permits for women workers:</i>
 * Breastfeeding Period: Tolerance of one hour daily for breastfeeding during the first year of the child. 
 * Foor motherhood: Rest period before and after childbirth. 
 * Pap - Mammography: License for both medical exams on the same day (one day) done. 
 
-<i>ii Exclusive types of permits for workers:</i>
+<i>iii. Exclusive types of permits for workers:</i>
 * For Fatherhood: Leave for childbirth (3 days). 
