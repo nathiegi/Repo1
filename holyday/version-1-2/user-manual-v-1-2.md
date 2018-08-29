@@ -95,10 +95,10 @@ d) View personal Kardex.
 5. Press the "OK" button, then the message disappears and your current phone number is displayed.
 
 ##### d. <i>See Kardex</i>
-> 1. Go to Profile. 
-> 2. At the bottom left of the overview of your profile, there is a link called "See Kardex", which will take you to the Kardex View. 
-> 3. In view of Kardex personal information is as follows: 
-> 
+1. Go to Profile. 
+2. At the bottom left of the overview of your profile, there is a link called "See Kardex", which will take you to the Kardex View. 
+3. In view of Kardex personal information is as follows: 
+
 > a. From: Start date from vacations taken. 
 > b. to: End data from vacations taken. 
 > c. Vacation: Total of Days taken. 
