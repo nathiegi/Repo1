@@ -313,4 +313,45 @@ Team Request shows us in the first view a calendar in the current date with the 
 
 ![](/uploads/user-manual/1-user-manual.png) 
 
-Selecting any of these events on the calendar, we are shown a pop-up with a basic detail of the event. If the event needs an answer the pop-up allows us to redirect the details of the request or event to answer. 
+Selecting any of these events on the calendar, we are shown a pop-up with a basic detail of the event. If the event needs an answer the pop-up allows us to redirect the details of the request or event to answer.
+
+#### **3.2.1.2. General Requests List of supervisees employees.**
+In the top of the general calendar there is a link to Requests, where the supervisor can see the same detail charged on the calendar, but in a list format as you see below. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+##### **Accepted.** 
+List of request that were previously approved by the supervisor, as a reminder of already authorized permissions for his employees supervisees. 
+
+###### **Waiting.** 
+List of requests that are in "Waiting" status, waiting for the supervisor to reply them. 
+
+##### **Denied.** 
+List of requests that were denied by the supervisor or other responsible supervisor, as proof that the request was made, but was denied for any particular reason.
+
+#### **3.2.1.3. Detail of request received.**
+
+![](/uploads/user-manual/1-user-manual.png) 
+![](/uploads/user-manual/1-user-manual.png) 
+
+The requests and events in the calendar allow us to see a small detail of the reason or event, also the list of requests allows us to see this detail, this in case the request has already been previously answered. 
+
+#### **3.2.1.4. How to reply a request.**
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+In the case of requests that are in waiting status, the detail shown is different, a window like the previous one is shown in which the supervisor before answering the request, accepting it or denying it, must type a Comment that justifies or accompanies his answer. 
+
+##### **i. Accepting a Request**
+When a request is accepted, the requesting employee receives an email announcing the approval of his request, in the same way that the responsible supervisor receives another notification that supports his response. 
+
+##### **ii. Denying a Request **
+When an request is denied, the supervisor does not authorize the employee's departure as scheduled. 
+After this action, the requesting employee receives an email announcing the refusal of his request, in the same way that the responsible supervisor receives another notification that supports his response. 
+
+Once the request has received the necessary number of answers in relation to the number of supervisors and the amount of time requested, the status of the request changes from Wait to Accepted or Denied as appropriate. This change is notified by email to: 
+	- The requester. 
+	- Supervisor(s) of the requester. 
+	- Users authorized to manage permissions. 
+
+In addition, if the reques had been approved, the corresponding update is performed Kardex affected. 
