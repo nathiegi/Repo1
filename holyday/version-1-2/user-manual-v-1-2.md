@@ -175,4 +175,4 @@ d) View personal Kardex.
 8. A brief description about the work done. 
 9. Select the "Create" option to send the request to the selected supervisor. Then, all sent requests are shown organized by their response status. 
 
-#### **3.2.2.2. "My Request" Section. **
+#### **3.2.2.2. "My Request" Section.**
