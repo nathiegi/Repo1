@@ -31,7 +31,7 @@ The initial screen shows the list of all suggestions that were created by the us
 If you didn’t create any suggestion, the initial screen will show the message “No results were found”.
 
 ![Illustration 1 1 Initial Screen With Suggestions](/uploads/wish-grid/illustration-1-1-initial-screen-with-suggestions.png "Illustration 1 1 Initial Screen With Suggestions")
-***Illustration 1.1 – Initial screen (with suggestions)***
+*Illustration 1.1 – Initial screen (with suggestions)*
 Note: The user can navigate through the entire application, see list of suggestions, suggestion details and search suggestions.
 ## 2.2.	Login Screen
 The login screen will be displayed when two actions are executed in the "Start Screen", (Illustration 1.1):
@@ -40,12 +40,12 @@ b)	Click on the vote icon
 	And it will show you the following screen:
 	
 ![Illustration 1 2 Login](/uploads/wish-grid/illustration-1-2-login.png "Illustration 1 2 Login")
-***Illustration 1.2 – Login***
+*Illustration 1.2 – Login*
 
 Enter a valid user name and password to be able to access the WishGrid application.
 
 ![Illustration 1 3 Failed To Login](/uploads/wish-grid/illustration-1-3-failed-to-login.png "Illustration 1 3 Failed To Login")
-***Illustration 1.3 – Failed to login***
+*Illustration 1.3 – Failed to login*
 
 ## 2.3.	 Create User
 If you don’t have a user to login to WishGrid, follow next steps: 
@@ -55,21 +55,21 @@ If you don’t have a user to login to WishGrid, follow next steps:
 
 ### 2.3.2.	On "Create an account" dialog, you should enter your name, your last name and your email, you must enter a valid email, otherwise the "Next" button will not be enabled. All the fields are required.
 ![Illustration 1 4 Create An Account I](/uploads/wish-grid/illustration-1-4-create-an-account-i.png "Illustration 1 4 Create An Account I")
-***Illustration 1.4 – Create an Account I***
+*Illustration 1.4 – Create an Account I*
 
 ### 2.3.3.	Click on the "Next" button and fill in the fields, otherwise, the "Register" button will not be enabled.
 ![Illustration 1 5 Create An Account Ii](/uploads/wish-grid/illustration-1-5-create-an-account-ii.png "Illustration 1 5 Create An Account Ii")
-***Illustration 1.5 – Create an Account II***
+*Illustration 1.5 – Create an Account II*
 Note: Once the "Register" button is pressed, the user is created and the application redirects you to the "Login" dialog (Figure 1.2).
 
 ### 2.3.4.	An email will be sent to you to confirm your email.
 
 ![Illustration 1 5 Email And Code Verification](/uploads/wish-grid/illustration-1-5-email-and-code-verification.jpg "Illustration 1 5 Email And Code Verification")
-***Illustration 1.5 – Email and code verification***
+*Illustration 1.5 – Email and code verification*
 
 ### 2.3.5.	Click on the link in the email and enter the code to confirm the email.
 ![Illustration 1 6 Verification Code](/uploads/wish-grid/illustration-1-6-verification-code.jpg "Illustration 1 6 Verification Code")
-***Illustration 1.6 – Verification code***
+*Illustration 1.6 – Verification code*
 
 
 ## 2.4.	Reset Password
@@ -80,24 +80,24 @@ If you forget your password WishGrid gives you the option to recover it.
 ### 2.4.2.	On “Reset Password” dialog, enter the email you used to create your account and complete the captcha.
 
 ![Illustration 1 7 Reset Password](/uploads/wish-grid/illustration-1-7-reset-password.jpg "Illustration 1 7 Reset Password")
-***Illustration 1.7 – Reset Password***
+*Illustration 1.7 – Reset Password*
 
 
 ### 2.4.3.	You have to enter an email in order to receive a message with the new password, this email must be a valid one (the same you fill when creating the WishGrid account).
 ![Illustration 1 8 E Mail Notification Change Password](/uploads/wish-grid/illustration-1-8-e-mail-notification-change-password.jpg "Illustration 1 8 E Mail Notification Change Password")
-***Illustration 1.8 – E-mail notification Change Password***
+*Illustration 1.8 – E-mail notification Change Password*
 
 ### 2.4.4.	Click on the link in the email and enter the code to confirm the email.
 
 ![Illustration 1 9 Verification Code](/uploads/wish-grid/illustration-1-9-verification-code.jpg "Illustration 1 9 Verification Code")
-***Illustration 1.9 – Verification code***
+*Illustration 1.9 – Verification code*
 
 
 ## 2.5.	Initiated Session
 Once the correct data is entered in the Login, the application will show you the following screen:
  
 ![Illustration 1 10 Screen Home Wishgrid](/uploads/wish-grid/illustration-1-10-screen-home-wishgrid.jpg "Illustration 1 10 Screen Home Wishgrid")
-***Illustration 1.10 – Screen home WishGrid***
+*Illustration 1.10 – Screen home WishGrid*
 
 ### 2.5.1.	Go to the List of Suggestion
 (a)	By clicking on the icon ![Icon](/uploads/wish-grid/icon.png "Icon") , you will be redirected to the list of all WishGrid suggestions.
@@ -109,22 +109,22 @@ Once the correct data is entered in the Login, the application will show you the
 (c)	It shows the authenticated user and the user’s menu, If the authenticated user is a moderator or a normal user, the menu will display the following options:
 
 ![Illustration 1 11 Users Menu](/uploads/wish-grid/illustration-1-11-users-menu.jpg "Illustration 1 11 Users Menu")
-***Illustration 1.11 – User’s menu***
+*Illustration 1.11 – User’s menu*
 
-#### 2.5.3.1.	About
+#### **2.5.3.1.	About**
 It shows a brief information of the company and some basic data.
 
 ![Illustration 1 12 About](/uploads/wish-grid/illustration-1-12-about.jpg "Illustration 1 12 About")
-***Illustration 1.12 – About***
+*Illustration 1.12 – About*
 
-#### 2.5.3.2.	Change Password
+#### **2.5.3.2.	Change Password**
 Allows the change of the current password.
 ![Illustration 1 11 Change Password](/uploads/wish-grid/illustration-1-11-change-password.jpg "Illustration 1 11 Change Password")
-*** Change password***
+* Change password*
 
 When you save the new password, you will be redirected to the login, you must enter the new password.
 
-#### 2.5.3.3.	Logout
+#### **2.5.3.3.	Logout**
 Clicking on logout will redirected you to the login dialog.
 
 ### 3.5.4.	Creation of Suggestions
