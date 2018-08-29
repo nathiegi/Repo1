@@ -63,4 +63,10 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 
 ## 3.2. USER ROLE
 ### 3.2.1. Profile item
-#### a. View profile 
+#### a. View profile
+1. Pull down the menu and select the Item Profile. 
+2. Then your information is displayed in the Profile view the options: 
+a) Edit personal mail. 
+b) Change password of the user account. 
+c) Change the phone number. 
+d) View personal Kardex. 
