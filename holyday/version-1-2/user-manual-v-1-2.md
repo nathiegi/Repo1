@@ -10,3 +10,6 @@
 # 1.0. GENERAL INFORMATION
 ## 1.1. System Overview
 Facilitate the process of requests for absences, provide a better way to manage each employee and provide this information quickly and easily for both workers and management way. 
+
+## 1.2.    Main Features
+## 1.3. ACRONYMS & ABBRIVIATIONS 
