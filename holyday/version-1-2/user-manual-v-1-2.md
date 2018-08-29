@@ -22,4 +22,4 @@ Facilitate the process of requests for absences, provide a better way to manage 
 * User
 
 ## 2.3    FUNCTIONALITY
-
+### 2.3.1. Application modules
