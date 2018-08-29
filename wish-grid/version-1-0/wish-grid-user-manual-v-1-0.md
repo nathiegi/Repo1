@@ -154,48 +154,27 @@ An email will be sent when the suggestion is approved, the email will notify tha
 
 ### 2.5.6.	Search by status 
 (f)	Select the state to filter the suggestions list.
-> Illustration 1.16 – Search by status
+![Illustration 1 16 Search By Status](/uploads/wish-grid/illustration-1-16-search-by-status.jpg "Illustration 1 16 Search By Status")
+*Illustration 1.16 – Search by status*
 
-3.5.7.	Suggestion List
+### 2.5.7.	Suggestion List
 (g)	Lists all of the suggestions that were accepted by the administrator or one of the moderators, next image shows a mobile view of this.
+![Illustration 1 17 Suggestion List Mode Mobile](/uploads/wish-grid/illustration-1-17-suggestion-list-mode-mobile.jpg "Illustration 1 17 Suggestion List Mode Mobile")
+*Illustration 1.17 – Suggestion list (Mode Mobile)*
 
-
-
-
-
-
-
-
-
-
-
-
-Illustration 1.17 – Suggestion list (Mode Mobile)
-
-3.5.8.	Vote
+### 2.5.8.	Vote
 (h)	When the suggestions are accepted you can only vote once for any of them, initially the vote icon will appear in lead color, once it’s clicked the icon turns into green and you can remove your vote by clicking on it once again.
+![Illustration 1 18 Vote Cancelled And Successful](/uploads/wish-grid/illustration-1-18-vote-cancelled-and-successful.jpg "Illustration 1 18 Vote Cancelled And Successful")
+*Illustration 1.18 – Vote, Cancelled and Successful*
 
-
-
-
-Illustration 1.18 – Vote, Cancelled and Successful
-
-3.5.9.	Share WishGrid
+### 2.5.9.	Share WishGrid
 
 (i)	As a user I want to be able to share with the community the list of suggestions or an specific suggestion
-Copy the suggestion link to share.
-Share the suggestion on Facebook.
-
+![2 5 9 Share Wishgrid](/uploads/wish-grid/2-5-9-share-wishgrid.jpg "2 5 9 Share Wishgrid")
 
 Note: If the administrator designates you as the moderator of WishGrid, you will receive an email notification:
-
-
-
-
-
-
-
-Illustration 1.19 – Email, Assigned Moderator
+![Illustration 1 19 Email Assigned Moderator](/uploads/wish-grid/illustration-1-19-email-assigned-moderator.jpg "Illustration 1 19 Email Assigned Moderator")
+*Illustration 1.19 – Email, Assigned Moderator*
 
 
 
