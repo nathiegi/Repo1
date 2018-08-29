@@ -55,9 +55,10 @@ Enter a valid user name and password to be able to access the WishGrid applicati
 ## 2.3.	 Create User
 If you don’t have a user to login to WishGrid, follow next steps: 
 
-### 2.3.1.	At the bottom of the login dialog click on the button that says “Create One”.
+2.3.1.	At the bottom of the login dialog click on the button that says “Create One”.
 
-
+![Createuser](/uploads/wish-grid/createuser.png "Createuser")
+2.3.2.	On "Create an account" dialog, you should enter your name, your last name and your email, you must enter a valid email, otherwise the "Next" button will not be enabled. All the fields are required.
 
 
 
