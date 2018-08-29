@@ -345,7 +345,7 @@ In the case of requests that are in waiting status, the detail shown is differen
 ##### **i. Accepting a Request**
 When a request is accepted, the requesting employee receives an email announcing the approval of his request, in the same way that the responsible supervisor receives another notification that supports his response. 
 
-##### **ii. Denying a Request **
+##### **ii. Denying a Request**
 When an request is denied, the supervisor does not authorize the employee's departure as scheduled. 
 After this action, the requesting employee receives an email announcing the refusal of his request, in the same way that the responsible supervisor receives another notification that supports his response. 
 
