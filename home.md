@@ -7,7 +7,7 @@
 --link--
 # Holyday (Due Date: 03/09/2018)
 ----Description of the Software-----
-For more details about this software you can click here : http://172.30.1.119/holyday
+For more details about this software you can click here : http://172.30.0.138/holyday
 
 # IA Test Player (Due Date: 07/09/2018)
 ----Description of the Software-----
