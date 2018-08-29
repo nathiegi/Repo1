@@ -141,6 +141,6 @@ d) View personal Kardex.
 * For Fatherhood: Leave for childbirth (3 days). 
 
 <i>**b. Time:**</i>Indicates the period of time that the absence will last during the day. 
-* *i. A.M:* Absence throughout the morning (within their working hours). 
-* *ii. P.M:* Absence throughout the afternoon (within their working hours). 
-* *iii. FULL TIME:* Absence all day (within their working hours). 
+*i. A.M:* Absence throughout the morning (within their working hours). 
+*ii. P.M:* Absence throughout the afternoon (within their working hours). 
+*iii. FULL TIME:* Absence all day (within their working hours). 
