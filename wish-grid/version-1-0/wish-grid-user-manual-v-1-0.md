@@ -9,9 +9,6 @@
 ### Version: 0.2
 ### Last Modified date: 08/29/2018
 
-![1 User Manual](/uploads/user-manual/1-user-manual.png "1 User Manual")
- 
-
 # 1.0	GENERAL INFORMATION
 
 ## 1.1	Objective of the Document
@@ -27,8 +24,6 @@ Among main functionalities we have:
 * Delete a suggestion. 
 * Answer a suggestion.
 * Create a new user.
-
-![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")
 
 # 2.	User Manual	
 ## 2.1.	Home Screen
