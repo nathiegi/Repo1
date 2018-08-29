@@ -94,7 +94,7 @@ d) View personal Kardex.
 4. Click in the "Submit" button to save your changes, then a message is displayed notifying that the change was made. 
 5. Press the "OK" button, then the message disappears and your current phone number is displayed.
 
-##### d. <i>See Kardex</i>
+##### d. <i>**See Kardex**</i>
 1. Go to Profile. 
 2. At the bottom left of the overview of your profile, there is a link called "See Kardex", which will take you to the Kardex View. 
 3. In view of Kardex personal information is as follows: 
