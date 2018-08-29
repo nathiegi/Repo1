@@ -147,4 +147,14 @@ d) View personal Kardex.
 
 <i> **c. Start Date:**</i> Indicates the date in which initiates its absence.
 <i> **d. End Date:**</i> Indicates the end date of your absence. 
-<i> **e. Reason:**</i> In this section, you can add a brief comment explaining the reason for your absence request 
+<i> **e. Reason:**</i> In this section, you can add a brief comment explaining the reason for your absence request.
+
+4. Select the main reason for requesting permission absence. 
+5. Select the time period that would last his absence on the day. 
+6. Enter the start date of your absence. 
+7. Enter the end date of your absence. 
+8. Enter a brief additional comment. 
+9. This section is information about vacation days that correspond to the employee for the years of service that brings in business and vacation days that you still have available to take. 
+10. Finally, select the "Create" option for sending the request will be waiting until one or more supervisors respond. Below is a list of all requests sent separate sections according to the state of their response is.
+
+**NOTE:** The request will be sent to one or more of your supervisors (depending on the number of days requested) for approval. 
