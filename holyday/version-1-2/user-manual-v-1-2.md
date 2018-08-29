@@ -63,4 +63,4 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 
 ## 3.2. USER ROLE
 ### 3.2.1. Profile item
-> View profile 
+#### a. View profile 
