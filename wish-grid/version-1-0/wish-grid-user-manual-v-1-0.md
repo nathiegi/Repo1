@@ -111,25 +111,25 @@ Once the correct data is entered in the Login, the application will show you the
 ![Illustration 1 11 Users Menu](/uploads/wish-grid/illustration-1-11-users-menu.jpg "Illustration 1 11 Users Menu")
 *Illustration 1.11 – User’s menu*
 
-#### **2.5.3.1.	About**
+**2.5.3.1.	About**
 It shows a brief information of the company and some basic data.
 
 ![Illustration 1 12 About](/uploads/wish-grid/illustration-1-12-about.jpg "Illustration 1 12 About")
 *Illustration 1.12 – About*
 
-#### **2.5.3.2.	Change Password**
+**2.5.3.2.	Change Password**
 Allows the change of the current password.
 ![Illustration 1 11 Change Password](/uploads/wish-grid/illustration-1-11-change-password.jpg "Illustration 1 11 Change Password")
 * Change password*
 
 When you save the new password, you will be redirected to the login, you must enter the new password.
 
-#### **2.5.3.3.	Logout**
+ **2.5.3.3.	Logout**
 Clicking on logout will redirected you to the login dialog.
 
 
 
-### 3.5.4.	Creation of Suggestions
+### 2.5.4.	Creation of Suggestions
 (d)	In this area you can create a new suggestion, enter the suggestion title and then its description, you will have next options:
 •	Save, to save the suggestion.
 •	Delete, to clean the data entered in both, title and description.
