@@ -127,6 +127,8 @@ When you save the new password, you will be redirected to the login, you must en
 #### **2.5.3.3.	Logout**
 Clicking on logout will redirected you to the login dialog.
 
+
+
 ### 3.5.4.	Creation of Suggestions
 (d)	In this area you can create a new suggestion, enter the suggestion title and then its description, you will have next options:
 •	Save, to save the suggestion.
