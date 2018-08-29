@@ -177,7 +177,7 @@ Like the user, the moderator can perform the actions in WishGrid mentioned in po
 ## 3.1. Moderation for new suggestion and Change of Status
 After the user creates a suggestion, the moderator will receive a notification by email with the explanation and the link of the new suggestion.
 ![Illustration 1 20 Email New Suggestion Was Created](/uploads/wish-grid/illustration-1-20-email-new-suggestion-was-created.jpg "Illustration 1 20 Email New Suggestion Was Created")
-Illustration 1.20 – Email, New Suggestion was created
+*Illustration 1.20 – Email, New Suggestion was created*
 
 When you create a suggestion, the application takes you to the detail, where you can approve it or reject it (the suggestion will not appear in the list until it is approved or rejected).
 
