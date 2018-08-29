@@ -176,6 +176,99 @@ Note: If the administrator designates you as the moderator of WishGrid, you will
 ![Illustration 1 19 Email Assigned Moderator](/uploads/wish-grid/illustration-1-19-email-assigned-moderator.jpg "Illustration 1 19 Email Assigned Moderator")
 *Illustration 1.19 – Email, Assigned Moderator*
 
+# 3.0	Moderator´s Manual
+Like the user, the moderator can perform the actions in WishGrid mentioned in point 3.
+
+After the user creates a suggestion, the moderator will receive a notification by email with the explanation and the link of the new suggestion.
+
+
+
+
+
+
+Illustration 1.20 – Email, New Suggestion was created
+
+When you create a suggestion, the application takes you to the detail, where you can approve it or reject it (the suggestion will not appear in the list until it is approved or rejected).
+
+The new suggestion is initialized with the state "New". 
+The moderator selects the state of the suggestion, there are two possible states: "Suggested" and "Rejected".
+
+
+
+
+
+Illustration 1.21 –Status Suggestion
+
+When selecting the suggested status, the system will display a dialog box to confirm that the status has changed and also will notify that the suggestion will be displayed in the suggestion list.
+
+
+
+
+
+
+
+
+Illustration 1.22 – Warning, Change status
+
+
+If you select the status "Rejected".
+
+
+
+
+
+
+
+
+Illustration 1.23 – Status Suggestion
+
+The system will display a dialog to confirm the action. And the suggestion will not appear in the suggestion list
+
+
+
+
+
+
+
+
+Illustration 1.24 – Warning, Change status
+Note: The moderator's suggestion list view is different to the user's view.
+
+
+
+
+
+
+
+
+
+
+Illustration 1.25 – List Suggestion
+
+
+4.	Administrator´s Manual
+
+The administrator performs same actions that moderators and users do, but in addition to those he also does the following.
+
+4.1.	Asign moderator to user
+The administrator has the option to designate moderators so that they can approve the suggestions made by the users.
+
+
+
+
+
+
+
+Illustration 1.26 – Assigned Moderator
+
+Once the administrator has designated a user as a moderator, by checking in the moderator column, an email is sent with the notification of the designation, (Illustration 1,19).
+
+4.2.	Replies
+
+Only the administrator can respond or comment a user suggestion, so the user can have a feedback from administration.
+
+ 
+Illustration 1.27 – Replies
 
 
 
