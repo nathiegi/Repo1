@@ -144,3 +144,7 @@ d) View personal Kardex.
 *i. A.M:* Absence throughout the morning (within their working hours). 
 *ii. P.M:* Absence throughout the afternoon (within their working hours). 
 *iii. FULL TIME:* Absence all day (within their working hours). 
+
+<i>**c. Start Date: Indicates the date in which initiates its absence. **</i>
+<i>**d. End Date: Indicates the end date of your absence. **</i>
+<i>**e. Reason: In this section, you can add a brief comment explaining the reason for your absence request **</i>
