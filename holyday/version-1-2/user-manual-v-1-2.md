@@ -99,18 +99,18 @@ d) View personal Kardex.
 2. At the bottom left of the overview of your profile, there is a link called "See Kardex", which will take you to the Kardex View. 
 3. In view of Kardex personal information is as follows: 
 
-	> a. From: Start date from vacations taken. 
-	> b. to: End data from vacations taken. 
-	> c. Vacation: Total of Days taken. 
-	> d. Company hours: Hours in debt from the employee to the company. 
-	> e. Employee hours: Registration hours for the employee for work performed in the company outside working hours. 
-	> f. Delays: History of delays in a given period of time. 
-	> g. Type: Shows the main reason for registration(for holidays, delays, etc). 
-	> h. Comment: Displays the comment made in the recording of information. 
-	> i. General Information: This section shows the following: 
-	> - Vacation days that correspond to the employee for years of service in the company. 
-	> - Vacations available. 
-	> - Vacation days taken. 
-	> - The number of hours accumulated in favor of the employee. 
-	> - The cumulative number of hours that the employee owes the company. 
-	> - Delays accumulated.
+> a. From: Start date from vacations taken. 
+> b. to: End data from vacations taken. 
+> c. Vacation: Total of Days taken. 
+> d. Company hours: Hours in debt from the employee to the company. 
+> e. Employee hours: Registration hours for the employee for work performed in the company outside working hours. 
+> f. Delays: History of delays in a given period of time. 
+> g. Type: Shows the main reason for registration(for holidays, delays, etc). 
+> h. Comment: Displays the comment made in the recording of information. 
+> i. General Information: This section shows the following: 
+> - Vacation days that correspond to the employee for years of service in the company. 
+> - Vacations available. 
+> - Vacation days taken. 
+> - The number of hours accumulated in favor of the employee. 
+> - The cumulative number of hours that the employee owes the company. 
+> - Delays accumulated.
