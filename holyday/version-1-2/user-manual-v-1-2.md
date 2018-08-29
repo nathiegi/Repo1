@@ -114,3 +114,20 @@ d) View personal Kardex.
 > - The number of hours accumulated in favor of the employee. 
 > - The cumulative number of hours that the employee owes the company. 
 > - Delays accumulated.
+
+### Item Request
+#### “New Request” Section.
+##### **Send absence request**
+1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
+2. Select "Time Off" option, then the form with the required fields for recording the request is displayed. 
+3. The form contains the following fields: 
+
+> <i>a. **Reason of Request:**</i> Indicates the main reason why you are requesting permission to be absent from work, there are special cases of kinds of reasons that are unique to a particular genre according to law (Male and Female) and permissions that are accessible to all workers of the company : 
+> <i>i. Types of permits for workers:</i>
+> Vacation: Holiday that correspond to the number of years of service in leading the company. 
+> illnes: Because of disease presentation document on medical leave granted health insurance to which the worker is affiliated by the company. 
+> Training: By training authorized by the company. 
+> * Assistence to children: special license for all mothers, parents, guardians and responsible company workers who have children under twelve (12) years requiring personal attention because of a serious accident or serious illness. 
+> By Mourning: Due to the death of a spouse, parents, siblings or children (3 days). 
+> Marriage: By marriage. 
+> Appoitment of citizen judge: 
