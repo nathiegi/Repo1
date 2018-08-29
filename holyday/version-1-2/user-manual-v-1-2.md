@@ -359,3 +359,90 @@ In addition, if the reques had been approved, the corresponding update is perfor
 ## 3.3. ADMINISTRATOR ROLE
 ### 3.3.1. Organization Item.
 #### **3.3.1.1. Add area.**
+*1)* Pull down the menu and select the "Organization" option, then the "Add" and "View" options are displayed. 
+*2)* Select the option "Add", then the options "Area" and "Position" are displayed. 
+*3)* Select the "Area" option, then the form is displayed with the following fields: 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+*4)* In the registration form "Area" can enter the following information: 
+
+ **i. Area:** The name you want to have the area to be registered. 
+ **ii. Description:** Brief description or comment area being recorded. 
+
+*5)* Enter the area name. 
+*6)* Enter a description of the area to register. 
+*7)* Select the "Create" option to save your changes, then the general list of areas and positions already created is displayed. 
+*8)* If you do not want to proceed with the registration you can select the option "Back to List" that redirects to the general list of areas and positions already created. 
+
+#### **3.3.1.2. Add Position.**
+
+![](/uploads/user-manual/1-user-manual.png) 
+![](/uploads/user-manual/1-user-manual.png) 
+
+*1)* Pull down the menu and select the "Organization" option, then the "Add" and "View" options are displayed. 
+*2)* Select the option "Add", then the options "Area" and "Position" are displayed. 
+*3)* Select the "Position", then the form is displayed for the corresponding record. 
+*4)* In the registration form you can find the following information:
+
+ **i. Position:** The name of the position you want to register. 
+ **ii. Description:** A brief description of the position being recorded, whether their functions or other description. 
+ **iii. Area:** It displays a list of all the areas to which you can assign the position to register. 
+ 
+*5)* Enter the name of the position to register. 
+*6)* Enter a brief description or comment about the position you are recording. 
+*7)* Select the area to which it belongs position to register. 
+*8)* Select the "Create" option to save your changes, and then redirected to the list of areas and positions already created. 
+*9)* If you do not want to proceed with the registration you can select the "Go back" option to go to the general list of interests and positions. 
+
+#### **3.3.1.3. See Areas and Positions.**
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+*1)* Pull down the menu and select the "Organization", then the options "Add" and "View" option unfold. 
+*2)* Select the "View" option, then the general list of areas and created positions shown. 
+*3)* In the general list is the following: 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+*a)* This option redirects the creation form Areas. 
+*b)* From here you can go to the form creating a new position. 
+*c)* Indicates the area name. 
+*d)* This option allows you to edit the area. 
+*e)* This option allows you to remove the area. 
+*f)* This option displays a list of the positions within the specific area. 
+*g)* List all positions belonging to the specific area. 
+*h)* Position title: Displays the name of the positions associated with the area. 
+*i)* description: Shows the description of each recorded position. 
+*j)* This option allows you to edit a specific position. 
+*k)* It allows to elimnate the position in which it is located.
+
+#### **3.3.1.4. Edit area.**
+To edit information for an area you need to follow the following steps: 
+1. Go to the general list of areas and positions (Consult See Areas and Positions).
+2. Once you are in the general list of areas and positions, select the pencil icon in the area you want to edit information. Then the form is displayed to edit the information of the corresponding area.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+3. Enter the name of the area you want to change the information. 
+4. Enter the description for which you want to change the information. 
+5. Select the "Save" option to save your changes. Then redirected to the general list of areas and positions. 
+6. If you do not want to make any changes you can select the "Go back" option to return to the general list of areas and positions.
+
+#### **3.3.1.5. Edit Positions.**
+To edit information for a position you need to follow the following steps: 
+1. Go to the general list of areas and positions (Consult See Areas and Positions). 
+2. Once you are in the general list of areas and positions locate the area where you find the position you want to edit information.
+3. Select the "Show Position" option to view the list of positions that are within the area. Below is a list of all deployed positions.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+4. In the deployed position refer to the position you want to edit information and select the icon of a pencil, then redirected to the appropriate form list. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+5. The form is displayed to edit information with all relevant fields. 
+6. Enter the information you want to change the name of the position. 
+7. In the "Description" section enter the information you want displayed. 
+8. In the displayed list select the area you want that is associated with the position you are editing the information. 
+9. Select the "Save" option to save your changes. Then redirected to the general list of areas and positions already created. 
