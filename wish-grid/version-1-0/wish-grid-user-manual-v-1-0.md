@@ -17,7 +17,7 @@
 ## 1.1	Objective of the Document
 This document is intended to show how to use WishGrid application, that is how to create user suggestions and change the workflow of them.
 ## 1.2	Objective of the Software
-WishGgrid is a software in which people can make suggestions of a company service and the registered community can vote for that suggestion, so the company can have a feedback of their users.
+WishGrid is a software in which people can make suggestions of a company service and the registered community can vote for that suggestion, so the company can have a feedback of their users.
 ## 1.3.	Main Functions
 Among main functionalities we have:
 * Creation of suggestions.
@@ -36,6 +36,7 @@ The initial screen shows the list of all suggestions that were created by the us
 If you didn’t create any suggestion, the initial screen will show the message “No results were found”.
 
 ![Illustration 1 1 Initial Screen With Suggestions](/uploads/wish-grid/illustration-1-1-initial-screen-with-suggestions.png "Illustration 1 1 Initial Screen With Suggestions")
+***Illustration 1.1 – Initial screen (with suggestions)***
 Note: The user can navigate through the entire application, see list of suggestions, suggestion details and search suggestions.
 ## 2.2.	Login Screen
 The login screen will be displayed when two actions are executed in the "Start Screen", (Illustration 1.1):
@@ -43,7 +44,18 @@ a)	Click on the login button
 b)	Click on the vote icon  
 	And it will show you the following screen:
 	
+![Illustration 1 2 Login](/uploads/wish-grid/illustration-1-2-login.png "Illustration 1 2 Login")
+***Illustration 1.2 – Login***
+Enter a valid user name and password to be able to access the WishGrid application.
 
+
+
+***Illustration 1.3 – Filed to login***
+
+## 2.3.	 Create User
+If you don’t have a user to login to WishGrid, follow next steps: 
+
+### 2.3.1.	At the bottom of the login dialog click on the button that says “Create One”.
 
 
 
