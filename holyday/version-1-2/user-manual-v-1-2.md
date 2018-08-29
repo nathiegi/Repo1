@@ -115,8 +115,8 @@ d) View personal Kardex.
 > - The cumulative number of hours that the employee owes the company. 
 > - Delays accumulated.
 
-### Item Request
-#### “New Request” Section.
+### 3.2.2. Item Request
+#### **3.2.2.1. “New Request” Section.**
 ##### **Send absence request**
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select "Time Off" option, then the form with the required fields for recording the request is displayed. 
