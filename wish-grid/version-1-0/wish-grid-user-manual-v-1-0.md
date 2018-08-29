@@ -25,7 +25,7 @@ Among main functionalities we have:
 * Answer a suggestion.
 * Create a new user.
 
-# 2. User Manual	
+# 2.0 User Manual	
 ## 2.1.	Home Screen
 The initial screen shows the list of all suggestions that were created by the users.
 If you didn’t create any suggestion, the initial screen will show the message “No results were found”.
