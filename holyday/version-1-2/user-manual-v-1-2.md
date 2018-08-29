@@ -354,4 +354,6 @@ Once the request has received the necessary number of answers in relation to the
 	- Supervisor(s) of the requester. 
 	- Users authorized to manage permissions. 
 
-In addition, if the reques had been approved, the corresponding update is performed Kardex affected. 
+In addition, if the reques had been approved, the corresponding update is performed Kardex affected.
+
+## 3.3. ADMINISTRATOR ROLE
