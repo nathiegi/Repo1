@@ -176,3 +176,16 @@ d) View personal Kardex.
 9. Select the "Create" option to send the request to the selected supervisor. Then, all sent requests are shown organized by their response status. 
 
 #### **3.2.2.2. "My Request" Section.**
+For sending requests must perform the following steps: 
+1. Enter the "Request" drop down menu, then options option "New Request" and "My Request" is. 
+2. Select the "New Request", then options "Time Off" is displayed and "Hour to favor". 
+3. Select the "My Request". Then, all sent requests are shown organized by their response status. . 
+4. This section lists all requests sent separated by the response status.
+
+**i. Accepted.**
+This section contains all the applications submitted which were accepted.
+*a)* It indicates the amount of data you want to see. 
+*b)* Indicates the date when the request was made. 
+*c)* Indicates the date of approval of the application. 
+*d)* It shows the comment that your supervisor sent you when your request was confirmed. 
+*e)* From this section you can access to see your request details. 
