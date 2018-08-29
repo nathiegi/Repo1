@@ -25,7 +25,7 @@ Among main functionalities we have:
 * Answer a suggestion.
 * Create a new user.
 
-# 2.	User Manual	
+# 2. User Manual	
 ## 2.1.	Home Screen
 The initial screen shows the list of all suggestions that were created by the users.
 If you didn’t create any suggestion, the initial screen will show the message “No results were found”.
@@ -41,10 +41,10 @@ b)	Click on the vote icon
 	
 ![Illustration 1 2 Login](/uploads/wish-grid/illustration-1-2-login.png "Illustration 1 2 Login")
 ***Illustration 1.2 – Login***
+
 Enter a valid user name and password to be able to access the WishGrid application.
 
-
-
+![Illustration 1 3 Failed To Login](/uploads/wish-grid/illustration-1-3-failed-to-login.png "Illustration 1 3 Failed To Login")
 ***Illustration 1.3 – Failed to login***
 
 ## 2.3.	 Create User
