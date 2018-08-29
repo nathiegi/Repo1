@@ -122,7 +122,7 @@ d) View personal Kardex.
 2. Select "Time Off" option, then the form with the required fields for recording the request is displayed. 
 3. The form contains the following fields: 
 
-<i>**> a. Reason of Request:**</i> Indicates the main reason why you are requesting permission to be absent from work, there are special cases of kinds of reasons that are unique to a particular genre according to law (Male and Female) and permissions that are accessible to all workers of the company : 
+> <i>**a. Reason of Request:**</i> Indicates the main reason why you are requesting permission to be absent from work, there are special cases of kinds of reasons that are unique to a particular genre according to law (Male and Female) and permissions that are accessible to all workers of the company : 
 > <i>i. Types of permits for workers:</i>
 > * Vacation: Holiday that correspond to the number of years of service in leading the company. 
 > * illnes: Because of disease presentation document on medical leave granted health insurance to which the worker is affiliated by the company. 
