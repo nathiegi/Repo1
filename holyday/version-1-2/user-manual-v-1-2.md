@@ -127,7 +127,7 @@ d) View personal Kardex.
 > Vacation: Holiday that correspond to the number of years of service in leading the company. 
 > illnes: Because of disease presentation document on medical leave granted health insurance to which the worker is affiliated by the company. 
 > Training: By training authorized by the company. 
-> * Assistence to children: special license for all mothers, parents, guardians and responsible company workers who have children under twelve (12) years requiring personal attention because of a serious accident or serious illness. 
+> *Assistence to children: special license for all mothers, parents, guardians and responsible company workers who have children under twelve (12) years requiring personal attention because of a serious accident or serious illness. 
 > By Mourning: Due to the death of a spouse, parents, siblings or children (3 days). 
 > Marriage: By marriage. 
 > Appoitment of citizen judge: 
