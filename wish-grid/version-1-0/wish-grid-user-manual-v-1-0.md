@@ -224,6 +224,17 @@ Only the administrator can respond or comment a user suggestion, so the user can
 ![Illustration 1 27 Replies](/uploads/wish-grid/illustration-1-27-replies.jpg "Illustration 1 27 Replies")
 *Illustration 1.27 – Replies*
 
+# 5.0 POINTS OF CONTACTS
+> **MegadeV Team:** (wishgrid@googlegroups.com)
+> Miguel Castedo (mcastedo@info-arch.com)
+> Nathalie Guzmán I. (nguzman@info-arch.com)
+> Oscar Laura (olaura@info-arch.com)
+> Oscar Soliz (osoliz@info-arch.com)
+> Richard Arteaga (rarteaga@info-arch.com)
+> Wilber Padilla (wpadilla@info-arch.com)
+
+
+
 
 
 
