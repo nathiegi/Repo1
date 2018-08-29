@@ -71,7 +71,7 @@ b) Change password of the user account.
 c) Change the phone number. 
 d) View personal Kardex. 
 
-##### a.* **Edit personal email** *
+##### a.**<i>Edit personal email</i>**
 1. Go to Profile. 
 2. Select the "Edit" option from the "Personal Email" section. 
 3. Enter your new mail. 
