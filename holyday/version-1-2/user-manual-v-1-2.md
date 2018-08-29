@@ -199,3 +199,19 @@ This section contains all the requests sent that are waiting for a response or s
 *5)* Shows a confirm view to delete your request.
 
 **iii.  Denied.**
+This section shows the requests denied by your supervisor(s).
+*a)* Indicates the date when the request was made. 
+*b)* Displays the name of the employee who sent the request. 
+*c)* The date the request was denied. 
+*d)* It shows the comment that your supervisor sent you when your request was denied. 
+*e)* From this section you can access to see your request details. 
+
+**iv Request Detail.**
+To see the Details of your Request you need to: 
+*1)* Open the menu. 
+*2)* Select the "Request" option. 
+*3)* Select the "My Request" option. Then, all sent requests are shown organized by their response status.  
+*4)* To access to the request details, you can select the "Details" in "Denied", "Waiting" or "Accepted" sections.  
+*5)* Once you have selected the request to see the details, the form will be displayed.
+*6)* Select the "Go back" option to return to the list of all requests sent.
+
