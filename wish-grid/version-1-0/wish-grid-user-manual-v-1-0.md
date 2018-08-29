@@ -93,6 +93,116 @@ If you forget your password WishGrid gives you the option to recover it.
 ***Illustration 1.9 – Verification code***
 
 
+3.5.	Initiated Session
+Once the correct data is entered in the Login, the application will show you the following screen:
+ 
+
+Illustration 1.10 – Screen home WishGrid
+
+3.5.1.	Go to the List of Suggestion
+(a)	By clicking on the icon  , you will be redirected to the list of all WishGrid suggestions.
+
+3.5.2.	Customer’s Main Page
+(b)	The icon of the company will be shown at the center of the navbar, clicking on it will take you to the main page of the company.
+
+3.5.3.	User Menu
+(c)	It shows the authenticated user and the user’s menu, If the authenticated user is a moderator or a normal user, the menu will display the following options:
+
+
+
+
+Illustration 1.11 – User’s menu
+
+3.5.3.1.	About
+It shows a brief information of the company and some basic data.
+
+
+
+
+
+
+
+
+Illustration 1.12 – About
+
+3.5.3.2.	Change Password
+Allows the change of the current password.
+
+		
+
+
+
+
+
+
+Illustration 1.11 – Change password
+
+When you save the new password, you will be redirected to the login, you must enter the new password.
+
+3.5.3.3.	Logout
+Clicking on logout will redirected you to the login dialog.
+3.5.4.	Creation of Suggestions
+(d)	In this area you can create a new suggestion, enter the suggestion title and then its description, you will have next options:
+•	Save, to save the suggestion.
+•	Delete, to clean the data entered in both, title and description.
+•	Cancel, this button will only be shown in mobile view, which will redirect you to the suggestions list.
+
+
+
+
+
+
+
+
+
+
+Illustration 1.12 – Create suggestion (Web and Mobile)
+
+Once the suggestion is created, it will show you next message: 
+
+
+
+
+
+
+
+Illustration 1.13 – Dialogue, Suggestion created
+
+An email will be sent when the suggestion is approved, the email will notify that the suggestion was accepted and will have a link to the suggestion.
+
+
+
+
+
+
+
+Illustration 1.14 –Email, Suggestion Accepted
+
+3.5.5.	Search by title and/or description 
+(e)	Enter a text that you expect to find in a title or description.
+
+
+
+
+
+
+Illustration 1.15 – Search by title suggestion
+
+3.5.6.	Search by status 
+(f)	Select the state to filter the suggestions list.
+
+
+
+
+
+
+
+
+
+Illustration 1.16 – Search by status
+
+3.5.7.	Suggestion List
+(g)	Lists all of the suggestions that were accepted by the administrator or one of the moderators, next image shows a mobile view of this.
 
 
 
@@ -105,36 +215,35 @@ If you forget your password WishGrid gives you the option to recover it.
 
 
 
+Illustration 1.17 – Suggestion list (Mode Mobile)
+
+3.5.8.	Vote
+(h)	When the suggestions are accepted you can only vote once for any of them, initially the vote icon will appear in lead color, once it’s clicked the icon turns into green and you can remove your vote by clicking on it once again.
 
 
 
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample
+
+Illustration 1.18 – Vote, Cancelled and Successful
+
+3.5.9.	Share WishGrid
+
+(i)	As a user I want to be able to share with the community the list of suggestions or an specific suggestion
+Copy the suggestion link to share.
+Share the suggestion on Facebook.
 
 
-## 2.2	Software Roles
-
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here same
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample
-sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
-
-## 2.3	Functionality
-
-### Feauture 1
-
-sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
-
-### Feauture 2
-
-sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
-
-### Feauture n
-sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+Note: If the administrator designates you as the moderator of WishGrid, you will receive an email notification:
 
 
-![2 User Manual](/uploads/user-manual/2-user-manual.png "2 User Manual")3
-# 3.0 POINTS OF CONTACTS
 
-Sample Text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample text here sample 
+
+
+
+
+Illustration 1.19 – Email, Assigned Moderator
+
+
+
+
 
 
