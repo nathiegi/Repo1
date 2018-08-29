@@ -120,7 +120,7 @@ It shows a brief information of the company and some basic data.
 **Change Password**
 Allows the change of the current password.
 ![Illustration 1 11 Change Password](/uploads/wish-grid/illustration-1-11-change-password.jpg "Illustration 1 11 Change Password")
-* Change password*
+*Change password*
 
 When you save the new password, you will be redirected to the login, you must enter the new password.
 
@@ -134,60 +134,27 @@ Clicking on logout will redirected you to the login dialog.
 •	Save, to save the suggestion.
 •	Delete, to clean the data entered in both, title and description.
 •	Cancel, this button will only be shown in mobile view, which will redirect you to the suggestions list.
+![Illustration 1 12 Create Suggestion Web And Mobile](/uploads/wish-grid/illustration-1-12-create-suggestion-web-and-mobile.jpg "Illustration 1 12 Create Suggestion Web And Mobile")
+*Illustration 1.12 – Create suggestion (Web and Mobile)*
 
-
-
-
-
-
-
-
-
-
-Illustration 1.12 – Create suggestion (Web and Mobile)
 
 Once the suggestion is created, it will show you next message: 
 
-
-
-
-
-
-
-Illustration 1.13 – Dialogue, Suggestion created
+![Illustration 1 13 Dialogue Suggestion Created](/uploads/wish-grid/illustration-1-13-dialogue-suggestion-created.jpg "Illustration 1 13 Dialogue Suggestion Created")
+*Illustration 1.13 – Dialogue, Suggestion created*
 
 An email will be sent when the suggestion is approved, the email will notify that the suggestion was accepted and will have a link to the suggestion.
+![Illustration 1 14 Email Suggestion Accepted](/uploads/wish-grid/illustration-1-14-email-suggestion-accepted.jpg "Illustration 1 14 Email Suggestion Accepted")
+*Illustration 1.14 –Email, Suggestion Accepted*
 
-
-
-
-
-
-
-Illustration 1.14 –Email, Suggestion Accepted
-
-3.5.5.	Search by title and/or description 
+### 2.5.5.	Search by title and/or description 
 (e)	Enter a text that you expect to find in a title or description.
+![Illustration 1 15 Search By Title Suggestion](/uploads/wish-grid/illustration-1-15-search-by-title-suggestion.jpg "Illustration 1 15 Search By Title Suggestion")
+*Illustration 1.15 – Search by title suggestion*
 
-
-
-
-
-
-Illustration 1.15 – Search by title suggestion
-
-3.5.6.	Search by status 
+### 2.5.6.	Search by status 
 (f)	Select the state to filter the suggestions list.
-
-
-
-
-
-
-
-
-
-Illustration 1.16 – Search by status
+> Illustration 1.16 – Search by status
 
 3.5.7.	Suggestion List
 (g)	Lists all of the suggestions that were accepted by the administrator or one of the moderators, next image shows a mobile view of this.
