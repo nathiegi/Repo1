@@ -93,55 +93,41 @@ If you forget your password WishGrid gives you the option to recover it.
 ***Illustration 1.9 – Verification code***
 
 
-3.5.	Initiated Session
+## 2.5.	Initiated Session
 Once the correct data is entered in the Login, the application will show you the following screen:
  
+![Illustration 1 10 Screen Home Wishgrid](/uploads/wish-grid/illustration-1-10-screen-home-wishgrid.jpg "Illustration 1 10 Screen Home Wishgrid")
+***Illustration 1.10 – Screen home WishGrid***
 
-Illustration 1.10 – Screen home WishGrid
+### 2.5.1.	Go to the List of Suggestion
+(a)	By clicking on the icon ![Icon](/uploads/wish-grid/icon.png "Icon") , you will be redirected to the list of all WishGrid suggestions.
 
-3.5.1.	Go to the List of Suggestion
-(a)	By clicking on the icon  , you will be redirected to the list of all WishGrid suggestions.
-
-3.5.2.	Customer’s Main Page
+### 3.5.2.	Customer’s Main Page
 (b)	The icon of the company will be shown at the center of the navbar, clicking on it will take you to the main page of the company.
 
-3.5.3.	User Menu
+### 2.5.3.	User Menu
 (c)	It shows the authenticated user and the user’s menu, If the authenticated user is a moderator or a normal user, the menu will display the following options:
 
+![Illustration 1 11 Users Menu](/uploads/wish-grid/illustration-1-11-users-menu.jpg "Illustration 1 11 Users Menu")
+***Illustration 1.11 – User’s menu***
 
-
-
-Illustration 1.11 – User’s menu
-
-3.5.3.1.	About
+#### 2.5.3.1.	About
 It shows a brief information of the company and some basic data.
 
+![Illustration 1 12 About](/uploads/wish-grid/illustration-1-12-about.jpg "Illustration 1 12 About")
+***Illustration 1.12 – About***
 
-
-
-
-
-
-
-Illustration 1.12 – About
-
-3.5.3.2.	Change Password
+#### 2.5.3.2.	Change Password
 Allows the change of the current password.
-
-		
-
-
-
-
-
-
-Illustration 1.11 – Change password
+![Illustration 1 11 Change Password](/uploads/wish-grid/illustration-1-11-change-password.jpg "Illustration 1 11 Change Password")
+*** Change password***
 
 When you save the new password, you will be redirected to the login, you must enter the new password.
 
-3.5.3.3.	Logout
+#### 2.5.3.3.	Logout
 Clicking on logout will redirected you to the login dialog.
-3.5.4.	Creation of Suggestions
+
+### 3.5.4.	Creation of Suggestions
 (d)	In this area you can create a new suggestion, enter the suggestion title and then its description, you will have next options:
 •	Save, to save the suggestion.
 •	Delete, to clean the data entered in both, title and description.
