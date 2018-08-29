@@ -20,3 +20,6 @@ Facilitate the process of requests for absences, provide a better way to manage 
 * Administrator
 * Supervisor
 * User
+
+## 2.3    FUNCTIONALITY
+
