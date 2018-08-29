@@ -21,9 +21,8 @@ Facilitate the process of requests for absences, provide a better way to manage 
 * Supervisor
 * User
 
-## 2.3    FUNCTIONALITY
-### 2.3.1. Application modules
-#### User Role.
+## 2.3    APPLICATION MODULES
+### User Role.
 1. This option will take you to the home page, where the user can see general information about the system and the company.  
 2. This option shows information about the employee in session.  
 3. This option displays two more options, these are "New request" and "My request" 
@@ -34,7 +33,7 @@ Facilitate the process of requests for absences, provide a better way to manage 
 4. If the user clicks on the option 'Configuration', you will see the parameters necessary to request the anticipated vacations and the discount parameters for the holidays due to delays. 
 5. If the user clicks on the 'Log out' option, the session will end.
 
-#### Supervisor Role.
+### Supervisor Role.
 1. This option will take you to the home page, where the user can see general information about the system and the company 
 2. This option shows information about the employee in session. 
 3. If the user clicks on “Request” option, “New Request”, “My Request” and “Team Request” will be displayed. 
@@ -44,4 +43,13 @@ Facilitate the process of requests for absences, provide a better way to manage 
 4. If the user clicks on the option 'Configuration', you will see the parameters necessary to request the anticipated vacations and the discount parameters for the holidays due to delays. 
 5. If the user clicks on the 'Log out' option, the session will end. 
 
-#### Administrator Role. 
+### Administrator Role.
+1. This option will take you to the home page, where the user can see general information about the system and the company 
+2. This option shows information about the employee in session. 
+3. From the item 'Organization' you will be able to view and manage areas and positions of the company. 
+4. From the item 'Employee' will be able to view, create and edit employee information, users and their work schedules. 
+5. From the item 'Team' is able to manage information regarding the equipment in the company. 
+6. From the item 'Request' the user can submit leave requests, view their own requests and can manage applications monitored by whether the case existed. 
+7. From the item 'Configuration' you can manage parameters. 
+8. From the item 'Roles & Permissions' you can manage roles and permissions. 
+9. If the user clicks on the 'Log out' option, the session will end. 
