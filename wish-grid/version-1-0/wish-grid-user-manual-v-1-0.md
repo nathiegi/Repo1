@@ -25,8 +25,7 @@ Among main functionalities we have:
 ## 2.1.	Home Screen
 The initial screen shows the list of all suggestions that were created by the users.
 If you didn’t create any suggestion, the initial screen will show the message “No results were found”.
-
-![Illustration 1 1 Initial Screen With Suggestions](/uploads/wish-grid/WG-MU-V02-illustration-1-1-initial-screen-with-suggestions.png "Illustration 1 1 Initial Screen With Suggestions")
+![Wg Mu V 02 Illustration 1 1 Initial Screen With Suggestions](/uploads/wish-grid/wg-mu-v-02-illustration-1-1-initial-screen-with-suggestions.png "Wg Mu V 02 Illustration 1 1 Initial Screen With Suggestions")
 *Illustration 1.1 – Initial screen (with suggestions)*
 Note: The user can navigate through the entire application, see list of suggestions, suggestion details and search suggestions.
 ## 2.2.	Login Screen
