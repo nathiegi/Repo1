@@ -63,7 +63,7 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 
 ## 3.2. USER ROLE
 ### 3.2.1. Profile item
-#### 3.2.1.1. View profile
+#### **3.2.1.1. View profile**
 1. Pull down the menu and select the Item Profile. 
 2. Then your information is displayed in the Profile view the options: 
 a) Edit personal mail. 
@@ -71,14 +71,14 @@ b) Change password of the user account.
 c) Change the phone number. 
 d) View personal Kardex. 
 
-##### a. Edit personal email
+##### a. **Edit personal email**
 1. Go to Profile. 
 2. Select the "Edit" option from the "Personal Email" section. 
 3. Enter your new mail. 
 4. Press the "Send" button to change email. 
 5. A message confirming your changes will be displayed, to continue, press the OK button.
 
-##### b. Change Password
+##### b. **Change Password**
 1. Go to Profile. 
 2. Select the option "Click here to change your password" from the "Account Password" section. Then a text field and the options "Submit" and "Cancel" is displayed. 
 3. Enter your current password in that field. 
