@@ -357,3 +357,5 @@ Once the request has received the necessary number of answers in relation to the
 In addition, if the reques had been approved, the corresponding update is performed Kardex affected.
 
 ## 3.3. ADMINISTRATOR ROLE
+### 3.3.1. Organization Item.
+#### **3.3.1.1. Add area.**
