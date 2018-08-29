@@ -223,4 +223,15 @@ To edit the information of the submitted request, you must perform the following
 *4)* In the "Waiting" section select the "Edit" option of the request you want to edit the information.
 *5)* Then the form is displayed to edit the information of the request as a record of "Time Off" or a record of "Hour to favor".
 
-> **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these. 
+> **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these.
+
+**vi. Delete a Request.**
+To delete a request you must perform the following steps: 
+*1)* Open the dropdown menu. 
+*2)* Select the "Request" option. 
+*3)* Select the "My Request" option. Then, all sent requests are organized by their response status. 
+*4)* In the "Waiting" section select the "Delete" option of the application you want to delete. 
+*5)* Then the confirmation form shown to remove the application. 
+*6)* Select the "Delete" option to delete the request sent. Here it is redirected to the list of requests sent.
+
+> **NOTE:** You can only delete requests that are in waiting status and only if no supervisor has answered these. 
