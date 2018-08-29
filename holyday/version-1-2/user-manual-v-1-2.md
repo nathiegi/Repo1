@@ -158,3 +158,19 @@ d) View personal Kardex.
 10. Finally, select the "Create" option for sending the request will be waiting until one or more supervisors respond. Below is a list of all requests sent separate sections according to the state of their response is.
 
 **NOTE:** The request will be sent to one or more of your supervisors (depending on the number of days requested) for approval. 
+
+##### **Send request of Hours to favor for the Employee.**
+1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
+2. Select the "Hour to favor", then the form with the required fields for recording the request is displayed.  
+3. The form contains the following fields: 
+	* Supervisor: This section load employee supervisors. 
+	* Start Time: To indicate the starting time of your task. 
+	* Finish Time: To indicate the end time of your task. 
+	* Date of the task: To indicate when the task was performed. 
+	* Task Description: In this section you can make a brief comment about the work done. 
+4. Select which supervisor you want to send the request to, this supervisor must authorize it. 
+5. Enter the starting time of your task. 
+6. Enter the time of completion of your task. 
+7. Enter the date when the task was performed. 
+8. A brief description about the work done. 
+9. Select the "Create" option to send the request to the selected supervisor. Then, all sent requests are shown organized by their response status.  
