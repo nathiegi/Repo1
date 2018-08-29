@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of User Manual V1.2 -->
 
 # HEADER
-(/uploads/user-manual/2-user-manual.png) 
+!(/uploads/user-manual/2-user-manual.png) 
