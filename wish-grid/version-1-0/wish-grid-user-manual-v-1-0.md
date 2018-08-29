@@ -111,20 +111,20 @@ Once the correct data is entered in the Login, the application will show you the
 ![Illustration 1 11 Users Menu](/uploads/wish-grid/illustration-1-11-users-menu.jpg "Illustration 1 11 Users Menu")
 *Illustration 1.11 – User’s menu*
 
-**2.5.3.1.	About**
+**About**
 It shows a brief information of the company and some basic data.
 
 ![Illustration 1 12 About](/uploads/wish-grid/illustration-1-12-about.jpg "Illustration 1 12 About")
 *Illustration 1.12 – About*
 
-**2.5.3.2.	Change Password**
+**Change Password**
 Allows the change of the current password.
 ![Illustration 1 11 Change Password](/uploads/wish-grid/illustration-1-11-change-password.jpg "Illustration 1 11 Change Password")
 * Change password*
 
 When you save the new password, you will be redirected to the login, you must enter the new password.
 
- **2.5.3.3.	Logout**
+ **Logout**
 Clicking on logout will redirected you to the login dialog.
 
 
