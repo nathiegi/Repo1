@@ -63,7 +63,7 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 
 ## 3.2. USER ROLE
 ### 3.2.1. Profile item
-#### a. View profile
+#### 3.2.1.1. View profile
 1. Pull down the menu and select the Item Profile. 
 2. Then your information is displayed in the Profile view the options: 
 a) Edit personal mail. 
