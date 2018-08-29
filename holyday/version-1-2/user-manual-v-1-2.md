@@ -108,9 +108,9 @@ d) View personal Kardex.
 > g. Type: Shows the main reason for registration(for holidays, delays, etc). 
 > h. Comment: Displays the comment made in the recording of information. 
 > i. General Information: This section shows the following: 
-> > - Vacation days that correspond to the employee for years of service in the company. 
-> > - Vacations available. 
-> > - Vacation days taken. 
-> > - The number of hours accumulated in favor of the employee. 
-> > - The cumulative number of hours that the employee owes the company. 
-> > - Delays accumulated.
+> - Vacation days that correspond to the employee for years of service in the company. 
+> - Vacations available. 
+> - Vacation days taken. 
+> - The number of hours accumulated in favor of the employee. 
+> - The cumulative number of hours that the employee owes the company. 
+> - Delays accumulated.
