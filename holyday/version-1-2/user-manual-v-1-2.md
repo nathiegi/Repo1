@@ -23,7 +23,9 @@ Facilitate the process of requests for absences, provide a better way to manage 
 
 ## 2.3    APPLICATION MODULES
 ### User Role.
+
 ![](/uploads/user-manual/1-user-manual.png) 
+
 1. This option will take you to the home page, where the user can see general information about the system and the company.  
 2. This option shows information about the employee in session.  
 3. This option displays two more options, these are "New request" and "My request" 
@@ -35,6 +37,9 @@ Facilitate the process of requests for absences, provide a better way to manage 
 5. If the user clicks on the 'Log out' option, the session will end.
 
 ### Supervisor Role.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. This option will take you to the home page, where the user can see general information about the system and the company 
 2. This option shows information about the employee in session. 
 3. If the user clicks on “Request” option, “New Request”, “My Request” and “Team Request” will be displayed. 
@@ -45,6 +50,9 @@ Facilitate the process of requests for absences, provide a better way to manage 
 5. If the user clicks on the 'Log out' option, the session will end. 
 
 ### Administrator Role.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. This option will take you to the home page, where the user can see general information about the system and the company 
 2. This option shows information about the employee in session. 
 3. From the item 'Organization' you will be able to view and manage areas and positions of the company. 
@@ -57,6 +65,9 @@ Facilitate the process of requests for absences, provide a better way to manage 
 
 # 3.0. MENU ITEM SPECIFICATIONS
 ## 3.1. LOGIN / LOGOUT
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 When you go to the site, and if you have not yet logged in, you can see the HolyDay login, where you will find. 
 1. Enter your email address. 
 2. Enter your password. 
@@ -65,6 +76,10 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 ## 3.2. USER ROLE
 ### 3.2.1. Profile item
 #### **3.2.1.1. View profile**
+
+![](/uploads/user-manual/1-user-manual.png) 
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. Pull down the menu and select the Item Profile. 
 2. Then your information is displayed in the Profile view the options: 
 a) Edit personal mail. 
@@ -73,6 +88,9 @@ c) Change the phone number.
 d) View personal Kardex. 
 
 ##### a. <i>**Edit personal email**</i>
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. Go to Profile. 
 2. Select the "Edit" option from the "Personal Email" section. 
 3. Enter your new mail. 
@@ -80,6 +98,10 @@ d) View personal Kardex.
 5. A message confirming your changes will be displayed, to continue, press the OK button.
 
 ##### b. <i>**Change Password**</i>
+
+![](/uploads/user-manual/1-user-manual.png) 
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. Go to Profile. 
 2. Select the option "Click here to change your password" from the "Account Password" section. Then a text field and the options "Submit" and "Cancel" is displayed. 
 3. Enter your current password in that field. 
@@ -89,6 +111,10 @@ d) View personal Kardex.
 7. Press the option "Send".
 
 ##### c. <i>**Change Phone Number**</i>
+
+![](/uploads/user-manual/1-user-manual.png) 
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. Go to Profile. 
 2. Select the "Edit" option from the "Phone Number" section, then a text field unfolds and options "Send" and "Cancel" are displayed. 
 3. Enter the phone number you want to save. 
@@ -98,6 +124,9 @@ d) View personal Kardex.
 ##### d. <i>**See Kardex**</i>
 1. Go to Profile. 
 2. At the bottom left of the overview of your profile, there is a link called "See Kardex", which will take you to the Kardex View. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 3. In view of Kardex personal information is as follows: 
 
 > a. From: Start date from vacations taken. 
@@ -121,10 +150,16 @@ d) View personal Kardex.
 ##### **Send absence request**
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select "Time Off" option, then the form with the required fields for recording the request is displayed. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 3. The form contains the following fields: 
 
  <i>**a. Reason of Request:**</i> Indicates the main reason why you are requesting permission to be absent from work, there are special cases of kinds of reasons that are unique to a particular genre according to law (Male and Female) and permissions that are accessible to all workers of the company : 
  <i>i. Types of permits for workers:</i>
+ 
+ ![](/uploads/user-manual/1-user-manual.png) 
+ 
  * Vacation: Holiday that correspond to the number of years of service in leading the company. 
  * illnes: Because of disease presentation document on medical leave granted health insurance to which the worker is affiliated by the company. 
  * Training: By training authorized by the company. 
@@ -134,11 +169,17 @@ d) View personal Kardex.
  * Appoitment of citizen judge
 
 <i>ii. Exclusive types of permits for women workers:</i>
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 * Breastfeeding Period: Tolerance of one hour daily for breastfeeding during the first year of the child. 
 * Foor motherhood: Rest period before and after childbirth. 
 * Pap - Mammography: License for both medical exams on the same day (one day) done. 
 
 <i>iii. Exclusive types of permits for workers:</i>
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 * For Fatherhood: Leave for childbirth (3 days). 
 
 <i>**b. Time:**</i>Indicates the period of time that the absence will last during the day. 
@@ -161,6 +202,9 @@ d) View personal Kardex.
 > **NOTE:** The request will be sent to one or more of your supervisors (depending on the number of days requested) for approval. 
 
 ##### **Send request of Hours to favor for the Employee.**
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select the "Hour to favor", then the form with the required fields for recording the request is displayed.  
 3. The form contains the following fields: 
@@ -183,8 +227,13 @@ For sending requests must perform the following steps:
 3. Select the "My Request". Then, all sent requests are shown organized by their response status. . 
 4. This section lists all requests sent separated by the response status.
 
+![](/uploads/user-manual/1-user-manual.png) 
+
 **i. Accepted.**
 This section contains all the applications submitted which were accepted.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 *a)* It indicates the amount of data you want to see. 
 *b)* Indicates the date when the request was made. 
 *c)* Indicates the date of approval of the application. 
@@ -193,6 +242,9 @@ This section contains all the applications submitted which were accepted.
 
 **ii. Waiting.**
 This section contains all the requests sent that are waiting for a response or supervisors. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 *1)* Indicates the date when the request was made. 
 *2)* It shows the name of who sent the request. 
 *3)* From this section you can access to see your request details. 
@@ -201,6 +253,9 @@ This section contains all the requests sent that are waiting for a response or s
 
 **iii.  Denied.**
 This section shows the requests denied by your supervisor(s).
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 *a)* Indicates the date when the request was made. 
 *b)* Displays the name of the employee who sent the request. 
 *c)* The date the request was denied. 
@@ -214,6 +269,9 @@ To see the Details of your Request you need to:
 *3)* Select the "My Request" option. Then, all sent requests are shown organized by their response status.  
 *4)* To access to the request details, you can select the "Details" in "Denied", "Waiting" or "Accepted" sections.  
 *5)* Once you have selected the request to see the details, the form will be displayed.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 *6)* Select the "Go back" option to return to the list of all requests sent.
 
 **v. Edit a Request.**
@@ -222,9 +280,15 @@ To edit the information of the submitted request, you must perform the following
 *2)* Select the "Request" option. 
 *3)* Select the "My Request" option. Then, all sent requests are shown organized by their response status.  
 *4)* In the "Waiting" section select the "Edit" option of the request you want to edit the information.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 *5)* Then the form is displayed to edit the information of the request as a record of "Time Off" or a record of "Hour to favor".
 
-> **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these.
+![](/uploads/user-manual/1-user-manual.png) 
+![](/uploads/user-manual/1-user-manual.png) 
+
+> > **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these.
 
 **vi. Delete a Request.**
 To delete a request you must perform the following steps: 
@@ -233,6 +297,9 @@ To delete a request you must perform the following steps:
 *3)* Select the "My Request" option. Then, all sent requests are organized by their response status. 
 *4)* In the "Waiting" section select the "Delete" option of the application you want to delete. 
 *5)* Then the confirmation form shown to remove the application. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
 *6)* Select the "Delete" option to delete the request sent. Here it is redirected to the list of requests sent.
 
 > **NOTE:** You can only delete requests that are in waiting status and only if no supervisor has answered these.
@@ -243,5 +310,7 @@ A supervisor can reply to the requests of his supervisees, this is because he kn
 ### 3.2.1. “Team Request” Section.
 #### **3.2.1.1. See General Calendar.**
 Team Request shows us in the first view a calendar in the current date with the details of the registered holidays and requests received for his supervisees.
+
+![](/uploads/user-manual/1-user-manual.png) 
 
 Selecting any of these events on the calendar, we are shown a pop-up with a basic detail of the event. If the event needs an answer the pop-up allows us to redirect the details of the request or event to answer. 
