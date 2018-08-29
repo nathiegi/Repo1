@@ -1,5 +1,5 @@
 <!-- TITLE: Wish Grid - User Manual V1.0 -->
-<!-- SUBTITLE: A quick summary of Wish Grid User Manual V1.0 -->
+<!-- SUBTITLE: WishGrid is a software in which people can make suggestions of a company service and the registered community can vote for that suggestion, so the company can have a feedback of their users. -->
 
 
 ### Project Name: WishGrid
@@ -10,9 +10,8 @@
 
 ## 1.1	Objective of the Document
 This document is intended to show how to use WishGrid application, that is how to create user suggestions and change the workflow of them.
-## 1.2	Objective of the Software
-WishGrid is a software in which people can make suggestions of a company service and the registered community can vote for that suggestion, so the company can have a feedback of their users.
-## 1.3.	Main Functions
+
+## 1.2.	Main Functions
 Among main functionalities we have:
 * Creation of suggestions.
 * Vote for each suggestion.
