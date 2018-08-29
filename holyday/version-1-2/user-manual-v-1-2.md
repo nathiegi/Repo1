@@ -130,4 +130,8 @@ d) View personal Kardex.
  * *Assistence to children: special license for all mothers, parents, guardians and responsible company workers who have children under twelve (12) years requiring personal attention because of a serious accident or serious illness. 
  * By Mourning: Due to the death of a spouse, parents, siblings or children (3 days). 
  * Marriage: By marriage. 
- * Appoitment of citizen judge: 
+ * Appoitment of citizen judge
+
+<i>ii Exclusive types of permits for women workers:</i>
+
+<i>ii Exclusive types of permits for workers:</i>
