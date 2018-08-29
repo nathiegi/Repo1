@@ -78,7 +78,7 @@ d) View personal Kardex.
 4. Press the "Send" button to change email. 
 5. A message confirming your changes will be displayed, to continue, press the OK button.
 
-##### b. * **Change Password** *
+##### b. <i>**Change Password**</i>
 1. Go to Profile. 
 2. Select the option "Click here to change your password" from the "Account Password" section. Then a text field and the options "Submit" and "Cancel" is displayed. 
 3. Enter your current password in that field. 
