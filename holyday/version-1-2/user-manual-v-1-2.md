@@ -173,4 +173,6 @@ d) View personal Kardex.
 6. Enter the time of completion of your task. 
 7. Enter the date when the task was performed. 
 8. A brief description about the work done. 
-9. Select the "Create" option to send the request to the selected supervisor. Then, all sent requests are shown organized by their response status.  
+9. Select the "Create" option to send the request to the selected supervisor. Then, all sent requests are shown organized by their response status. 
+
+#### **3.2.2.2. "My Request" Section. **
