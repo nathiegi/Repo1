@@ -117,7 +117,7 @@ d) View personal Kardex.
 
 ### 3.2.2. Item Request
 #### **3.2.2.1. “New Request” Section.**
-##### a. **Send absence request**
+##### **Send absence request**
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select "Time Off" option, then the form with the required fields for recording the request is displayed. 
 3. The form contains the following fields: 
