@@ -189,3 +189,5 @@ This section contains all the applications submitted which were accepted.
 *c)* Indicates the date of approval of the application. 
 *d)* It shows the comment that your supervisor sent you when your request was confirmed. 
 *e)* From this section you can access to see your request details. 
+
+**ii. Waiting.**
