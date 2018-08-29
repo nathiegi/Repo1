@@ -52,4 +52,6 @@ Facilitate the process of requests for absences, provide a better way to manage 
 6. From the item 'Request' the user can submit leave requests, view their own requests and can manage applications monitored by whether the case existed. 
 7. From the item 'Configuration' you can manage parameters. 
 8. From the item 'Roles & Permissions' you can manage roles and permissions. 
-9. If the user clicks on the 'Log out' option, the session will end. 
+9. If the user clicks on the 'Log out' option, the session will end.
+
+## MENU ITEM SPECIFICATIONS 
