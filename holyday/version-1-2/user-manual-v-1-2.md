@@ -163,11 +163,11 @@ d) View personal Kardex.
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select the "Hour to favor", then the form with the required fields for recording the request is displayed.  
 3. The form contains the following fields: 
-	* Supervisor: This section load employee supervisors. 
-	* Start Time: To indicate the starting time of your task. 
-	* Finish Time: To indicate the end time of your task. 
-	* Date of the task: To indicate when the task was performed. 
-	* Task Description: In this section you can make a brief comment about the work done. 
+	<i> **a. Supervisor:**</i> This section load employee supervisors. 
+	<i> **b. Start Time:**</i> To indicate the starting time of your task. 
+	<i> **c. Finish Time:**</i> To indicate the end time of your task. 
+	<i> **d. Date of the task:**</i> To indicate when the task was performed. 
+	<i> **e. Task Description:**</i> In this section you can make a brief comment about the work done. 
 4. Select which supervisor you want to send the request to, this supervisor must authorize it. 
 5. Enter the starting time of your task. 
 6. Enter the time of completion of your task. 
