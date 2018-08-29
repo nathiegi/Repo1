@@ -157,7 +157,7 @@ d) View personal Kardex.
 9. This section is information about vacation days that correspond to the employee for the years of service that brings in business and vacation days that you still have available to take. 
 10. Finally, select the "Create" option for sending the request will be waiting until one or more supervisors respond. Below is a list of all requests sent separate sections according to the state of their response is.
 
-**NOTE:** The request will be sent to one or more of your supervisors (depending on the number of days requested) for approval. 
+> **NOTE:** The request will be sent to one or more of your supervisors (depending on the number of days requested) for approval. 
 
 ##### **Send request of Hours to favor for the Employee.**
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
@@ -206,7 +206,7 @@ This section shows the requests denied by your supervisor(s).
 *d)* It shows the comment that your supervisor sent you when your request was denied. 
 *e)* From this section you can access to see your request details. 
 
-**iv Request Detail.**
+**iv. Request Detail.**
 To see the Details of your Request you need to: 
 *1)* Open the menu. 
 *2)* Select the "Request" option. 
@@ -215,3 +215,12 @@ To see the Details of your Request you need to:
 *5)* Once you have selected the request to see the details, the form will be displayed.
 *6)* Select the "Go back" option to return to the list of all requests sent.
 
+**v. Edit a Request.**
+To edit the information of the submitted request, you must perform the following steps: 
+*1)* Open the dropdown menu. 
+*2)* Select the "Request" option. 
+*3)* Select the "My Request" option. Then, all sent requests are shown organized by their response status.  
+*4)* In the "Waiting" section select the "Edit" option of the request you want to edit the information.
+*5)* Then the form is displayed to edit the information of the request as a record of "Time Off" or a record of "Hour to favor".
+
+> **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these. 
