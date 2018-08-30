@@ -2,3 +2,7 @@
 <!-- SUBTITLE: A quick summary of BatMonitor - Development Documentation V0.1 -->
 
 # Header
+
+# Development Manual for BatMonitor
+
+## Technologies used for the BatMonitor development
