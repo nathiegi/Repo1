@@ -6,6 +6,8 @@
 ### Version: ___________________________________
 ### Last Modified date: _________________________
 
+![](/uploads/user-manual/1-user-manual.png)
+
 
 # 1.0. GENERAL INFORMATION
 ## 1.1. Objective of the Document
