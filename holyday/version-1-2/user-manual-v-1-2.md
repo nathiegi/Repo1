@@ -74,7 +74,7 @@ Facilitate the process of requests for absences, provide a better way to manage 
 # 3.0. MENU ITEM SPECIFICATIONS
 ## 3.1. LOGIN / LOGOUT
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 1 Login](/uploads/holyday/2-1-login.png "2 1 Login")
 
 When you go to the site, and if you have not yet logged in, you can see the HolyDay login, where you will find. 
 1. Enter your email address. 
@@ -85,8 +85,7 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 ### 3.2.1. Profile item
 #### **3.2.1.1. View profile**
 
-![](/uploads/user-manual/1-user-manual.png) 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 1 A View Profile](/uploads/holyday/2-2-1-a-view-profile.png "2 2 1 A View Profile")
 
 1. Pull down the menu and select the Item Profile. 
 2. Then your information is displayed in the Profile view the options: 
@@ -97,7 +96,7 @@ d) View personal Kardex.
 
 ##### a. <i>**Edit personal email**</i>
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 1 A A Edit Personal Email](/uploads/holyday/2-2-1-a-a-edit-personal-email.png "2 2 1 A A Edit Personal Email")
 
 1. Go to Profile. 
 2. Select the "Edit" option from the "Personal Email" section. 
