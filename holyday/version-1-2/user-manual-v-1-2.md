@@ -787,11 +787,11 @@ To make the respective discount must perform the following steps:
  2. Select the "Compensation Hours" to see the form that allows the discount days. 
  3. Select the "Compensation Hours" to make the discount due to the following rules: 
 <i>**For women:**</i>
-<i>If you must 8 hours a day of their vacation days available discounted.</i> 
-<i>Whether to 4 hours, half day holiday of your days available discounted.</i>
-<i>**For men:**</i> 
-<i>If you must 9 hours a day of vacaiones of its available days is discounted.</i>
-<i>If you must 4 hours 30 min: half day holiday discounted.</i>
+> <i>If you must 8 hours a day of their vacation days available discounted.</i> 
+> <i>Whether to 4 hours, half day holiday of your days available discounted.</i>
+ <i>**For men:**</i> 
+> <i>If you must 9 hours a day of vacaiones of its available days is discounted.</i>
+> <i>If you must 4 hours 30 min: half day holiday discounted.</i>
 
  4. Then the discount is performed and the data is updated. To return to the individual Kardex select the "Back to list" option.
 
