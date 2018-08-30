@@ -1171,5 +1171,4 @@ After selecting the "Delete" option from the list of position on a team, a view 
 Shows a detailed view of the record to be deleted, requesting confirmation to accomplish this: 
 
 1. **Delete:** Confirms the permanent deregistration if this position is not associated with any employee in any team already established. 
-
 2. **Back to list:** Cancels the previously requested deletion and return to the list of positions. 
