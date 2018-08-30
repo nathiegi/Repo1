@@ -290,8 +290,8 @@ To edit the information of the submitted request, you must perform the following
 
 *5)* Then the form is displayed to edit the information of the request as a record of "Time Off" or a record of "Hour to favor".
 
-![](/uploads/user-manual/1-user-manual.png) 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B E Edit A Request 2](/uploads/holyday/2-2-2-b-e-edit-a-request-2.png "2 2 2 B E Edit A Request 2")
+![2 2 2 B E Edit A Request 1](/uploads/holyday/2-2-2-b-e-edit-a-request-1.png "2 2 2 B E Edit A Request 1")
 
 > **NOTE:** You can only edit requests that are in waiting status and only if no supervisor has answered these.
 
@@ -303,7 +303,7 @@ To delete a request you must perform the following steps:
 *4)* In the "Waiting" section select the "Delete" option of the application you want to delete. 
 *5)* Then the confirmation form shown to remove the application. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B F Delete A Request](/uploads/holyday/2-2-2-b-f-delete-a-request.png "2 2 2 B F Delete A Request")
 
 *6)* Select the "Delete" option to delete the request sent. Here it is redirected to the list of requests sent.
 
@@ -316,7 +316,7 @@ A supervisor can reply to the requests of his supervisees, this is because he kn
 #### **3.2.1.1. See General Calendar.**
 Team Request shows us in the first view a calendar in the current date with the details of the registered holidays and requests received for his supervisees.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 3 1 A 1 See General Kardex](/uploads/holyday/2-3-1-a-1-see-general-kardex.png "2 3 1 A 1 See General Kardex")
 
 Selecting any of these events on the calendar, we are shown a pop-up with a basic detail of the event. If the event needs an answer the pop-up allows us to redirect the details of the request or event to answer.
 
