@@ -700,7 +700,7 @@ To edit information for an employee must perform the following steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-###### <i>**i) Information details an employee:**</i>
+###### <i>**ii) Information details an employee:**</i>
 To edit information for an employee must perform the following steps:
 1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
 2. Find the name of the employee you want to view detailed information. 
@@ -713,3 +713,29 @@ To edit information for an employee must perform the following steps:
 ![](/uploads/user-manual/1-user-manual.png)
 
 5. Select the "Go Back" option to return to the general list of active employees.
+
+###### <i>**iii) Edit Work Schedule:**</i>
+To edit the work schedule of an employee must perform the following steps:
+1. Enter to "Active Employee List" (Consult Item Employee - Section View - List of active employees). 
+2. Find the name of the employee you want to edit the work schedule. 
+3. Select the square-shaped icon to display the list of options, then select the "Edit work schedule" option to access the form that allows you to edit the information work schedule.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+4. Then the form is displayed to edit the work schedule assigned to the employee. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+5. After you edit the information select the "Save" option to save your changes.
+
+###### <i>**iv) Individual holiday reset:**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+For every employee in the general list of active employees a number of options, among which we deploy **Reset**. 
+Clicking on the link to **Reset** a form as we see shown below: 
+ 
+ ![](/uploads/user-manual/1-user-manual.png)
+ 
+ Here detailed summary of the Kardex shown that employee. 
+ **Reset:** The reset button performs resetting of information, if the manager deems it necessary in session, then return to the list of active employees.
