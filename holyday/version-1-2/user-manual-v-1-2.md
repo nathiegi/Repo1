@@ -419,7 +419,7 @@ In addition, if the reques had been approved, the corresponding update is perfor
 
 #### **3.3.1.4. Edit area.**
 To edit information for an area you need to follow the following steps: 
-1. Go to the general list of areas and positions (Consult See Areas and Positions).
+1. Go to the general list of areas and positions (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">See Areas and Positions</a>).
 2. Once you are in the general list of areas and positions, select the pencil icon in the area you want to edit information. Then the form is displayed to edit the information of the corresponding area.
 
 ![](/uploads/user-manual/1-user-manual.png) 
@@ -431,7 +431,7 @@ To edit information for an area you need to follow the following steps:
 
 #### **3.3.1.5. Edit Positions.**
 To edit information for a position you need to follow the following steps: 
-1. Go to the general list of areas and positions (Consult See Areas and Positions). 
+1. Go to the general list of areas and positions (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">See Areas and Positions</a>). 
 2. Once you are in the general list of areas and positions locate the area where you find the position you want to edit information.
 3. Select the "Show Position" option to view the list of positions that are within the area. Below is a list of all deployed positions.
 
@@ -448,7 +448,7 @@ To edit information for a position you need to follow the following steps:
 9. Select the "Save" option to save your changes. Then redirected to the general list of areas and positions already created.
 
 #### **3.3.1.6. Remove Area.**
-1. Go to the general list of areas and positions (Consult See Areas and Positions). 
+1. Go to the general list of areas and positions (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">See Areas and Positions</a>). 
 2. Once you are in the general list of areas and positions locate the area you want to delete.
 
 ![](/uploads/user-manual/1-user-manual.png) 
