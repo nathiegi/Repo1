@@ -601,4 +601,5 @@ To add a user you need to follow the following steps:
 > 	<i>**A.M:**</i> Absence throughout the morning (within their working hours). 
 > 	<i>**P.M:**</i> Absence throughout the afternoon (within their working hours).
 > 	<i>**FULL TIME:**</i> Absence all day (within their working hours).
-	
+
+	<i>**c) Start Date:**</i> 
