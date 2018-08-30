@@ -1252,7 +1252,7 @@ A full list of members of the team and the positions thereof within the equipmen
 ### 3.3.4. Configuration Item
 In order to ensure the correct functioning of the system in terms of request management and updating of Kardex, it is necessary to have backup parameters. This is what is managed in this system module.
 
-#### **3.3.3.1. Section Tools**
+#### **3.3.4.1. Section Tools**
 
 ![](/uploads/user-manual/1-user-manual.png)
 
@@ -1302,7 +1302,7 @@ Parameter set by management for resetting holiday available.
 
 <i>a) Edit Information Parameter</i>
 
-#### **3.3.3.2. Section Holidays**
+#### **3.3.4.2. Section Holidays**
 Registration and management of holidays, both holidays as holidays, it is necessary for the proper management of Kardex updates.
 
 ![](/uploads/user-manual/1-user-manual.png)
@@ -1315,3 +1315,26 @@ When you open the drop-down menu are options to access the various sections of t
 2. In the menu displayed select the "Holiday" option, that we redirect to a view like the one shown below:
 
 ##### **i. General list of holiday dates**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**a) Add festive date**</i>
+When you select the "Create" option from the top left corner of the list of holidays, a form like the one shown below appears:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Enter the name of the event to Commemorate 
+2. Define the start date. 
+3. Set the end date. 
+4. Define whether or not the event is a holiday. 
+5. Save the event created with the "Save" button.
+
+###### <i>**b) Edit Information festive date**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. In the list of holidays, weekends and holidays not for each record is given the option to edit some data from it via the "Edit" button gives access to a view like the one presented here, or the like. 
+2. After editing the data deemed necessary, and that are enabled for editing save the changes using the "Save" button.
+
+### 3.3.5. Item Roles and Permissions
+
