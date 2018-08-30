@@ -2,9 +2,9 @@
 <!-- SUBTITLE: A quick summary of BatMonitor - User Manual V0.1 -->
 
 # USER MANUAL FOR CLIENT
-### Project Name: 
-### Version: 
-### Last Modified date: 
+### Project Name:______________________________
+### Version: ___________________________________
+### Last Modified date: _________________________
 
 
 # 1.0. GENERAL INFORMATION
