@@ -22,7 +22,7 @@ Facilitate the process of requests for absences, provide a better way to manage 
 7. **DBT:** Debit
 	<i>**a) EM:**</i> Total hours that the employee owes the company. 
 	<i>**b) COM:**</i> Total hours that the company owes to the employee. 
-# 2.0   USER MANUAL
+# 2.0    SYSTEM FUNCTIONS
 ## 2.1    SYSTEM CONFIGURATION
 ## 2.2    SOFTWARE ROLES
 * Administrator
