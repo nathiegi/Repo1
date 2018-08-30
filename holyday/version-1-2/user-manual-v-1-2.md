@@ -629,7 +629,6 @@ To add a user you need to follow the following steps:
 	<i>**c) Finish Time:**</i> Time is where it will be placed finish work.
 	<i>**d) Date of the taks:**</i> Field where the day when such overtime occurred will be added.
 	<i>**e) Task Description:**</i> Field where a brief description by administration be added, about the hours that the user is registering.
-
  5. Select the name of the employee who to whom the hours are added in favor. 
  6. Select the start time for extra work. 
  7. Select the end time of extra work. 
