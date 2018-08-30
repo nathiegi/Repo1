@@ -531,7 +531,6 @@ To add a user you need to follow the following steps:
 	<i>**b) E-mail:**</i> Account email that is assigned to the user ex.: jperez@info-arch.com.
 	<i>**c) Password:**</i> The password assigned to the user account so you can enter the system.
 	<i>**d) ConfirmPassword:**</i> Registration of the password in the previous field is repeated.
-	
 5. Select the name of the employee who will be assigned a user account. 
 6. Enter the email address to be assigned. 
 7. Enter the password for the user account. 
@@ -637,4 +636,4 @@ To add a user you need to follow the following steps:
  10. Select the "Create" option, this will process the data you entered and will automatically be redirected to the view with the other hours to favor assign to other users.
 
 ##### **vii. Assign work schedule an employee**
-Before performing this step is necessary to register employee (<a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">See Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-add">Section Add</a> - <a href="">Add Employee</a>) Because, once this step, redirects to create a user and then assign work schedules to an employee. Concluded previous records will be a form with the information needed to enter the new work schedule for this employee should follow these steps: 
+Before performing this step is necessary to register employee (<a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">See Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-add">Section Add</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-add-employee">Add Employee</a>) Because, once this step, redirects to create a user and then assign work schedules to an employee. Concluded previous records will be a form with the information needed to enter the new work schedule for this employee should follow these steps: 
