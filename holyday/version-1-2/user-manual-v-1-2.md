@@ -1338,3 +1338,45 @@ When you select the "Create" option from the top left corner of the list of holi
 
 ### 3.3.5. Item Roles and Permissions
 
+#### **3.3.5.1. Section Add Role**
+This section allows the system administrator to create new user roles from the permissions set for the operation of the system.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the roles creation form, for it must follow the following sequence:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the Roles & Permissions "option. 
+2. In the menu that is displayed choose "Add Role option, that we redirect to a view like the one shown below:
+
+##### **i. Create a new role with existing permits**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Enter the name of the role you want to create. 
+2. From the list of permissions select those you wish to integrate into the role. 
+3. Select the Create button to save the record of the new role.
+
+#### **3.3.5.2. Section View**
+As the administrator who manages the allocation of roles within the system, you need to know the permissions for each role enabled, that is the purpose. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to join the list of existing roles, for it must follow the following sequence: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Roles & Permissions" option 
+2. In the menu that is displayed choose the "View" option, that we redirect to a view like the one shown below: 
+
+##### **i. General Roles and Permissions List**
+This view shows a list like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+A number of roles that, when deployed, permitting display lists that are associated with each role. 
+
+##### **i. Edit Role Name**
+For each role in the list of Roles View can perform editing name was previously assigned.
+Editing the permissions contained in that role it is not allowed.
