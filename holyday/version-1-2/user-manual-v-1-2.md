@@ -637,3 +637,4 @@ To add a user you need to follow the following steps:
  10. Select the "Create" option, this will process the data you entered and will automatically be redirected to the view with the other hours to favor assign to other users.
 
 ##### **vii. Assign work schedule an employee**
+Before performing this step is necessary to register employee (<a href="">See Item Employee</a> - <a href="">Section Add</a> - <a href="">Add Employee</a>) Because, once this step, redirects to create a user and then assign work schedules to an employee. Concluded previous records will be a form with the information needed to enter the new work schedule for this employee should follow these steps: 
