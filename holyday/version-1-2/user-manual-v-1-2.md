@@ -337,7 +337,7 @@ List of requests that were denied by the supervisor or other responsible supervi
 
 #### **3.2.1.3. Detail of request received.**
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 3 1 C 1 Detail Of Request Received](/uploads/holyday/2-3-1-c-1-detail-of-request-received.png "2 3 1 C 1 Detail Of Request Received")
 ![](/uploads/user-manual/1-user-manual.png) 
 
 The requests and events in the calendar allow us to see a small detail of the reason or event, also the list of requests allows us to see this detail, this in case the request has already been previously answered. 
