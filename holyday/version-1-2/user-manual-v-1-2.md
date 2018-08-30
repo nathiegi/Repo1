@@ -514,7 +514,7 @@ To delete a position is necessary to follow these steps:
 15. Select the "Show Supervisor" to see the list of employees already registered and you can assign it as supervisor of the employee who is registering, if you do not already have added employees can assign a supervisor later, therefore, this step is not mandatory. 
 16. Select the "Add" option to assign a supervisor to the employee who is registering. 
 17. Select the "Create" option to save all changes. Then the user creation form for the employee you just created is displayed. 
-18. To view the record that I do, see <a href="#">List of active employees</a>. 
+18. To view the record that I do, see <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>. 
 
 ![](/uploads/user-manual/1-user-manual.png)
 
@@ -689,6 +689,6 @@ To see the general list of active employees must perform the following steps:
 ###### <i>**i) Edit Information an employee:**</i>
 To edit information for an employee must perform the following steps:
 
-1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="">List of active employees</a>). 
+1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
 2. Find the name of the employee you want to edit information. 
 3. Select the square-shaped icon to display the list of options, then select the "Edit" option to access the form that allows you to edit information servery. 
