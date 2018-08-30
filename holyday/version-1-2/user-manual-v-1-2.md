@@ -686,7 +686,7 @@ To see the general list of active employees must perform the following steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-###### <i>**i) Edit Information an employee:**</i>
+###### <i>**i) Edit Information an employee**</i>
 To edit information for an employee must perform the following steps:
 
 1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
@@ -700,7 +700,7 @@ To edit information for an employee must perform the following steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-###### <i>**ii) Information details an employee:**</i>
+###### <i>**ii) Information details an employee**</i>
 To edit information for an employee must perform the following steps:
 1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
 2. Find the name of the employee you want to view detailed information. 
@@ -714,7 +714,7 @@ To edit information for an employee must perform the following steps:
 
 5. Select the "Go Back" option to return to the general list of active employees.
 
-###### <i>**iii) Edit Work Schedule:**</i>
+###### <i>**iii) Edit Work Schedule**</i>
 To edit the work schedule of an employee must perform the following steps:
 1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
 2. Find the name of the employee you want to edit the work schedule. 
@@ -728,7 +728,7 @@ To edit the work schedule of an employee must perform the following steps:
 
 5. After you edit the information select the "Save" option to save your changes.
 
-###### <i>**iv) Individual holiday reset:**</i>
+###### <i>**iv) Individual holiday reset**</i>
 
 ![](/uploads/user-manual/1-user-manual.png)
 
@@ -740,7 +740,7 @@ Clicking on the link to **Reset** a form as we see shown below:
  Here detailed summary of the Kardex shown that employee. 
  **Reset:** The reset button performs resetting of information, if the manager deems it necessary in session, then return to the list of active employees.
  
- ###### <i>**iv) Supervisor assign an employee:**</i>
+ ###### <i>**v) Supervisor assign an employee**</i>
  To assign a supervisor to an employee must perform the following steps:
  1. Enter to  "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
  2. Look for the employee's name you want to assign a supervisor. 
@@ -757,4 +757,6 @@ Clicking on the link to **Reset** a form as we see shown below:
 7. Select the "Assign" option to add as supervisor. 
 8. Displays the list of names is adding as supervisors. 
 9. To remove a name from the list of newly added supervisors select the "Delete" option to remove the record. 
-10. Once all the changes press the "Save Changes" option to save. 
+10. Once all the changes press the "Save Changes" option to save.
+
+###### <i>**vi) See kardex Individual**</i>
