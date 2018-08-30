@@ -603,3 +603,38 @@ To add a user you need to follow the following steps:
 > 	<i>**FULL TIME:**</i> Absence all day (within their working hours).
 
    <i>**d) Start Date:**</i> Indicates the date in which initiates its absence.
+	 <i>**e) End Date:**</i> Indicates the end date of your absence.
+	 <i>**f) Reason:**</i> Is this section you can add a brief comment explaining why you are requesting permission absence. 
+5. Select the name of the employee who is being recorded permissions. 
+6. Select the main reason for the absence is recorded. 
+7. Select the time period that lasted the employee's absence on the day. 
+8. Enter the start date of the period of absence. 
+9. Enter the end date of the period of absence. 
+10. Enter a brief additional comment. 
+11. Select the "Create" option to save your changes made, then redirects to a general list of all registered requests. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+##### **vi. Assign Overtime favor of the employee**
+
+![](/uploads/user-manual/1-user-manual.png)
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Pull down the menu and select the "Employee". Then he deployed the options "Add" and "View". 
+2. Select the option "Add", this will to be deployed more options on the menu. 
+3. Select the option "Recovery Overtime Hours" to see the registration form. 
+4. Then the registration form is displayed with the following information:
+	<i>**a) Employee:**</i> Displays a list of the names of the employees to whom it will record his favors Hours before the incident.
+	<i>**b) Start Time:**</i> Is where the start time, their hours will be placed favors.
+	<i>**c) Finish Time:**</i> Time is where it will be placed finish work.
+	<i>**d) Date of the taks:**</i> Field where the day when such overtime occurred will be added.
+	<i>**e) Task Description:**</i> Field where a brief description by administration be added, about the hours that the user is registering.
+
+5. Select the name of the employee who to whom the hours are added in favor. 
+6. Select the start time for extra work. 
+7. Select the end time of extra work. 
+8. Select the date on which those hours were performed. 
+9. Enter a brief description of why it is being allocated for hours. 
+10. Select the "Create" option, this will process the data you entered and will automatically be redirected to the view with the other hours to favor assign to other users.
+
+##### **vii. Assign work schedule an employee**
