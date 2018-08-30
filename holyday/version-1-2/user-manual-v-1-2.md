@@ -466,7 +466,7 @@ To edit information for a position you need to follow the following steps:
 #### **3.3.1.7. Delete Position.**
 To delete a position is necessary to follow these steps: 
 
-1. Go to the general list of areas and positions (see See Areas and Positions). 
+1. Go to the general list of areas and positions (<a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">see See Areas and Positions<a/>). 
 2. Once you are in the general list of areas and positions locate the area where you find the position you want to edit information. 
 3. Select the "Show Position" option to view the list of positions that are within the area. Below is a list of all deployed positions. 
 4. In the deployed position refer to the position you want to delete and select the icon of a trashcan, then the confirmation form shown proper disposal list.
