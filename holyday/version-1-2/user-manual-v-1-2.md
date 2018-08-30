@@ -659,7 +659,8 @@ To see the general list of active employees must perform the following steps:
 > 	<i>**Reset All:**</i> Redirects to form reset untaken by employees. 
 > 	<i>**Collective vacations:**</i> Redirects the reinstament form for holidays not taken by employees. 
 > 	<i>**Collective discount for compesation hours:**</i> Redirects to a list containing registered employees so that they can make appropriate discounts.
-> 	<i>**Collective discounts Delays:**</i> Redirects to a list that contains registered employees so that the discount can be made for accumulated delays at the tieme of entry. 
+> 	<i>**Collective discounts Delays:**</i> Redirects to a list that contains registered employees so that the discount can be made for accumulated delays at the tieme of entry.
+
 <i>b) Search text field name in the list of active employees.</i>
 <i>c) This section lists the names of employees.</i>
 <i>d) Identification number employee identity card.</i>
@@ -669,6 +670,7 @@ To see the general list of active employees must perform the following steps:
 <i>h) Date of birth of the employee.</i> 
 <i>i) Start date employee's work.</i>
 <i>j) Displays a list showing the following:</i>
+
 > 	<i>**Edit:**</i> This option redirects to the form that allows you to edit employee information.
 > 	<i>**Details:**</i> Redirected to form with all employee information. 
 > 	<i>**Delete:**</i> Send the confirmation form to unsubscribe an active employee.
@@ -677,6 +679,7 @@ To see the general list of active employees must perform the following steps:
 > 	<i>**Assing supervisor:**</i> Take the form that allows you to assign supervisors to an already created employee.
 > 	<i>**Kardex View:**</i> Redirect to the employee’s individual Kardex view that contains all the information about the requested permits that were approved. 
 > 	<i>**Exports to employee's teams to PDF:**</i> It shows a document in PDF with the history of all the equipment in which the employee works before and currently works.
+
 <i>k) Move to the next or previous page to see the other records.</i>
 <i>Shows a PDF document containing a summary of the individual Kardex of all employees.</i>
 <i>Redirects to a statistical report showing vacation days of employees and the number of applications by type of holiday available.</i>
