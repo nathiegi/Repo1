@@ -552,10 +552,8 @@ To add a user you need to follow the following steps:
 	<i>**b) Date of absence from work:**</i> Date on which the employee is off work or had to leave.
 	<i>**c) From:**</i> The time he left shift.
 	<i>**d) To:**</i> Time when I return to work.
-	<i>**e) Commentary:**</i> Brief comment on the reason for departure.
-	
-	![](/uploads/user-manual/1-user-manual.png)
-	
+	<i>**e) Commentary:**</i> Brief comment on the reason for departure.	
+![](/uploads/user-manual/1-user-manual.png)
 5. Select the name of the employee for whom you wish to check. 
 6. Enter the date of absence or leave work. 
 7. Enter the time in which employee left work. 
