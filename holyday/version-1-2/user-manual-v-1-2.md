@@ -1008,3 +1008,78 @@ This view also presents a number of options that are explained below:
 For both supervisors and the direct supervision, there are other options that can be performed on their records: 
 
 ###### <i>**a) Delete a supervisor**</i>
+Selecting the icon Delete the supervisor, the employee's status is changed, taking the rank of supervisor. Prior to this a confirmation box is displayed as follows: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**b) Details Supervisor (Employee)**</i>
+Icon detail or information both supervisors and supervised redirected to a summary view of the profile of this user with basic and non-confidential information from it. 
+
+Visually similar to present **details of an Employee Information form**.
+
+###### <i>**c) Deregister an employee**</i>
+**Unsubscribe** icon allows you to remove an employee from the list of direct supervision of a specific supervisor, confirmed to carry out this action is determined through a confirmation box like the following:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+> **NOTE:** If the view to which you access through this tab is different or does not have all the detailed options here, it is that the role assigned to it does not have the appropriate permissions.
+
+##### **v. General list of emergency exits employee**
+Management has the power to register emergency exits any employee, to manage discounts related to employee vacation days. 
+
+For that reason a sequence continues as follows:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Employee" option. 
+2. In the menu that will be displayed choose the "View" option. 
+3. In the next menu level select the "Employee Emergency Leaves" option, this will redirect us to a view like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+In this view we find a button **(1)** that redirects us to the registration form emergency exits.
+
+###### <i>**a) Edit record emergency exit**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The editing form allows us to modify the information or detail of the emergency exit made by the employee, this in case a typographical error was made when entering the data when the record was crated.
+
+###### <i>**b) Delete Record emergency exit**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The form allows the elimination of emergency exit by an employee, this when deemed necessary, updating also the Kardex of the affected employee. 
+
+##### **vi. General delays list of employees**
+
+Management has the power to register the delays in the entry of any employee, to manage discounts related to employee vacation days. 
+
+For that reason a sequence continues as follows:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Employee" option. 
+2. In the menu that will be displayed choose the "View" option. 
+3. In the next menu level select the "Delays" option, this will redirect us to a view like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+In this view we find a button **(1)** that redirects us to the registration form delays.
+
+###### <i>**a) Edit Record delay an employee**</i>
+The edit form allows us to modify the information or detail of a late registration on behalf of an employee, if this would have made a typographical error when entering data when the record was created. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**b) Delete Record delay an employee**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The form allows the elimination of registration delays made on behalf of an employee, this when deemed necessary, updating also the Kardex of the affected employee. 
+
+##### **vii. General Permit List Employees**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+This list details the requests submitted by each employee as compensation for working overtime or time off work. 
