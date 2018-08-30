@@ -481,3 +481,50 @@ To delete a position is necessary to follow these steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
+### 3.3.2. Employee Item.
+#### **3.3.2.1. Section Add.**
+
+##### **i. Add Employee**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. To add an employee, display the main menu and select the "Employee" option, then the options "Add" are displayed and "View. 
+2. Select the "Add", then a list of menu options are displayed option. 
+3. Select the "Employee" option to go to the registration form employee. 
+4. Here is the form with all the necessary fields for recording employee.
+5. Enter the personal identification number (identity card) and select the place in which it was issued (abroad or a department of Bolivia). 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+6. Enter the employee's name to register. 
+7. Enter the employee or family names. 
+8. Select the gender of the employee, can be male or female. 
+9. Enter the employee's personal email (not assigned to the company). 
+10. Enter the phone number. 
+11. Enter the date of birth, you can type the date in the format day / month / year or you can select the date directly from the calendar that is displayed by selecting the icon shaped arrow. 
+12. Enter the start date employee's work or select the date from the drop-down calendar. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+13. Scroll down the list and select the position you want to assign to the employee who is registering. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+14. If you want you can select an image to be displayed as your profile picture select the "Select File" or "Select File" (It depends on the language of your computer) to choose an image option, this step is not required therefore if you do not does the employee record is created with a default image as shown on the form. 
+15. Select the "Show Supervisor" to see the list of employees already registered and you can assign it as supervisor of the employee who is registering, if you do not already have added employees can assign a supervisor later, therefore, this step is not mandatory. 
+16. Select the "Add" option to assign a supervisor to the employee who is registering. 
+17. Select the "Create" option to save all changes. Then the user creation form for the employee you just created is displayed. 
+18. To view the record that I do, see <a href="#">List of active employees</a>. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+##### **i. Add User**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+To add a user you need to follow the following steps:
+1. Pull down the menu and select the "Employee", then the options "Add" and "View" option unfold. 
+2. Select the "Add" button and a list of options is displayed. 
+3. Select the "Users" option to see the user creation form. 
+4. Then the user creation form with all relevant data is shown. 
+	<i>**a) Employee:**</i> List of employees created that can be you assign a user.
