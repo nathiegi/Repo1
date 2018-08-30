@@ -518,7 +518,7 @@ To delete a position is necessary to follow these steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-##### **i. Add User**
+##### **ii. Add User**
 
 ![](/uploads/user-manual/1-user-manual.png)
 
@@ -528,3 +528,72 @@ To add a user you need to follow the following steps:
 3. Select the "Users" option to see the user creation form. 
 4. Then the user creation form with all relevant data is shown. 
 	<i>**a) Employee:**</i> List of employees created that can be you assign a user.
+	<i>**b) E-mail:**</i> Account email that is assigned to the user ex.: jperez@info-arch.com.
+	<i>**c) Password:**</i> The password assigned to the user account so you can enter the system.
+	<i>**d) ConfirmPassword:**</i> Registration of the password in the previous field is repeated.
+	
+5. Select the name of the employee who will be assigned a user account. 
+6. Enter the email address to be assigned. 
+7. Enter the password for the user account. 
+8. Repeat password registration. 
+9. Select the role assigned to the employee within the system. Consider that by default to all users of the system is created with the role of "User".
+10.  Select the "Create" option to save your changes.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+##### **iii. Emergency Exit record of an employee**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Pull down the menu and select the "Employee". Then the options "Add" and "View" unfold. 
+2. Select the "Add", then more menu options are displayed option. 
+3. Select the "Employee Emergency Leave" to see the registration form. 
+4. Then the registration form is displayed with the following information:
+	<i>**a) Employee:**</i> Displays a list of employees for whom can register.
+	<i>**b) Date of absence from work:**</i> Date on which the employee is off work or had to leave.
+	<i>**c) From:**</i> The time he left shift.
+	<i>**d) To:**</i> Time when I return to work.
+	<i>**e) Commentary:**</i> Brief comment on the reason for departure.
+	
+	![](/uploads/user-manual/1-user-manual.png)
+	
+5. Select the name of the employee for whom you wish to check. 
+6. Enter the date of absence or leave work. 
+7. Enter the time in which employee left work. 
+8. Enter the time in which the employee return to the company. 
+9. Enter a comment on the reason for the emergency exit. 
+10. Select the "Create" option to save all changes.
+
+##### **iv. Register delays an employee**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Pull down the menu and select the "Employee". Then the options "Add" and "View" unfold. 
+2. Select the "Add", then more menu options are displayed option. 
+3. Select the "Delay" to see the registration form 
+4. Then the registration form is displayed with the following information:
+	<i>**a) Employee:**</i> Displays a list with the names of employees who can be assigned accumulated delays. 
+	<i>**b) Period Start:**</i> Start date period that delays accumulate to register.
+	<i>**c) Period End:**</i> End date of the period that delays accumulate. 
+	<i>**d) Delay Time:**</i> Time recording accumulated delays within the period, can register only in hours, minutes only as in hours and minutes. 
+	<i>**e) Comment:**</i> Brief comment on the record made. 
+	
+![](/uploads/user-manual/1-user-manual.png)
+
+5. Select the name of the employee who is assigned a delayed schedule entry work. 
+6. Enter the start date period when the delay was recorded. 
+7. Enter the period end of the delay period was recorded. 
+8. Enter the time backlog. 
+9. Make a brief comment for the record. 
+10. Select the "Create" option to save your changes. 
+
+##### **v. Register Permissions on behalf of another employee**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Pull down the menu and select the "Employee". Then the options "Add" and "View" unfold. 
+2. Select the "Add", then more menu options are displayed option. 
+3. Select the "Permission for Employee" to see the registration form. 
+4. Then the registration form is displayed with the following information: 
+	<i>**a) Employee:**</i> Displays a list with the names of the employees who they can register permissions.
+	
