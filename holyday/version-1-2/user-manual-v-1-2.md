@@ -13,7 +13,15 @@ Facilitate the process of requests for absences, provide a better way to manage 
 
 ## 1.2.    MAIN FEATURES
 ## 1.3. ACRONYMS & ABBRIVIATIONS
-
+1. **CI:** Number of employee identification. 
+2. **ACCUM:** Vacation days accrued seniority. 
+3. **TAKED:** Days taken from the total of accumulated days. 
+4. **ABVL:** Available days of total accumulated days. 
+5. **WORE:** Hours that the company owes the employee. 
+6. **COM REQUEST:** Hours that the employee owes to the company. 
+7. **DBT:** Debit
+	<i>**a) EM:**</i> Total hours that the employee owes the company. 
+	<i>**b) COM:**</i> Total hours that the company owes to the employee. 
 # 2.0    SYSTEM FUNCTIONS
 ## 2.1    SYSTEM CONFIGURATION
 ## 2.2    SOFTWARE ROLES
@@ -806,4 +814,67 @@ To make the respective discount must perform the following steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-4. Then the discount is performed and the data is updated. To return to the individual Kardex select the "Back to list" option. 
+4. Then the discount is performed and the data is updated. To return to the individual Kardex select the "Back to list" option.
+
+###### <i>**ix) Assign collective vacations**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+In the upper part of the view of active employees (Employee > Active employees) there is a link for the assignment of holidays collectively, once they are accessed a form like the following is shown: 
+
+![](/uploads/user-manual/1-user-manual.png)
+1. Enter the start date of the collective vacations to be recorded. 
+2. Enter the ending date of the collective vacations to be recorded. 
+3. Detail why this vacation or recess activities was established. 
+4. Choose the type of application that best fits the reason for the departure. 
+5. Select the employees who want to assign the holidays. 
+6. **Save**: Save the record.
+
+
+The individual restoration of employee vacation informartion can become a very slow task if a large number of staff is spoken, so the restoration was collectively organized within the system. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+At the top of the view of the employees employed (Employee > Active employees) there is a link for the option Collectively reset, once it is accessed, a form like the following is displayed: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The administrator session must choose if he wants to indiscriminately reset information of all employees (All Employees) or if he wants to select only the information employees who already meet the age criterion set by the parameter reset (Enable Employees). 
+
+* Employees choose which you want to apply the reset. 
+* Reset confirm the list of selected employees through the All Reset button.
+
+###### <i>**x) Statistical report**</i>
+To facilitate understanding of the information contained within the system in more general terms, the system allows the generation of some statistical tables through a link at the bottom of the list of active employees. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+This link redirects us to a view like the one presented below, in which you can see the percentage of vacations taken from the total of employees, or the reason that greater absences represent the company: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**xi) Kardex General of employees PDF**</i>
+As a summary of each employee’s Kardex, the system collects the most important totals and presents them in a list of employees that details the most relef 
+
+You can access this report from the bottom of the list of active employees:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The report to which we redirected the link has a format like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. **CI:** Number of employee identification. 
+2. **Employee:** Employee's full name. 
+3. **Phone Number:** Contact telephone number of the employee. 
+4. **User Account:** Username in the system. 
+5. **Position:** Employee charge within the organization. 
+6. **Work Start Date:** Date of commencement of work the employee within the company. 
+7. **ACCUM:** Vacation days accrued seniority. 
+8. **TAKED:** Days taken from the total of accumulated days. 
+9. **ABVL:** Available days of total accumulated days. 
+10. **WORE:** Hours that the company owes the employee. 
+11. **COM REQUEST:** Hours that the employee owes to the company. 
+12. **DBT:** Debit
+	<i>**a) EM:**</i> Total hours that the employee owes the company. 
+	<i>**b) COM:**</i> Total hours that the company owes to the employee. 
