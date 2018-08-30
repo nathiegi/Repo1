@@ -338,13 +338,13 @@ List of requests that were denied by the supervisor or other responsible supervi
 #### **3.2.1.3. Detail of request received.**
 
 ![2 3 1 C 1 Detail Of Request Received](/uploads/holyday/2-3-1-c-1-detail-of-request-received.png "2 3 1 C 1 Detail Of Request Received")
-![](/uploads/user-manual/1-user-manual.png) 
+![2 3 1 C 2 Detail F Request Received](/uploads/holyday/2-3-1-c-2-detail-f-request-received.png "2 3 1 C 2 Detail F Request Received")
 
 The requests and events in the calendar allow us to see a small detail of the reason or event, also the list of requests allows us to see this detail, this in case the request has already been previously answered. 
 
 #### **3.2.1.4. How to reply a request.**
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 3 1 D How To Reply A Request](/uploads/holyday/2-3-1-d-how-to-reply-a-request.png "2 3 1 D How To Reply A Request")
 
 In the case of requests that are in waiting status, the detail shown is different, a window like the previous one is shown in which the supervisor before answering the request, accepting it or denying it, must type a Comment that justifies or accompanies his answer. 
 
@@ -369,7 +369,7 @@ In addition, if the reques had been approved, the corresponding update is perfor
 *2)* Select the option "Add", then the options "Area" and "Position" are displayed. 
 *3)* Select the "Area" option, then the form is displayed with the following fields: 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 15629](/uploads/holyday/user-guide-holyday-15629.png "User Guide Holyday 15629")
 
 *4)* In the registration form "Area" can enter the following information: 
 
