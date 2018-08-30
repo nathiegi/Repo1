@@ -6,3 +6,4 @@
 # Development Manual for BatMonitor
 
 ## Technologies used for the BatMonitor development
+## Points of Contacts
