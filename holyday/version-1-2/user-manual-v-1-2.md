@@ -445,4 +445,39 @@ To edit information for a position you need to follow the following steps:
 6. Enter the information you want to change the name of the position. 
 7. In the "Description" section enter the information you want displayed. 
 8. In the displayed list select the area you want that is associated with the position you are editing the information. 
-9. Select the "Save" option to save your changes. Then redirected to the general list of areas and positions already created. 
+9. Select the "Save" option to save your changes. Then redirected to the general list of areas and positions already created.
+
+#### **3.3.1.6. Remove Area.**
+1. Go to the general list of areas and positions (Consult See Areas and Positions). 
+2. Once you are in the general list of areas and positions locate the area you want to delete.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+3. Select the icon of a boat to remove the area, then the corresponding registration form with all the information you want to delete the area shown. 
+4. the confirmation form shown to remove the area. 
+5. Select the "Delete" option to delete all information from the selected area. Then, the area is deleted if no associated position and general list of areas and positions shown.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+6. If the area you want to delete positions has associated with it a form deletion confirmation showing the positions thereof shown. Select the "Delete Anyway" option if you want to remove anyway area. Then, the general list of areas and positions are displayed.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+#### **3.3.1.7. Delete Position.**
+To delete a position is necessary to follow these steps: 
+
+1. Go to the general list of areas and positions (see See Areas and Positions). 
+2. Once you are in the general list of areas and positions locate the area where you find the position you want to edit information. 
+3. Select the "Show Position" option to view the list of positions that are within the area. Below is a list of all deployed positions. 
+4. In the deployed position refer to the position you want to delete and select the icon of a trashcan, then the confirmation form shown proper disposal list.
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+5. The confirmation form removal shown with all position data that I select to remove. To remove the position of the area select the "Delete" option. If the position is not associated with any employee is then removed and redirected to the general list of areas and positions. 
+
+![](/uploads/user-manual/1-user-manual.png) 
+
+6. If the position has employees associated eliminate confirmation form is displayed with the names of the employees who are assigned to that position, if you want to remove select the "Delete Anyway" option. Then redirected to the general list of areas and positions. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
