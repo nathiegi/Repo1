@@ -598,7 +598,7 @@ To add a user you need to follow the following steps:
 	<i>**a) Employee:**</i> Displays a list with the names of the employees who they can register permissions.
 	<i>**b) Request Type:**</i> Displays a list of the main reasons for holidays that can be registered. 
 	<i>**c) Time:**</i> It indicates the time period that would last his absence on the day. 
-> 		<i>**A.M:**</i> Absence throughout the morning (within their working hours). 
-> 		<i>**P.M:**</i> Absence throughout the afternoon (within their working hours).
-> 		<i>**FULL TIME:**</i> Absence all day (within their working hours).
+> 	<i>**A.M:**</i> Absence throughout the morning (within their working hours). 
+> 	<i>**P.M:**</i> Absence throughout the afternoon (within their working hours).
+> 	<i>**FULL TIME:**</i> Absence all day (within their working hours).
 	
