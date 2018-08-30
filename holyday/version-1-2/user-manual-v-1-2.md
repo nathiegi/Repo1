@@ -1082,4 +1082,21 @@ The form allows the elimination of registration delays made on behalf of an empl
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-This list details the requests submitted by each employee as compensation for working overtime or time off work. 
+This list details the requests submitted by each employee as compensation for working overtime or time off work.
+The administration has the possibility to cancel the permit, whether this is approved or not. 
+
+##### **viii. List General Recovery Please Employee Hours**
+1. Select the "Employee" option. 
+2. In the menu that will be displayed choose the "View" option. 
+3. In the next menu level select the "Recovery Overtime Hours" option, this will redirect us to a view like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+Next, a detailed list will be displayed, once you entert “Recovery Overtime Hours” option. 
+This list will show us the hours that the worker had previoulsy, when one adds it. 
+In addition, you have the option “Delete”, which servers to delete the record in case one enters erroneous data. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+### 3.3.3. Item Team
+This section provides access to options for processing information teams. 
