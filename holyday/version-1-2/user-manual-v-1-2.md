@@ -1171,4 +1171,83 @@ After selecting the "Delete" option from the list of position on a team, a view 
 Shows a detailed view of the record to be deleted, requesting confirmation to accomplish this: 
 
 1. **Delete:** Confirms the permanent deregistration if this position is not associated with any employee in any team already established. 
-2. **Back to list:** Cancels the previously requested deletion and return to the list of positions. 
+2. **Back to list:** Cancels the previously requested deletion and return to the list of positions.
+
+#### **3.3.3.2. Section View**
+
+##### **i. General Team List**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of General Asset Equipment, for it must follow the following sequence:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Team" option 
+2. In the menu that will be displayed choose the View option 
+3. In the next menu level select the "Team" option, this will redirect us to a view like the one shown below:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The list shown corresponds to all currently active work teams for each record we find the following:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**a) Edit information from a computer (add more members)**</i>
+When you select the option to edit a form is displayed as follows: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+This view gives us the same options as the registration of new equipment, carrying the appropriate equipment you want to edit information. 
+
+###### <i>**b) Remove / Unsubscribe a team**</i>
+The system allows two different actions regarding elimination of teams: 
+
+**Remove team** permanently so that such equipment no longer recorded in the history of work of employees who integrated. When this option is selected the following confirmation form is presented:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+**Delete** It allows us to confirm the permanent removal of the working team under the above conditions. 
+
+**Back to List** Cancels the deletion requested returning to the list of active work teams.
+
+The second way proposed disposal is the "Unsubscribe" which allows the computer even after being removed from the list of active teams in the history record work / work teams each employee who joined it. 
+When accessing this option will have a confirmation form as follows: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+**Unsubscribe** It allows us to confirm the permanent removal of the working team under the above conditions. 
+
+**Back to List** Cancels the deletion requested returning to the list of active work teams.
+
+###### <i>**c) Individual Team Report**</i>
+Each team active work can generate a pdf report presented in the following format: 
+1. Subscription Date: Employee integration date to the Task Force. 
+2. Unsubscribe Date: Date the employee was no longer part of the team. 
+3. Employee: Name of the employee. 
+4. Position in Team: Or occupied position of the employee within the team.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**d) General Report of Work Teams**</i>
+At the bottom of the complete list of work teams we have the option to Export a detail of all work teams, both active and inactive. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+The report that is generated has the following format: 
+1. **Team Name:** Each team name 
+2. **Description:** Short description corresponding to each team. 
+3. **Creation Date:** Date the team. 
+4. **Elimination Date:** If the equipment had been discharged, this column shows the date on which this action was carried out. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**e) Information of each work team**</i>
+By accessing the detail view team we can see a detail like the following: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+A full list of members of the team and the positions thereof within the equipment shown.
+
+### 3.3.4. Configuration Item
+In order to ensure the correct functioning of the system in terms of request management and updating of Kardex, it is necessary to have backup parameters. This is what is managed in this system module. 
