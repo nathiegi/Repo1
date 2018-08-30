@@ -32,7 +32,7 @@ Facilitate the process of requests for absences, provide a better way to manage 
 ## 2.3    APPLICATION MODULES
 ### User Role.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![1 1 1 User Role](/uploads/holyday/1-1-1-user-role.png "1 1 1 User Role")
 
 1. This option will take you to the home page, where the user can see general information about the system and the company.  
 2. This option shows information about the employee in session.  
