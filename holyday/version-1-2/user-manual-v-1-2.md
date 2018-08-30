@@ -1250,4 +1250,50 @@ By accessing the detail view team we can see a detail like the following:
 A full list of members of the team and the positions thereof within the equipment shown.
 
 ### 3.3.4. Configuration Item
-In order to ensure the correct functioning of the system in terms of request management and updating of Kardex, it is necessary to have backup parameters. This is what is managed in this system module. 
+In order to ensure the correct functioning of the system in terms of request management and updating of Kardex, it is necessary to have backup parameters. This is what is managed in this system module.
+
+#### **3.3.3.1. Section Tools**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of configuration parameters for it must follow the following sequence: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Configuration" option. 
+2. In the menu that is displayed, choose "Tools" option, this will redirect us to a view like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+This window displays a number of lists containing the different parameters or information to be considered within the system. 
+
+##### **i. See Parameter List of vacation days during years of service in the company**
+List of corresponding holiday days according to years of service rendered by employees, established in the General Labor Law - Bolivia. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+##### **ii. Parameter List days prior to form submission**
+List of necessary days in advance to send a request for absence in the conventional cases contemplated.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+##### **iii. Parameter list for discount vacation days accumulated delays**
+List of discounts for delays or unjustified absences.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+<i>a) Add New Parameter</i>
+<i>b) Edit Information Parameter</i>
+
+##### **iv. List of dates that should not send requests for time off**
+List of dates in which you should not send vacation requests 
+
+Informative section for dates of presentations or other events in which the presence of all the staff is required, for the employee to consider before sending a request for a vacation. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+<i>a) Add New Parameter</i>
+<i>b) Edit Information Parameter</i>
+
+##### **v. See parameter to reset holiday**
+Parameter set by management for resetting holiday available. 
