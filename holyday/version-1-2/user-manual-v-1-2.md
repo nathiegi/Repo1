@@ -671,14 +671,14 @@ To see the general list of active employees must perform the following steps:
 <i>i) Start date employee's work.</i>
 <i>j) Displays a list showing the following:</i>
 
-> 	<i>**i Edit:**</i> This option redirects to the form that allows you to edit employee information.
-> 	<i>**ii Details:**</i> Redirected to form with all employee information. 
-> 	<i>**iii Delete:**</i> Send the confirmation form to unsubscribe an active employee.
-> 	<i>**iv Edit Work scheduleelete:**</i> Send the form to edit the work schedule the employee.
-> 	<i>**vReset:**</i> Redirects to the individual holiday selection form that allows you to delete the days available for holidays not taken in a certain period. 
-> 	<i>**vi Assing supervisor:**</i> Take the form that allows you to assign supervisors to an already created employee.
-> 	<i>**vii Kardex View:**</i> Redirect to the employee’s individual Kardex view that contains all the information about the requested permits that were approved. 
-> 	<i>**viii Exports to employee's teams to PDF:**</i> It shows a document in PDF with the history of all the equipment in which the employee works before and currently works.
+> 	<i>**i) Edit:**</i> This option redirects to the form that allows you to edit employee information.
+> 	<i>**ii) Details:**</i> Redirected to form with all employee information. 
+> 	<i>**iii) Delete:**</i> Send the confirmation form to unsubscribe an active employee.
+> 	<i>**iv) Edit Work scheduleelete:**</i> Send the form to edit the work schedule the employee.
+> 	<i>**v) Reset:**</i> Redirects to the individual holiday selection form that allows you to delete the days available for holidays not taken in a certain period. 
+> 	<i>**vi) Assing supervisor:**</i> Take the form that allows you to assign supervisors to an already created employee.
+> 	<i>**vii) Kardex View:**</i> Redirect to the employee’s individual Kardex view that contains all the information about the requested permits that were approved. 
+> 	<i>**viii) Exports to employee's teams to PDF:**</i> It shows a document in PDF with the history of all the equipment in which the employee works before and currently works.
 
 <i>k) Move to the next or previous page to see the other records.</i>
 <i>Shows a PDF document containing a summary of the individual Kardex of all employees.</i>
@@ -686,3 +686,5 @@ To see the general list of active employees must perform the following steps:
 
 ![](/uploads/user-manual/1-user-manual.png)
 
+###### <i>**i) Edit Information an employee:**</i>
+To edit information for an employee must perform the following steps:
