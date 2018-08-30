@@ -691,4 +691,13 @@ To edit information for an employee must perform the following steps:
 
 1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
 2. Find the name of the employee you want to edit information. 
-3. Select the square-shaped icon to display the list of options, then select the "Edit" option to access the form that allows you to edit information servery. 
+3. Select the square-shaped icon to display the list of options, then select the "Edit" option to access the form that allows you to edit information servery.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+4. Then the form is displayed to edit in which you must enter the information you want to change. 
+5. Once all the changes select the "Save" option to save and update information.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**i) Information details an employee:**</i>
