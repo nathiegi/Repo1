@@ -877,4 +877,67 @@ The report to which we redirected the link has a format like the one shown below
 11. **COM REQUEST:** Hours that the employee owes to the company. 
 12. **DBT:** Debit
 	<i>**a) EM:**</i> Total hours that the employee owes the company. 
-	<i>**b) COM:**</i> Total hours that the company owes to the employee. 
+	<i>**b) COM:**</i> Total hours that the company owes to the employee.
+	
+###### <i>**xii) Discount vacation days for delays**</i>
+Discounts vacation days for delays are made according to the amount of reatrasos have accumulated an employee in accordance with the bylaws of the company and the detail of the days are discounted by the accumulated delays are in section (<a href="">Configuration</a> - <a href="">Tools</a> - <a href="">Delays Validation Parameters)</a>  
+
+To make the discount vacation days for delays must perform the following steps: 
+1. Enter "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>).
+2. Select the "Collective discounts for delays". It then displays a list of all data registered employees 
+3. Here is the following: 
+<i>a) Drop-down list indicating the amount of data to be displayed on the page.</i>
+<i>b) Search field.</i>
+<i>c) Initial field enabled to mark all names from the list of employees.</i>
+<i>d) Employee personal information.</i>
+<i>e) To select or not or employees who want to make the discount.</i>
+<i>f) Number of pages lists.</i>
+<i>g) Button to save the changes.</i>
+4. Select the initial field (c) to select all employees if you want to discount all employees of the list; You can also select only those employees who want to make the corresponding discount. 
+5. Select the "Save" option (g) for the discount. 
+6. Then a message is displayed while it is checked whether there backlogs for discounts vacation days, once made the verification process discounts are performed according to specified table (<a href="">Delays Validation Parameters</a>). Once the process redirected to the list of active employees.
+
+![](/uploads/user-manual/1-user-manual.png)
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**xiii) Discount vacation days for hours that the employee owes the company**</i>
+Discounts vacation days are made according to the number of hours an employee owes the company, if you owe the equivalent in hours of part time (Depending on your work schedule) will be discounted half-day holiday, if the employee must be a full-time (according to your work schedule) it will be discounted vacation day, if the debt of hours by the employee to the company exceeds the half-day or full day is deducted equivalent in days according to above parameters.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Enter "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
+2. Select the "Collective discounts for Compensation Hours" option. It then displays a list of all data registered employees. 
+3. List of all registered employees. 
+4. If you want to make discount for all employees select the next field to mark all the names on the list, otherwise select only the box in the row of the person you want to discount vacation days. 
+5. Select the "Save" option to save your changes. 
+6. Next, a message is displayed to verify if there are accumulated hours that the employee owes to the company to make discounts are made according to the specified condition. Once the process if finished, it redirects to the list of active employees. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+##### **ii. List of inactive employees**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of inactive employees or previously discharged, for it must follow the following sequence: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Employee" option. 
+2. In the menu that will be displayed choose the "View" option. 
+3. In the next menu level select the "Inactive Employees" option, this will redirect us to a view like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+In this view, a list of employees previously given low shown, detailing certain information, both personal and business per employee. 
+
+Access to the other options are also allowed:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+4. The option **"Edit"** redirects us to the employee edit form, which has already detailed in the list of active employees at the point **Edit Employee Information**. 
+5. The option **"Details"** redirects us a detailed view with the corresponding employee data, this view has already been explained in the list of active employees at the point **Details Employee Information**. 
+6. In addition, from this list we can also know the email address associated with this employee, and if deemed necessary contact with him through it.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+> **NOTE:** If the view to which you access through this tab is different or does not have all the detailed options here, it is that the role assigned to it does not have the appropriate permissions.
