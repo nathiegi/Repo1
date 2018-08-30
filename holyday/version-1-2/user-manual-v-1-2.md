@@ -1099,4 +1099,77 @@ In addition, you have the option “Delete”, which servers to delete the recor
 ![](/uploads/user-manual/1-user-manual.png)
 
 ### 3.3.3. Item Team
-This section provides access to options for processing information teams. 
+This section provides access to options for processing information teams.
+
+#### **3.3.3.1. Add Section.**
+##### **i. Register a team**
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In the case that you want to create a team , you must follow the following sequence:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Team" option 
+2. In the menu that will be displayed choose "Add" option 
+3. In the next menu level select the "Team" option, this will redirect us to a view like the one shown below:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. You must enter a name to identify the new team, in the "Name" field. 
+2. You must also enter a short description of the purpose of the equipment or other information deemed useful. 
+3. In this section of the page is requested to integrate the team members and assign each a working position within it, a way to facilitate the organization. 
+4. Each member is selected to belong to the team you must press the button "Add" to integrate them prior to the creation of the team list. 
+5. For each employee included in the previous list forming the team, you have the ability to remove the same, as required.
+
+###### <i>**a) Add members to a team**</i>
+To be creating a team successfully, it must have at least one member loaded in the previous roster. 
+
+6. Once enter all the information listed above, select the Create button to save the record created. If this action was carried out correctly it will be redirected to the list of active work teams. 
+
+##### **ii. Add positions for a team**
+The teams are managed independently of the charges of work established in the organization chart, so it is necessary to keep track of the positions or positions that can be handled within each of these teams. 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter Positions creation form, for it must follow the following sequence:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Team" option 
+2. In the menu that will be displayed choose "Add" option 
+3. In the next menu level select the "Position Team" option, this will redirect us to a view like the one shown below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+![](/uploads/user-manual/1-user-manual.png)
+
+1. When you select Create a form is displayed as follows: 
+1.1. The form will be visible only after selecting the Create option. 
+1.2. Name: Enter the name, acronym or abbreviation for the position you want to create. 
+1.3. Description of Position: Enter a short description or breakdown stands or before abbreviation entered. 
+1.4. Confirm the creation of the new working position by selecting the Create button.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+2. The user can filter the information based on how many records you want to see for each page. 
+3. Will be searchable on the list through the filter "Search" at the top right of the page. 
+4. If the information recorded on the list exceeds the number of records to see per page, the following records will be listed on additional pages as appropriate. 
+
+###### <i>**a) Edit Information Position in team**</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Change the name as appropriate. 
+2. Enter or modify the description as appropriate. 
+3. Save your changes using the "Save" button.
+
+###### <i>**b) Delete Record position on a computer**</i>
+After selecting the "Delete" option from the list of position on a team, a view like that shown below will be displayed:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+Shows a detailed view of the record to be deleted, requesting confirmation to accomplish this: 
+
+1. **Delete:** Confirms the permanent deregistration if this position is not associated with any employee in any team already established. 
+
+2. **Back to list:** Cancels the previously requested deletion and return to the list of positions. 
