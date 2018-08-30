@@ -8,10 +8,10 @@
 
 
 # 1.0. GENERAL INFORMATION
-## 1.1. SYSTEM OVERVIEW
+## 1.1. Objective of the Document
 
 
-## 1.2.    MAIN FEATURES
+## 1.2.    MAIN Functions
 ## 1.3. ACRONYMS & ABBRIVIATIONS
 
 # 2.0    SYSTEM FUNCTIONS
