@@ -768,3 +768,33 @@ Clicking on the link to **Reset** a form as we see shown below:
 ![](/uploads/user-manual/1-user-manual.png)
 
 4. Then following shows all the information of the employee’s personal Kardex.
+<i>a) Dates of beginning and end in which absences or delays were recorded.</i>
+<i>b) Indicates days holiday that were taken.</i>
+<i>c) It indicates the hours that the employee owes the company.</i>
+<i>d) Hours the employee has in its favor.</i>
+<i>e) Indicates the accumulated delays having the employee in a time frame.</i>
+<i>f) Indicates the main motive of the record.</i>
+<i>g) It shows an additional comment to the record made by the employee explaining the reason for the permission I request or the comment made by the administration when registering a permit on behalf of the employee.</i>
+<i>h) Shows the summary of the days take two, days available for employee hours, hours that must delays.</i>
+<i>i) Redirects to the form that allows calculations of compensation of hours for employees.</i>
+<i>j) Redirects to a PDF document that shows information of the employee’s individual Kardex.</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
+###### <i>**vii) Holiday discount for hours the employee due to the company**</i>
+To make the respective discount must perform the following steps: 
+ 1. Go to the individual employee Kardex you want to make the discount vacation days (Consult Item Employee - Section View - List of active employees - View Kardex). 
+ 2. Select the "Compensation Hours" to see the form that allows the discount days. 
+ 3. Select the "Compensation Hours" to make the discount due to the following rules: 
+<i>**For women:**</i>
+<i>If you must 8 hours a day of their vacation days available discounted.</i> 
+<i>Whether to 4 hours, half day holiday of your days available discounted.</i>
+
+<i>**For men:**</i> 
+<i>If you must 9 hours a day of vacaiones of its available days is discounted.</i>
+<i>If you must 4 hours 30 min: half day holiday discounted.</i>
+
+ 4. Then the discount is performed and the data is updated. To return to the individual Kardex select the "Back to list" option.
+
+![](/uploads/user-manual/1-user-manual.png)
+
