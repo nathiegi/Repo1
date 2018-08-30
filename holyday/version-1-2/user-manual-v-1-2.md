@@ -323,7 +323,7 @@ Selecting any of these events on the calendar, we are shown a pop-up with a basi
 #### **3.2.1.2. General Requests List of supervisees employees.**
 In the top of the general calendar there is a link to Requests, where the supervisor can see the same detail charged on the calendar, but in a list format as you see below. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 3 1 A 2 See General Kardex](/uploads/holyday/2-3-1-a-2-see-general-kardex.png "2 3 1 A 2 See General Kardex")
 
 ##### **Accepted.** 
 List of request that were previously approved by the supervisor, as a reminder of already authorized permissions for his employees supervisees. 
