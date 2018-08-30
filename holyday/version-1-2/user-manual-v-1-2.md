@@ -317,13 +317,14 @@ A supervisor can reply to the requests of his supervisees, this is because he kn
 Team Request shows us in the first view a calendar in the current date with the details of the registered holidays and requests received for his supervisees.
 
 ![2 3 1 A 1 See General Kardex](/uploads/holyday/2-3-1-a-1-see-general-kardex.png "2 3 1 A 1 See General Kardex")
+![2 3 1 A 2 See General Kardex](/uploads/holyday/2-3-1-a-2-see-general-kardex.png "2 3 1 A 2 See General Kardex")
 
 Selecting any of these events on the calendar, we are shown a pop-up with a basic detail of the event. If the event needs an answer the pop-up allows us to redirect the details of the request or event to answer.
 
 #### **3.2.1.2. General Requests List of supervisees employees.**
 In the top of the general calendar there is a link to Requests, where the supervisor can see the same detail charged on the calendar, but in a list format as you see below. 
 
-![2 3 1 A 2 See General Kardex](/uploads/holyday/2-3-1-a-2-see-general-kardex.png "2 3 1 A 2 See General Kardex")
+![2 3 1 B General Request List Of Suervisees Employees](/uploads/holyday/2-3-1-b-general-request-list-of-suervisees-employees.png "2 3 1 B General Request List Of Suervisees Employees")
 
 ##### **Accepted.** 
 List of request that were previously approved by the supervisor, as a reminder of already authorized permissions for his employees supervisees. 
