@@ -634,4 +634,19 @@ To add a user you need to follow the following steps:
  10. Select the "Create" option, this will process the data you entered and will automatically be redirected to the view with the other hours to favor assign to other users.
 
 ##### **vii. Assign work schedule an employee**
-Before performing this step is necessary to register employee (<a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">See Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-add">Section Add</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-add-employee">Add Employee</a>) Because, once this step, redirects to create a user and then assign work schedules to an employee. Concluded previous records will be a form with the information needed to enter the new work schedule for this employee should follow these steps: 
+Before performing this step is necessary to register employee (<a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">See Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-add">Section Add</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-add-employee">Add Employee</a>) Because, once this step, redirects to create a user and then assign work schedules to an employee. Concluded previous records will be a form with the information needed to enter the new work schedule for this employee should follow these steps:
+
+1. Enter the time of entry into the morning shift. 
+2. Enter the departure time for the morning shift. 
+3. Enter the time Income afternoon shift. 
+4. Enter the departure time for the afternoon shift. 
+5. Select the days on which this work schedule will be met. 
+6. Select the "Create" option to save your changes. Then redirected to the general list of active employees. 
+
+#### **3.3.2.1. Section View.**
+##### **i. List of active employees**
+
+![](/uploads/user-manual/1-user-manual.png)
+![](/uploads/user-manual/1-user-manual.png)
+
+To see the general list of active employees must perform the following steps:
