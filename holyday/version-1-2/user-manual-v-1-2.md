@@ -987,4 +987,24 @@ Option **Delete** allows the administrator session unsubscribe or remove account
 
 **Delete** button present on this form allows the administrator session to confirm that you want to delete the selected record, otherwise can return to a view of the above list by **Back to List**.
 
-> **NOTE:** If the view to which you access through this tab is different or does not have all the detailed options here, it is that the role assigned to it does not have the appropriate permissions.   
+> **NOTE:** If the view to which you access through this tab is different or does not have all the detailed options here, it is that the role assigned to it does not have the appropriate permissions.
+
+##### **iv. List of Supervisors**
+The list of supervisors turn shows drop-down lists for each supervisor, each of these lists corresponds to staff that the supervisor is responsible directly.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of Supervisors, for it must follow the following sequence:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Employee" option. 
+2. In the menu that will be displayed choose the "View" option. 
+3. In the next menu level select the "Supervisors" option, this will redirect us to a view like the one shown below: 
+This view also presents a number of options that are explained below: 
+
+![](/uploads/user-manual/1-user-manual.png)
+
+For both supervisors and the direct supervision, there are other options that can be performed on their records: 
+
+###### <i>**a) Delete a supervisor**</i>
