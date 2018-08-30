@@ -106,8 +106,7 @@ d) View personal Kardex.
 
 ##### b. <i>**Change Password**</i>
 
-![](/uploads/user-manual/1-user-manual.png) 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 1 A B Change Password](/uploads/holyday/2-2-1-a-b-change-password.png "2 2 1 A B Change Password")
 
 1. Go to Profile. 
 2. Select the option "Click here to change your password" from the "Account Password" section. Then a text field and the options "Submit" and "Cancel" is displayed. 
@@ -119,8 +118,7 @@ d) View personal Kardex.
 
 ##### c. <i>**Change Phone Number**</i>
 
-![](/uploads/user-manual/1-user-manual.png) 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 1 A C Change Phone Number](/uploads/holyday/2-2-1-a-c-change-phone-number.png "2 2 1 A C Change Phone Number")
 
 1. Go to Profile. 
 2. Select the "Edit" option from the "Phone Number" section, then a text field unfolds and options "Send" and "Cancel" are displayed. 
@@ -132,7 +130,7 @@ d) View personal Kardex.
 1. Go to Profile. 
 2. At the bottom left of the overview of your profile, there is a link called "See Kardex", which will take you to the Kardex View. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 1 A D See Kardex](/uploads/holyday/2-2-1-a-d-see-kardex.png "2 2 1 A D See Kardex")
 
 3. In view of Kardex personal information is as follows: 
 
@@ -158,14 +156,14 @@ d) View personal Kardex.
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select "Time Off" option, then the form with the required fields for recording the request is displayed. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 A I Send Absence Request](/uploads/holyday/2-2-2-a-i-send-absence-request.png "2 2 2 A I Send Absence Request")
 
 3. The form contains the following fields: 
 
  <i>**a. Reason of Request:**</i> Indicates the main reason why you are requesting permission to be absent from work, there are special cases of kinds of reasons that are unique to a particular genre according to law (Male and Female) and permissions that are accessible to all workers of the company : 
  <i>i. Types of permits for workers:</i>
  
- ![](/uploads/user-manual/1-user-manual.png) 
+ ![2 2 2 A I 3 A I Types Of Permits For Workers](/uploads/holyday/2-2-2-a-i-3-a-i-types-of-permits-for-workers.png "2 2 2 A I 3 A I Types Of Permits For Workers")
  
  * Vacation: Holiday that correspond to the number of years of service in leading the company. 
  * illnes: Because of disease presentation document on medical leave granted health insurance to which the worker is affiliated by the company. 
@@ -177,7 +175,7 @@ d) View personal Kardex.
 
 <i>ii. Exclusive types of permits for women workers:</i>
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 A I 3 A I 2 Exclusive Types Of Permits For Women Workers](/uploads/holyday/2-2-2-a-i-3-a-i-2-exclusive-types-of-permits-for-women-workers.png "2 2 2 A I 3 A I 2 Exclusive Types Of Permits For Women Workers")
 
 * Breastfeeding Period: Tolerance of one hour daily for breastfeeding during the first year of the child. 
 * Foor motherhood: Rest period before and after childbirth. 
@@ -185,7 +183,7 @@ d) View personal Kardex.
 
 <i>iii. Exclusive types of permits for workers:</i>
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 A I 3 A I 3 Exclusive Types Of Permits For Men Workers](/uploads/holyday/2-2-2-a-i-3-a-i-3-exclusive-types-of-permits-for-men-workers.png "2 2 2 A I 3 A I 3 Exclusive Types Of Permits For Men Workers")
 
 * For Fatherhood: Leave for childbirth (3 days). 
 
@@ -210,7 +208,7 @@ d) View personal Kardex.
 
 ##### **Send request of Hours to favor for the Employee.**
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 A Ii Send Request Of Hours To Favor For The Employee](/uploads/holyday/2-2-2-a-ii-send-request-of-hours-to-favor-for-the-employee.png "2 2 2 A Ii Send Request Of Hours To Favor For The Employee")
 
 1. Go to “Request” option, select "New Request", then "Time Off” and "Hour to favor" options are displayed . 
 2. Select the "Hour to favor", then the form with the required fields for recording the request is displayed.  
@@ -234,12 +232,12 @@ For sending requests must perform the following steps:
 3. Select the "My Request". Then, all sent requests are shown organized by their response status. . 
 4. This section lists all requests sent separated by the response status.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B My Request Section](/uploads/holyday/2-2-2-b-my-request-section.png "2 2 2 B My Request Section")
 
 **i. Accepted.**
 This section contains all the applications submitted which were accepted.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B A Accepted](/uploads/holyday/2-2-2-b-a-accepted.png "2 2 2 B A Accepted")
 
 *a)* It indicates the amount of data you want to see. 
 *b)* Indicates the date when the request was made. 
@@ -250,7 +248,7 @@ This section contains all the applications submitted which were accepted.
 **ii. Waiting.**
 This section contains all the requests sent that are waiting for a response or supervisors. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B B Waiting](/uploads/holyday/2-2-2-b-b-waiting.png "2 2 2 B B Waiting")
 
 *1)* Indicates the date when the request was made. 
 *2)* It shows the name of who sent the request. 
@@ -261,7 +259,7 @@ This section contains all the requests sent that are waiting for a response or s
 **iii.  Denied.**
 This section shows the requests denied by your supervisor(s).
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B C Denied](/uploads/holyday/2-2-2-b-c-denied.png "2 2 2 B C Denied")
 
 *a)* Indicates the date when the request was made. 
 *b)* Displays the name of the employee who sent the request. 
@@ -277,7 +275,7 @@ To see the Details of your Request you need to:
 *4)* To access to the request details, you can select the "Details" in "Denied", "Waiting" or "Accepted" sections.  
 *5)* Once you have selected the request to see the details, the form will be displayed.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B D Request Detail](/uploads/holyday/2-2-2-b-d-request-detail.png "2 2 2 B D Request Detail")
 
 *6)* Select the "Go back" option to return to the list of all requests sent.
 
@@ -288,7 +286,7 @@ To edit the information of the submitted request, you must perform the following
 *3)* Select the "My Request" option. Then, all sent requests are shown organized by their response status.  
 *4)* In the "Waiting" section select the "Edit" option of the request you want to edit the information.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![2 2 2 B E Edit A Request](/uploads/holyday/2-2-2-b-e-edit-a-request.png "2 2 2 B E Edit A Request")
 
 *5)* Then the form is displayed to edit the information of the request as a record of "Time Off" or a record of "Hour to favor".
 
