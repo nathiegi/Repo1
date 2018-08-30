@@ -688,3 +688,7 @@ To see the general list of active employees must perform the following steps:
 
 ###### <i>**i) Edit Information an employee:**</i>
 To edit information for an employee must perform the following steps:
+
+1. Enter to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="">Section View</a> - <a href="">List of active employees</a>). 
+2. Find the name of the employee you want to edit information. 
+3. Select the square-shaped icon to display the list of options, then select the "Edit" option to access the form that allows you to edit information servery. 
