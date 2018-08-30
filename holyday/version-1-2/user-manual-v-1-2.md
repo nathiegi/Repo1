@@ -1296,4 +1296,22 @@ Informative section for dates of presentations or other events in which the pres
 <i>b) Edit Information Parameter</i>
 
 ##### **v. See parameter to reset holiday**
-Parameter set by management for resetting holiday available. 
+Parameter set by management for resetting holiday available.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+<i>a) Edit Information Parameter</i>
+
+#### **3.3.3.2. Section Holidays**
+Registration and management of holidays, both holidays as holidays, it is necessary for the proper management of Kardex updates.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of public / Conmemorables days, it should follow the following sequence:
+
+![](/uploads/user-manual/1-user-manual.png)
+
+1. Select the "Configuration" option. 
+2. In the menu displayed select the "Holiday" option, that we redirect to a view like the one shown below:
+
+##### **i. General list of holiday dates**
