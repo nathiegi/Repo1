@@ -650,3 +650,36 @@ Before performing this step is necessary to register employee (<a href="http://1
 ![](/uploads/user-manual/1-user-manual.png)
 
 To see the general list of active employees must perform the following steps:
+
+1. Delegue the menu and select the "Employee", then the options "Add" and "View" option unfold. 
+2. Select the "View" then more menu options are displayed. 
+3. Select the "Active Employees" option, then the general list of active employees is shown with the following information:
+	<i>a) In this section are the options:</i>
+> 	<i>**Add Employee:**</i> Send to the employee creation form.
+> 	<i>**Reset All:**</i> Redirects to form reset untaken by employees. 
+> 	<i>**Collective vacations:**</i> Redirects the reinstament form for holidays not taken by employees. 
+> 	<i>**Collective discount for compesation hours:**</i> Redirects to a list containing registered employees so that they can make appropriate discounts.
+> 	<i>**Collective discounts Delays:**</i> Redirects to a list that contains registered employees so that the discount can be made for accumulated delays at the tieme of entry. 
+<i>b) Search text field name in the list of active employees.</i>
+<i>c) This section lists the names of employees.</i>
+<i>d) Identification number employee identity card.</i>
+<i>e) By the employee within the company.</i>
+<i>f) Employee personal mail.</i>
+<i>g) Personal phone number.</i>
+<i>h) Date of birth of the employee.</i> 
+<i>i) Start date employee's work.</i>
+<i>j) Displays a list showing the following:</i>
+> 	<i>**Edit:**</i> This option redirects to the form that allows you to edit employee information.
+> 	<i>**Details:**</i> Redirected to form with all employee information. 
+> 	<i>**Delete:**</i> Send the confirmation form to unsubscribe an active employee.
+> 	<i>**Edit Work scheduleelete:**</i> Send the form to edit the work schedule the employee.
+> 	<i>**Reset:**</i> Redirects to the individual holiday selection form that allows you to delete the days available for holidays not taken in a certain period. 
+> 	<i>**Assing supervisor:**</i> Take the form that allows you to assign supervisors to an already created employee.
+> 	<i>**Kardex View:**</i> Redirect to the employee’s individual Kardex view that contains all the information about the requested permits that were approved. 
+> 	<i>**Exports to employee's teams to PDF:**</i> It shows a document in PDF with the history of all the equipment in which the employee works before and currently works.
+<i>k) Move to the next or previous page to see the other records.</i>
+<i>Shows a PDF document containing a summary of the individual Kardex of all employees.</i>
+<i>Redirects to a statistical report showing vacation days of employees and the number of applications by type of holiday available.</i>
+
+![](/uploads/user-manual/1-user-manual.png)
+
