@@ -760,3 +760,11 @@ Clicking on the link to **Reset** a form as we see shown below:
 10. Once all the changes press the "Save Changes" option to save.
 
 ###### <i>**vi) See kardex Individual**</i>
+
+1. Enter  to "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
+2. Find the name of the employee you want to view their individual kardex. 
+3. Select the square-shaped icon to display the list of options, then select the "View kardex" option.
+
+![](/uploads/user-manual/1-user-manual.png)
+
+4. Then following shows all the information of the employee’s personal Kardex.
