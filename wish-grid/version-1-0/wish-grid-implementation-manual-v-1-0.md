@@ -2,12 +2,13 @@
 <!-- SUBTITLE: A quick summary of Wish Grid Implementation Manual V1.0 -->
 
 # Implementation Manual
-### Project Name:______________________________
-### Version: ___________________________________
-### Last Modified date: _________________________
+### Project Name: WishGrid
+### Version: 1.0
+### Last Modified date: 08/24/2018
+
 
 ## Purpose
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+This document aims to show how the WishGrid software was implemented, indicating in broad strokes the technologies used.
 ## System Description
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
 
