@@ -110,6 +110,57 @@ Once the WishGrid script has been executed, the following steps will be followed
 The WishGrid team performs the entire procedure to add the Tenant; otherwise, the team can enter the data to add it as follows:
 ![Im 20 Table Tenant](/uploads/wish-grid/im-20-table-tenant.png "Im 20 Table Tenant")
 
+a)	Address of the person or company that owns the Tenant.
+b)	Name of the person or company that will be the owner of the Tenant.
+c)	NIT of the person or company that owns the Tenant.
+d)	Landline or mobile phone of the person or company that owns Tenant.
+e)	State of the Tenant (True so that it is activated, otherwise it can not be used).
+f)	Address given by WishGrid (domain for the Tenant).
+g)	Moderation of Tenant (if the suggestion needs to be moderated).
+h)	Address of the logo of the Person or Company owner of the Tenant (You can save the image inside the folder of the web page deployed, in this case, enter the address of the image, example in the box above).
+i)	Address of the main page of the person or company that owns Tenant.
+
+•	Once the Tenant is created, from the Application create a user account from the address that WishGrid provided (URLOrigin field in the "Tenant" table).
+
+![Im 21 Create User In Wishgrid](/uploads/wish-grid/im-21-create-user-in-wishgrid.png "Im 21 Create User In Wishgrid")
+
+Within the Database, in the table "dbo.User" select "Edit Top 200 Rows", and modify the following data:
+![Im 22 Table User](/uploads/wish-grid/im-22-table-user.png "Im 22 Table User")
+
+a)	Modify the RoleId field of 4 by 2 (Administrator), we recommend creating a single "Administrator" to control the application and delegate "Moderator" (Explained in the Implementation Manual).
+b)	All Users created in the Tenant of the people or companies within WishGrid, are created as "False" for the respective validation of the account (Explained in the Implementation Manual). You can modify from the Database and write "True" in the field "Validation", to skip the step of the Implementation Manual.
+
+Once all the steps mentioned above have been completed, you can enter as a WishGrid administrator to start using the application.
+
+## Deployment of the API
+Since the application is multi-tenant, you will have a single API in which the pages are consuming the services of this API, so you must implement the deployment of our API and our pages separately.
+
+### Install Net Core
+Download .NET Core 2.0 SDK, double-click on the exe, and start the installation process.
+![Im 23 Netcore Setup](/uploads/wish-grid/im-23-netcore-setup.png "Im 23 Netcore Setup")
+
+Once this process ends, it will show the following window.
+![Im 24 Netcore Setup Finished](/uploads/wish-grid/im-24-netcore-setup-finished.png "Im 24 Netcore Setup Finished")
+
+### Install Net Core Windows Hosting
+Since the application is made in .NetCore, it runs on a kestrel server and can’t be deployed in an IIS server, but you can use IIS to proxy it to our application, to do so you must install net core windows hosting.
+First double-click the .net core Windows server hosting and start the installation process, once finished, it will show next window
+![Im 25 Netcore Windows Hosting](/uploads/wish-grid/im-25-netcore-windows-hosting.png "Im 25 Netcore Windows Hosting")
+
+We create a folder in the local machine. Within that folder, we will place all our files for implementation. Then, right click on the name of the Project and click Publish option 
+![Im 26 Project Publish 1](/uploads/wish-grid/im-26-project-publish-1.png "Im 26 Project Publish 1")
+
+In the next window you will create the production files and place them in the folder that we created
+![Im 27 Project Publish 2](/uploads/wish-grid/im-27-project-publish-2.png "Im 27 Project Publish 2")
+
+The production files in the folder will be the following:
+![Im 28 Project Publish 3](/uploads/wish-grid/im-28-project-publish-3.png "Im 28 Project Publish 3")
+
+### Datasource
+In order to make the API communicate with the database we must indicate to the database that we want to locate, for that you must configure the appsettings.json located in the folder where we have published the project:
+
+![Im 29 Datasource](/uploads/wish-grid/im-29-datasource.png "Im 29 Datasource")
+
 # Troubleshooting
 ### Scenario 1
 Scenario and how to fix  it
