@@ -188,10 +188,19 @@ The IIS by Default blocks the http requests Edit and Delete, as well as the requ
 
 ![Im 36 Web Config Permisions 1](/uploads/wish-grid/im-36-web-config-permisions-1.png "Im 36 Web Config Permisions 1")
 
+Then we add the following lines in our web.config:
 
+![Im 37 Web Config Permisions 2](/uploads/wish-grid/im-37-web-config-permisions-2.png "Im 37 Web Config Permisions 2")
 
+1 This line indicates the blocks of symbols in the request of the url, if we want to block some type of symbol in the request we simply add the symbols that we want to block separated by commas.
+2 This line indicates the blocks of http request in our application, if we want to block some type of http request, we simply add the http request that we want to block separated by commas. 
 
+## 	Deployment of the webpage(SPA)
+The implementation of the web page is easier, just like our API we will start doing the deployment of our website, using the Node.Js command prompt.
+### 	Deployment of the website
+First we open the Node.js command prompt:
 
+![Im 38 Node Exec](/uploads/wish-grid/im-38-node-exec.png "Im 38 Node Exec")
 
 
 # Troubleshooting
