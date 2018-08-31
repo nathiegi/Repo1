@@ -169,6 +169,31 @@ If you do not have IIS installed on the machine, you must install it by opening 
 
 ![Im 30 Iis Setup 1](/uploads/wish-grid/im-30-iis-setup-1.png "Im 30 Iis Setup 1")
 
+After pressing OK it should start the IIS.
+![Im 31 Iis Setup 2](/uploads/wish-grid/im-31-iis-setup-2.png "Im 31 Iis Setup 2")
+
+Once the IIS installation finishes, open the run window (Windows key + R) and type inetmgr to open the IIS Manager:
+![Im 32 Iis Exec](/uploads/wish-grid/im-32-iis-exec.png "Im 32 Iis Exec")
+
+Now we can create a new application:
+![Im 33 Publish To Iis Server 1](/uploads/wish-grid/im-33-publish-to-iis-server-1.png "Im 33 Publish To Iis Server 1")
+
+We enter the data in the following window:
+![Im 34 Publish To Iis Server 2](/uploads/wish-grid/im-34-publish-to-iis-server-2.png "Im 34 Publish To Iis Server 2")
+
+After this step, we will have our site in the "Sites" folder in the IIS administrator. We choose the port (a free port) that we want our application to occupy and accept.
+![Im 35 Publish To Iis Server 3](/uploads/wish-grid/im-35-publish-to-iis-server-3.png "Im 35 Publish To Iis Server 3")
+
+The IIS by Default blocks the http requests Edit and Delete, as well as the requests of url that have symbols either ^, &, *,:, so we manually have to add the permissions for these types of requests configuring the web.config located in our folder to which we have published our application:
+
+![Im 36 Web Config Permisions 1](/uploads/wish-grid/im-36-web-config-permisions-1.png "Im 36 Web Config Permisions 1")
+
+
+
+
+
+
+
 # Troubleshooting
 ### Scenario 1
 Scenario and how to fix  it
