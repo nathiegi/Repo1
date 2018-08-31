@@ -38,10 +38,10 @@ WishGrid is a software in which users can make suggestions about a company servi
 ### Microsoft SQL Installation
 Once we have the SQL Server 2017 installer we start:
 •	Double Click on the installer setup
- 
+ ![Im 1 Setup Installer](/uploads/wish-grid/im-1-setup-installer.png "Im 1 Setup Installer")
 
-## Step 2
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+•	Open the installation screen, click on "Installation" (a) and Click on "New Sql Server stand-alone installation or add features to an existing installation" (b).
+![Im 2 Sql Server Installation Center](/uploads/wish-grid/im-2-sql-server-installation-center.png "Im 2 Sql Server Installation Center")
 
 ## Step N
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
