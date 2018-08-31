@@ -160,6 +160,14 @@ The production files in the folder will be the following:
 In order to make the API communicate with the database we must indicate to the database that we want to locate, for that you must configure the appsettings.json located in the folder where we have published the project:
 
 ![Im 29 Datasource](/uploads/wish-grid/im-29-datasource.png "Im 29 Datasource")
+Now we write the database that we want to enter modifying the data source in the following way: 
+Server=SERVERNAMEORUSER;Database=WISHGRIDDATABASE;Trusted_Connection=True;MultipleActiveResultSets=true;Integrated Security=true;
+Where the “server” is the windows user and the database is the database of our application
+
+### IIS setup and deployment of API
+If you do not have IIS installed on the machine, you must install it by opening Control Panel and then Programs and Features: 
+
+![Im 30 Iis Setup 1](/uploads/wish-grid/im-30-iis-setup-1.png "Im 30 Iis Setup 1")
 
 # Troubleshooting
 ### Scenario 1
