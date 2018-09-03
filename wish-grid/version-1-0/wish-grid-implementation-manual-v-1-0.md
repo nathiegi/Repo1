@@ -202,6 +202,53 @@ First we open the Node.js command prompt:
 
 ![Im 38 Node Exec](/uploads/wish-grid/im-38-node-exec.png "Im 38 Node Exec")
 
+Once we open our command prompt, what should be done is to locate where the project is in which we have developed the application using the command: 
+cd “ProjectRoute”
+
+![Im 39 Node Project Location](/uploads/wish-grid/im-39-node-project-location.png "Im 39 Node Project Location")
+
+
+
+![Im 40 Webpage Publish](/uploads/wish-grid/im-40-webpage-publish.png "Im 40 Webpage Publish")
+
+
+![Im 41 Publish To Iis Server 1](/uploads/wish-grid/im-41-publish-to-iis-server-1.png "Im 41 Publish To Iis Server 1")
+
+![Im 42 Publish To Iis Server 2](/uploads/wish-grid/im-42-publish-to-iis-server-2.png "Im 42 Publish To Iis Server 2")
+
+
+![Im 43 Publish To Iis Server 3](/uploads/wish-grid/im-43-publish-to-iis-server-3.png "Im 43 Publish To Iis Server 3")
+
+
+![Im 44 Environment Prod Ts](/uploads/wish-grid/im-44-environment-prod-ts.png "Im 44 Environment Prod Ts")
+
+
+![Im 45 Webpage Folder](/uploads/wish-grid/im-45-webpage-folder.png "Im 45 Webpage Folder")
+
+![Im 46 Main Js](/uploads/wish-grid/im-46-main-js.png "Im 46 Main Js")
+
+
+![Im 47 Event Viewer](/uploads/wish-grid/im-47-event-viewer.png "Im 47 Event Viewer")
+
+
+![Im 48 New Login 1](/uploads/wish-grid/im-48-new-login-1.png "Im 48 New Login 1")
+
+![Im 49 New Login 2](/uploads/wish-grid/im-49-new-login-2.png "Im 49 New Login 2")
+
+
+![Im 50 New Login 3](/uploads/wish-grid/im-50-new-login-3.png "Im 50 New Login 3")
+
+
+![Im 51 New Login 4](/uploads/wish-grid/im-51-new-login-4.png "Im 51 New Login 4")
+
+
+![Im 52 New Login 5](/uploads/wish-grid/im-52-new-login-5.png "Im 52 New Login 5")
+
+
+![Im 53 Centos Ls Command](/uploads/wish-grid/im-53-centos-ls-command.png "Im 53 Centos Ls Command")
+
+
+
 
 # Troubleshooting
 ### Scenario 1
