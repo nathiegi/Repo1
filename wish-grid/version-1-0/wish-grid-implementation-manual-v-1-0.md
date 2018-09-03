@@ -358,6 +358,30 @@ If done correctly after we execute the command “docker ps” we will see our c
 now we want to start the apache server on each container to do so in a new terminal window we exec the command “docker exec -ti containercode bash” where containercode is the container ID that was generated when we started the container. This code will take us inside the container, the team will perform the changes so that the only thing that is needed is to start the apache server, to do so inside the container we exec the command: systemctl start httpd, this will start the apache server for the container. Repeat the process for the API/SPA.
 If done successfully we should be able to start our application with the port that we assigned in our PC.
 
+### Configuring domains.
+
+Since we have an API and a SPA separately, we must indicate how are these 2 project going to communicate, to do so we must do changes in the, database, API and SPA.
+
+### Changes in the SQLServer.
+In the database we must indicate the domain of the webpage we are trying to access, to do so we go:
+•	Inside the folder "Databases", we look for the WishGrid Database and we display it.
+
+![Im 18 Databases Wishgrid](/uploads/wish-grid/im-18-databases-wishgrid.png "Im 18 Databases Wishgrid")
+
+
+![Im 19 Insert Data In The Table Tenant](/uploads/wish-grid/im-19-insert-data-in-the-table-tenant.png "Im 19 Insert Data In The Table Tenant")
+
+
+![Im 20 Table Tenant](/uploads/wish-grid/im-20-table-tenant.png "Im 20 Table Tenant")
+
+
+![Im 21 Create User In Wishgrid](/uploads/wish-grid/im-21-create-user-in-wishgrid.png "Im 21 Create User In Wishgrid")
+
+
+![Im 22 Table User](/uploads/wish-grid/im-22-table-user.png "Im 22 Table User")
+
+
+![Im 29 Datasource](/uploads/wish-grid/im-29-datasource.png "Im 29 Datasource")
 # Points of Contacts
 **MegadeV Team: (wishgrid@googlegroups.com)**
 Miguel Castedo (mcastedo@info-arch.com)
