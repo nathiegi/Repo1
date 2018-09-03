@@ -383,8 +383,8 @@ In addition, if the reques had been approved, the corresponding update is perfor
 
 #### **3.3.1.2. Add Position.**
 
-![](/uploads/user-manual/1-user-manual.png) 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 16197](/uploads/holyday/user-guide-holyday-16197.png "User Guide Holyday 16197")
+![User Guide Holyday 16199](/uploads/holyday/user-guide-holyday-16199.png "User Guide Holyday 16199")
 
 *1)* Pull down the menu and select the "Organization" option, then the "Add" and "View" options are displayed. 
 *2)* Select the option "Add", then the options "Area" and "Position" are displayed. 
@@ -403,13 +403,13 @@ In addition, if the reques had been approved, the corresponding update is perfor
 
 #### **3.3.1.3. See Areas and Positions.**
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 17257](/uploads/holyday/user-guide-holyday-17257.png "User Guide Holyday 17257")
 
 *1)* Pull down the menu and select the "Organization", then the options "Add" and "View" option unfold. 
 *2)* Select the "View" option, then the general list of areas and created positions shown. 
 *3)* In the general list is the following: 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 17482](/uploads/holyday/user-guide-holyday-17482.png "User Guide Holyday 17482")
 
 *a)* This option redirects the creation form Areas. 
 *b)* From here you can go to the form creating a new position. 
@@ -428,7 +428,7 @@ To edit information for an area you need to follow the following steps:
 1. Go to the general list of areas and positions (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">See Areas and Positions</a>).
 2. Once you are in the general list of areas and positions, select the pencil icon in the area you want to edit information. Then the form is displayed to edit the information of the corresponding area.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 18240](/uploads/holyday/user-guide-holyday-18240.png "User Guide Holyday 18240")
 
 3. Enter the name of the area you want to change the information. 
 4. Enter the description for which you want to change the information. 
@@ -441,11 +441,11 @@ To edit information for a position you need to follow the following steps:
 2. Once you are in the general list of areas and positions locate the area where you find the position you want to edit information.
 3. Select the "Show Position" option to view the list of positions that are within the area. Below is a list of all deployed positions.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 19117](/uploads/holyday/user-guide-holyday-19117.png "User Guide Holyday 19117")
 
 4. In the deployed position refer to the position you want to edit information and select the icon of a pencil, then redirected to the appropriate form list. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 19251](/uploads/holyday/user-guide-holyday-19251.png "User Guide Holyday 19251")
 
 5. The form is displayed to edit information with all relevant fields. 
 6. Enter the information you want to change the name of the position. 
@@ -457,17 +457,17 @@ To edit information for a position you need to follow the following steps:
 1. Go to the general list of areas and positions (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">See Areas and Positions</a>). 
 2. Once you are in the general list of areas and positions locate the area you want to delete.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 19947](/uploads/holyday/user-guide-holyday-19947.png "User Guide Holyday 19947")
 
 3. Select the icon of a boat to remove the area, then the corresponding registration form with all the information you want to delete the area shown. 
 4. the confirmation form shown to remove the area. 
 5. Select the "Delete" option to delete all information from the selected area. Then, the area is deleted if no associated position and general list of areas and positions shown.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 20410](/uploads/holyday/user-guide-holyday-20410.png "User Guide Holyday 20410")
 
 6. If the area you want to delete positions has associated with it a form deletion confirmation showing the positions thereof shown. Select the "Delete Anyway" option if you want to remove anyway area. Then, the general list of areas and positions are displayed.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 20672](/uploads/holyday/user-guide-holyday-20672.png "User Guide Holyday 20672")
 
 #### **3.3.1.7. Delete Position.**
 To delete a position is necessary to follow these steps: 
@@ -475,24 +475,27 @@ To delete a position is necessary to follow these steps:
 1. Go to the general list of areas and positions (<a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-1-3-see-areas-and-positions">see See Areas and Positions</a>). 
 2. Once you are in the general list of areas and positions locate the area where you find the position you want to edit information. 
 3. Select the "Show Position" option to view the list of positions that are within the area. Below is a list of all deployed positions. 
+
+![User Guide Holyday 20954](/uploads/holyday/user-guide-holyday-20954.png "User Guide Holyday 20954")
+
 4. In the deployed position refer to the position you want to delete and select the icon of a trashcan, then the confirmation form shown proper disposal list.
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 21245](/uploads/holyday/user-guide-holyday-21245.png "User Guide Holyday 21245")
 
 5. The confirmation form removal shown with all position data that I select to remove. To remove the position of the area select the "Delete" option. If the position is not associated with any employee is then removed and redirected to the general list of areas and positions. 
 
-![](/uploads/user-manual/1-user-manual.png) 
+![User Guide Holyday 21522](/uploads/holyday/user-guide-holyday-21522.png "User Guide Holyday 21522")
 
 6. If the position has employees associated eliminate confirmation form is displayed with the names of the employees who are assigned to that position, if you want to remove select the "Delete Anyway" option. Then redirected to the general list of areas and positions. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 21791](/uploads/holyday/user-guide-holyday-21791.png "User Guide Holyday 21791")
 
 ### 3.3.2. Employee Item.
 #### **3.3.2.1. Section Add.**
 
 ##### **i. Add Employee**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 21835](/uploads/holyday/user-guide-holyday-21835.png "User Guide Holyday 21835")
 
 1. To add an employee, display the main menu and select the "Employee" option, then the options "Add" are displayed and "View. 
 2. Select the "Add", then a list of menu options are displayed option. 
@@ -500,7 +503,7 @@ To delete a position is necessary to follow these steps:
 4. Here is the form with all the necessary fields for recording employee.
 5. Enter the personal identification number (identity card) and select the place in which it was issued (abroad or a department of Bolivia). 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 22172](/uploads/holyday/user-guide-holyday-22172.png "User Guide Holyday 22172")
 
 6. Enter the employee's name to register. 
 7. Enter the employee or family names. 
@@ -510,11 +513,11 @@ To delete a position is necessary to follow these steps:
 11. Enter the date of birth, you can type the date in the format day / month / year or you can select the date directly from the calendar that is displayed by selecting the icon shaped arrow. 
 12. Enter the start date employee's work or select the date from the drop-down calendar. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 22812](/uploads/holyday/user-guide-holyday-22812.png "User Guide Holyday 22812")
 
 13. Scroll down the list and select the position you want to assign to the employee who is registering. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 22914](/uploads/holyday/user-guide-holyday-22914.png "User Guide Holyday 22914")
 
 14. If you want you can select an image to be displayed as your profile picture select the "Select File" or "Select File" (It depends on the language of your computer) to choose an image option, this step is not required therefore if you do not does the employee record is created with a default image as shown on the form. 
 15. Select the "Show Supervisor" to see the list of employees already registered and you can assign it as supervisor of the employee who is registering, if you do not already have added employees can assign a supervisor later, therefore, this step is not mandatory. 
@@ -522,11 +525,11 @@ To delete a position is necessary to follow these steps:
 17. Select the "Create" option to save all changes. Then the user creation form for the employee you just created is displayed. 
 18. To view the record that I do, see <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 23765](/uploads/holyday/user-guide-holyday-23765.png "User Guide Holyday 23765")
 
 ##### **ii. Add User**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 23778](/uploads/holyday/user-guide-holyday-23778.png "User Guide Holyday 23778")
 
 To add a user you need to follow the following steps:
 1. Pull down the menu and select the "Employee", then the options "Add" and "View" option unfold. 
@@ -544,11 +547,11 @@ To add a user you need to follow the following steps:
 9. Select the role assigned to the employee within the system. Consider that by default to all users of the system is created with the role of "User".
 10.  Select the "Create" option to save your changes.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 24787](/uploads/holyday/user-guide-holyday-24787.png "User Guide Holyday 24787")
 
 ##### **iii. Emergency Exit record of an employee**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 24875](/uploads/holyday/user-guide-holyday-24875.png "User Guide Holyday 24875")
 
 1. Pull down the menu and select the "Employee". Then the options "Add" and "View" unfold. 
 2. Select the "Add", then more menu options are displayed option. 
@@ -559,7 +562,7 @@ To add a user you need to follow the following steps:
 	<i>**c) From:**</i> The time he left shift.
 	<i>**d) To:**</i> Time when I return to work.
 	<i>**e) Commentary:**</i> Brief comment on the reason for departure.	
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 25432](/uploads/holyday/user-guide-holyday-25432.png "User Guide Holyday 25432")
 5. Select the name of the employee for whom you wish to check. 
 6. Enter the date of absence or leave work. 
 7. Enter the time in which employee left work. 
@@ -569,7 +572,7 @@ To add a user you need to follow the following steps:
 
 ##### **iv. Register delays an employee**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 25770](/uploads/holyday/user-guide-holyday-25770.png "User Guide Holyday 25770")
 
 1. Pull down the menu and select the "Employee". Then the options "Add" and "View" unfold. 
 2. Select the "Add", then more menu options are displayed option. 
@@ -581,7 +584,7 @@ To add a user you need to follow the following steps:
 	<i>**d) Delay Time:**</i> Time recording accumulated delays within the period, can register only in hours, minutes only as in hours and minutes. 
 	<i>**e) Comment:**</i> Brief comment on the record made. 
 	
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 26440](/uploads/holyday/user-guide-holyday-26440.png "User Guide Holyday 26440")
 
 5. Select the name of the employee who is assigned a delayed schedule entry work. 
 6. Enter the start date period when the delay was recorded. 
@@ -592,7 +595,7 @@ To add a user you need to follow the following steps:
 
 ##### **v. Register Permissions on behalf of another employee**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 26797](/uploads/holyday/user-guide-holyday-26797.png "User Guide Holyday 26797")
 
 1. Pull down the menu and select the "Employee". Then the options "Add" and "View" unfold. 
 2. Select the "Add", then more menu options are displayed option. 
@@ -616,12 +619,11 @@ To add a user you need to follow the following steps:
 10. Enter a brief additional comment. 
 11. Select the "Create" option to save your changes made, then redirects to a general list of all registered requests. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 28183](/uploads/holyday/user-guide-holyday-28183.png "User Guide Holyday 28183")
 
 ##### **vi. Assign Overtime favor of the employee**
 
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 28230](/uploads/holyday/user-guide-holyday-28230.png "User Guide Holyday 28230")
 
  1. Pull down the menu and select the "Employee". Then he deployed the options "Add" and "View". 
  2. Select the option "Add", this will to be deployed more options on the menu. 
