@@ -1102,7 +1102,7 @@ When you open the drop-down menu are options to access the various sections of t
 2. In the menu that will be displayed choose "Add" option 
 3. In the next menu level select the "Team" option, this will redirect us to a view like the one shown below:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 52949](/uploads/holyday/user-guide-holyday-52949.png "User Guide Holyday 52949")
 
 1. You must enter a name to identify the new team, in the "Name" field. 
 2. You must also enter a short description of the purpose of the equipment or other information deemed useful. 
@@ -1118,18 +1118,18 @@ To be creating a team successfully, it must have at least one member loaded in t
 ##### **ii. Add positions for a team**
 The teams are managed independently of the charges of work established in the organization chart, so it is necessary to keep track of the positions or positions that can be handled within each of these teams. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 54091](/uploads/holyday/user-guide-holyday-54091.png "User Guide Holyday 54091")
 
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter Positions creation form, for it must follow the following sequence:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 54283](/uploads/holyday/user-guide-holyday-54283.png "User Guide Holyday 54283")
 
 1. Select the "Team" option 
 2. In the menu that will be displayed choose "Add" option 
 3. In the next menu level select the "Position Team" option, this will redirect us to a view like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 54481](/uploads/holyday/user-guide-holyday-54481.png "User Guide Holyday 54481")
+![User Guide Holyday 54484](/uploads/holyday/user-guide-holyday-54484.png "User Guide Holyday 54484")
 
 1. When you select Create a form is displayed as follows: 
 1.1. The form will be visible only after selecting the Create option. 
@@ -1137,7 +1137,7 @@ When you open the drop-down menu are options to access the various sections of t
 1.3. Description of Position: Enter a short description or breakdown stands or before abbreviation entered. 
 1.4. Confirm the creation of the new working position by selecting the Create button.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 54873](/uploads/holyday/user-guide-holyday-54873.png "User Guide Holyday 54873")
 
 2. The user can filter the information based on how many records you want to see for each page. 
 3. Will be searchable on the list through the filter "Search" at the top right of the page. 
@@ -1145,7 +1145,7 @@ When you open the drop-down menu are options to access the various sections of t
 
 ###### <i>**a) Edit Information Position in team**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 55252](/uploads/holyday/user-guide-holyday-55252.png "User Guide Holyday 55252")
 
 1. Change the name as appropriate. 
 2. Enter or modify the description as appropriate. 
@@ -1154,7 +1154,7 @@ When you open the drop-down menu are options to access the various sections of t
 ###### <i>**b) Delete Record position on a computer**</i>
 After selecting the "Delete" option from the list of position on a team, a view like that shown below will be displayed:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 55535](/uploads/holyday/user-guide-holyday-55535.png "User Guide Holyday 55535")
 
 Shows a detailed view of the record to be deleted, requesting confirmation to accomplish this: 
 
@@ -1165,26 +1165,24 @@ Shows a detailed view of the record to be deleted, requesting confirmation to ac
 
 ##### **i. General Team List**
 
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of General Asset Equipment, for it must follow the following sequence:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 56097](/uploads/holyday/user-guide-holyday-56097.png "User Guide Holyday 56097")
 
 1. Select the "Team" option 
 2. In the menu that will be displayed choose the View option 
 3. In the next menu level select the "Team" option, this will redirect us to a view like the one shown below:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 56289](/uploads/holyday/user-guide-holyday-56289.png "User Guide Holyday 56289")
 
 The list shown corresponds to all currently active work teams for each record we find the following:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 56393](/uploads/holyday/user-guide-holyday-56393.png "User Guide Holyday 56393")
 
 ###### <i>**a) Edit information from a computer (add more members)**</i>
 When you select the option to edit a form is displayed as follows: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 56514](/uploads/holyday/user-guide-holyday-56514.png "User Guide Holyday 56514")
 
 This view gives us the same options as the registration of new equipment, carrying the appropriate equipment you want to edit information. 
 
@@ -1193,7 +1191,7 @@ The system allows two different actions regarding elimination of teams:
 
 **Remove team** permanently so that such equipment no longer recorded in the history of work of employees who integrated. When this option is selected the following confirmation form is presented:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 56953](/uploads/holyday/user-guide-holyday-56953.png "User Guide Holyday 56953")
 
 **Delete** It allows us to confirm the permanent removal of the working team under the above conditions. 
 
@@ -1202,7 +1200,7 @@ The system allows two different actions regarding elimination of teams:
 The second way proposed disposal is the "Unsubscribe" which allows the computer even after being removed from the list of active teams in the history record work / work teams each employee who joined it. 
 When accessing this option will have a confirmation form as follows: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 57419](/uploads/holyday/user-guide-holyday-57419.png "User Guide Holyday 57419")
 
 **Unsubscribe** It allows us to confirm the permanent removal of the working team under the above conditions. 
 
@@ -1215,12 +1213,12 @@ Each team active work can generate a pdf report presented in the following forma
 3. Employee: Name of the employee. 
 4. Position in Team: Or occupied position of the employee within the team.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 57962](/uploads/holyday/user-guide-holyday-57962.png "User Guide Holyday 57962")
 
 ###### <i>**d) General Report of Work Teams**</i>
 At the bottom of the complete list of work teams we have the option to Export a detail of all work teams, both active and inactive. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 58130](/uploads/holyday/user-guide-holyday-58130.png "User Guide Holyday 58130")
 
 The report that is generated has the following format: 
 1. **Team Name:** Each team name 
@@ -1228,12 +1226,12 @@ The report that is generated has the following format:
 3. **Creation Date:** Date the team. 
 4. **Elimination Date:** If the equipment had been discharged, this column shows the date on which this action was carried out. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 58424](/uploads/holyday/user-guide-holyday-58424.png "User Guide Holyday 58424")
 
 ###### <i>**e) Information of each work team**</i>
 By accessing the detail view team we can see a detail like the following: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 58534](/uploads/holyday/user-guide-holyday-58534.png "User Guide Holyday 58534")
 
 A full list of members of the team and the positions thereof within the equipment shown.
 
@@ -1241,8 +1239,6 @@ A full list of members of the team and the positions thereof within the equipmen
 In order to ensure the correct functioning of the system in terms of request management and updating of Kardex, it is necessary to have backup parameters. This is what is managed in this system module.
 
 #### **3.3.4.1. Section Tools**
-
-![](/uploads/user-manual/1-user-manual.png)
 
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of configuration parameters for it must follow the following sequence: 
 
