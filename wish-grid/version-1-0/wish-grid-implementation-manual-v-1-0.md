@@ -359,7 +359,7 @@ now we want to start the apache server on each container to do so in a new termi
 If done successfully we should be able to start our application with the port that we assigned in our PC.
 
 # Points of Contacts
-**MegadeV Team:** (wishgrid@googlegroups.com)
+**MegadeV Team: (wishgrid@googlegroups.com) **
 Miguel Castedo (mcastedo@info-arch.com)
 Nathalie Guzmán I. (nguzman@info-arch.com)
 Oscar Laura (olaura@info-arch.com)
