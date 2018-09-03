@@ -654,8 +654,7 @@ Before performing this step is necessary to register employee (<a href="http://1
 #### **3.3.2.1. Section View.**
 ##### **i. List of active employees**
 
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 30217](/uploads/holyday/user-guide-holyday-30217.png "User Guide Holyday 30217")
 
 To see the general list of active employees must perform the following steps:
 
@@ -692,7 +691,7 @@ To see the general list of active employees must perform the following steps:
 <i>Shows a PDF document containing a summary of the individual Kardex of all employees.</i>
 <i>Redirects to a statistical report showing vacation days of employees and the number of applications by type of holiday available.</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 32548](/uploads/holyday/user-guide-holyday-32548.png "User Guide Holyday 32548")
 
 ###### <i>**i) Edit Information an employee**</i>
 To edit information for an employee must perform the following steps:
@@ -701,12 +700,12 @@ To edit information for an employee must perform the following steps:
 2. Find the name of the employee you want to edit information. 
 3. Select the square-shaped icon to display the list of options, then select the "Edit" option to access the form that allows you to edit information servery.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 32964](/uploads/holyday/user-guide-holyday-32964.png "User Guide Holyday 32964")
 
 4. Then the form is displayed to edit in which you must enter the information you want to change. 
 5. Once all the changes select the "Save" option to save and update information.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 33140](/uploads/holyday/user-guide-holyday-33140.png "User Guide Holyday 33140")
 
 ###### <i>**ii) Information details an employee**</i>
 To edit information for an employee must perform the following steps:
@@ -714,11 +713,11 @@ To edit information for an employee must perform the following steps:
 2. Find the name of the employee you want to view detailed information. 
 3. Select the square-shaped icon to display the list of options, then select the "Details" option to access the employee detail form.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 33545](/uploads/holyday/user-guide-holyday-33545.png "User Guide Holyday 33545")
 
 4. Then the detail form of employee information shown.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 33599](/uploads/holyday/user-guide-holyday-33599.png "User Guide Holyday 33599")
 
 5. Select the "Go Back" option to return to the general list of active employees.
 
@@ -728,22 +727,22 @@ To edit the work schedule of an employee must perform the following steps:
 2. Find the name of the employee you want to edit the work schedule. 
 3. Select the square-shaped icon to display the list of options, then select the "Edit work schedule" option to access the form that allows you to edit the information work schedule.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 34124](/uploads/holyday/user-guide-holyday-34124.png "User Guide Holyday 34124")
 
 4. Then the form is displayed to edit the work schedule assigned to the employee. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 34206](/uploads/holyday/user-guide-holyday-34206.png "User Guide Holyday 34206")
 
 5. After you edit the information select the "Save" option to save your changes.
 
 ###### <i>**iv) Individual holiday reset**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 34311](/uploads/holyday/user-guide-holyday-34311.png "User Guide Holyday 34311")
 
 For every employee in the general list of active employees a number of options, among which we deploy **Reset**. 
 Clicking on the link to **Reset** a form as we see shown below: 
  
- ![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 34482](/uploads/holyday/user-guide-holyday-34482.png "User Guide Holyday 34482")
  
  Here detailed summary of the Kardex shown that employee. 
  **Reset:** The reset button performs resetting of information, if the manager deems it necessary in session, then return to the list of active employees.
@@ -754,12 +753,11 @@ Clicking on the link to **Reset** a form as we see shown below:
  2. Look for the employee's name you want to assign a supervisor. 
  3. Select the square-shaped icon to display the list of options, then select the "Assign supervisors" option to access the form that allows one or more supervisors assigned to an employee. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 35144](/uploads/holyday/user-guide-holyday-35144.png "User Guide Holyday 35144")
 
 4. Then the form is displayed to assign an employee supervisors already created.
 
-![](/uploads/user-manual/1-user-manual.png)
-
+![User Guide Holyday 35224](/uploads/holyday/user-guide-holyday-35224.png "User Guide Holyday 35224")
 5. Displays the list of supervisors has assigned the employee. 
 6. To add a supervisor expand the list, locate the name of the employee you want to assign as supervisor and select. 
 7. Select the "Assign" option to add as supervisor. 
@@ -773,7 +771,7 @@ Clicking on the link to **Reset** a form as we see shown below:
 2. Find the name of the employee you want to view their individual kardex. 
 3. Select the square-shaped icon to display the list of options, then select the "View kardex" option.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 35975](/uploads/holyday/user-guide-holyday-35975.png "User Guide Holyday 35975")
 
 4. Then following shows all the information of the employee’s personal Kardex.
 <i>a) Dates of beginning and end in which absences or delays were recorded.</i>
@@ -787,7 +785,7 @@ Clicking on the link to **Reset** a form as we see shown below:
 <i>i) Redirects to the form that allows calculations of compensation of hours for employees.</i>
 <i>j) Redirects to a PDF document that shows information of the employee’s individual Kardex.</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 36857](/uploads/holyday/user-guide-holyday-36857.png "User Guide Holyday 36857")
 
 ###### <i>**vii) Holiday discount for hours the employee due to the company**</i>
 To make the respective discount must perform the following steps: 
@@ -804,7 +802,7 @@ To make the respective discount must perform the following steps:
 
  4. Then the discount is performed and the data is updated. To return to the individual Kardex select the "Back to list" option.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 37734](/uploads/holyday/user-guide-holyday-37734.png "User Guide Holyday 37734")
 
 ###### <i>**viii) Holiday discount accrued delays**</i>
 To make the respective discount must perform the following steps: 
@@ -812,17 +810,17 @@ To make the respective discount must perform the following steps:
 2. Select the "Compensation Hours" to see the form that allows the discount days. 
 3. Select the "Reset Delays" option for discount vacation days accumulated delays over a period of time. This discount responds to established rules to see them in <a href="">Item configuration</a> - <a href="">parameter list See for discount vacation days backlogs</a>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 38319](/uploads/holyday/user-guide-holyday-38319.png "User Guide Holyday 38319")
 
 4. Then the discount is performed and the data is updated. To return to the individual Kardex select the "Back to list" option.
 
 ###### <i>**ix) Assign collective vacations**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 38476](/uploads/holyday/user-guide-holyday-38476.png "User Guide Holyday 38476")
 
 In the upper part of the view of active employees (Employee > Active employees) there is a link for the assignment of holidays collectively, once they are accessed a form like the following is shown: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 38679](/uploads/holyday/user-guide-holyday-38679.png "User Guide Holyday 38679")
 1. Enter the start date of the collective vacations to be recorded. 
 2. Enter the ending date of the collective vacations to be recorded. 
 3. Detail why this vacation or recess activities was established. 
@@ -830,21 +828,22 @@ In the upper part of the view of active employees (Employee > Active employees) 
 5. Select the employees who want to assign the holidays. 
 6. **Save**: Save the record.
 
+###### <i>**x) Restarting holiday to employees**</i>
 
 The individual restoration of employee vacation informartion can become a very slow task if a large number of staff is spoken, so the restoration was collectively organized within the system. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 39252](/uploads/holyday/user-guide-holyday-39252.png "User Guide Holyday 39252")
 
 At the top of the view of the employees employed (Employee > Active employees) there is a link for the option Collectively reset, once it is accessed, a form like the following is displayed: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 39445](/uploads/holyday/user-guide-holyday-39445.png "User Guide Holyday 39445")
 
 The administrator session must choose if he wants to indiscriminately reset information of all employees (All Employees) or if he wants to select only the information employees who already meet the age criterion set by the parameter reset (Enable Employees). 
 
 * Employees choose which you want to apply the reset. 
 * Reset confirm the list of selected employees through the All Reset button.
 
-###### <i>**x) Statistical report**</i>
+###### <i>**xi) Statistical report**</i>
 To facilitate understanding of the information contained within the system in more general terms, the system allows the generation of some statistical tables through a link at the bottom of the list of active employees. 
 
 ![](/uploads/user-manual/1-user-manual.png)
@@ -853,7 +852,7 @@ This link redirects us to a view like the one presented below, in which you can 
 
 ![](/uploads/user-manual/1-user-manual.png)
 
-###### <i>**xi) Kardex General of employees PDF**</i>
+###### <i>**xii) Kardex General of employees PDF**</i>
 As a summary of each employee’s Kardex, the system collects the most important totals and presents them in a list of employees that details the most relef 
 
 You can access this report from the bottom of the list of active employees:
@@ -879,7 +878,7 @@ The report to which we redirected the link has a format like the one shown below
 	<i>**a) EM:**</i> Total hours that the employee owes the company. 
 	<i>**b) COM:**</i> Total hours that the company owes to the employee.
 	
-###### <i>**xii) Discount vacation days for delays**</i>
+###### <i>**xiii) Discount vacation days for delays**</i>
 Discounts vacation days for delays are made according to the amount of reatrasos have accumulated an employee in accordance with the bylaws of the company and the detail of the days are discounted by the accumulated delays are in section (<a href="">Configuration</a> - <a href="">Tools</a> - <a href="">Delays Validation Parameters)</a>  
 
 To make the discount vacation days for delays must perform the following steps: 
@@ -900,7 +899,7 @@ To make the discount vacation days for delays must perform the following steps:
 ![](/uploads/user-manual/1-user-manual.png)
 ![](/uploads/user-manual/1-user-manual.png)
 
-###### <i>**xiii) Discount vacation days for hours that the employee owes the company**</i>
+###### <i>**xiv) Discount vacation days for hours that the employee owes the company**</i>
 Discounts vacation days are made according to the number of hours an employee owes the company, if you owe the equivalent in hours of part time (Depending on your work schedule) will be discounted half-day holiday, if the employee must be a full-time (according to your work schedule) it will be discounted vacation day, if the debt of hours by the employee to the company exceeds the half-day or full day is deducted equivalent in days according to above parameters.
 
 ![](/uploads/user-manual/1-user-manual.png)
