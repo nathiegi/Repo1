@@ -1,4 +1,4 @@
-![Im 54 Docker Import](/uploads/wish-grid/im-54-docker-import.png "Im 54 Docker Import")<!-- TITLE: Wish Grid - Implementation Manual V1.0 -->
+<!-- TITLE: Wish Grid - Implementation Manual V1.0 -->
 <!-- SUBTITLE: A quick summary of Wish Grid Implementation Manual V1.0 -->
 
 # Implementation Manual
@@ -327,13 +327,36 @@ Docker is installed but not started. The docker group is created, but no users a
 
 ![Im 65 Code 9](/uploads/wish-grid/im-65-code-9.png "Im 65 Code 9")
 
+This command downloads a test image and runs it in a container. When the container runs, it prints an informational message and exits.
+Docker CE is installed and running. You need to use sudo to run Docker commands.
+
+### Mount the docker images containers
+After we successfully installed docker now we must mount our images containers to our docker, these containers will be provided by the development Team:
+wishgridapi.tar
+wishgridspa.tar
+After we transfer our containers to our CentOS where we installed docker we can mount our images, lets say we put our containers in the /root directory, when we open the command prompt and execute the command “ls” it will show us that our containers are in there.
+
 ![Im 53 Centos Ls Command](/uploads/wish-grid/im-53-centos-ls-command.png "Im 53 Centos Ls Command")
+
+Now we execute the command “docker import nameofcontainer.tar tagnameforimage”
 
 ![Im 54 Docker Import](/uploads/wish-grid/im-54-docker-import.png "Im 54 Docker Import")
 
+where nameofcontainer.tar is the container wishgridapi.tar or wishgridspa.tar and tagnameforimage is a name we can give to the docker image, it could be wishgridapiv1.0. after we execute the command we wait until it finishes to mount the image and to check if the image was successfully mounted we execute the command “docker images”.
+After we’ve done the import we exec the command “docker images” to see our images:
+
 ![Im 55 Docker Images](/uploads/wish-grid/im-55-docker-images.png "Im 55 Docker Images")
 
+Now that we have the images of our API and webpage we can start the image executing the command:
+“docker run -ti -p domain:portthatwewanttouse:80 -p domain:portthatwewanttouse:22 –privileged nameofimage /sbin/init”
+What we do here is start our container and proxy our apache port to an unused port of our CentOS.
+Where domain is the domain that we are using,porthatwewant to use is an unused port that will proxy our apache server of our container, 80 is the port where our container runs apache, 22 is the port of the ssh so we can access to the ssh, nameofimage is the name of our image and –privileged is to have all access to the container. Repeat the process for the API and SPA so we can start both images.
+If done correctly after we execute the command “docker ps” we will see our containers running as follow:
+
 ![Im 56 Docker Ps](/uploads/wish-grid/im-56-docker-ps.png "Im 56 Docker Ps")
+
+now we want to start the apache server on each container to do so in a new terminal window we exec the command “docker exec -ti containercode bash” where containercode is the container ID that was generated when we started the container. This code will take us inside the container, the team will perform the changes so that the only thing that is needed is to start the apache server, to do so inside the container we exec the command: systemctl start httpd, this will start the apache server for the container. Repeat the process for the API/SPA.
+If done successfully we should be able to start our application with the port that we assigned in our PC.
 
 # Troubleshooting
 ### Scenario 1
