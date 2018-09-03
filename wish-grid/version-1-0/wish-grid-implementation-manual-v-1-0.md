@@ -368,20 +368,67 @@ In the database we must indicate the domain of the webpage we are trying to acce
 
 ![Im 18 Databases Wishgrid](/uploads/wish-grid/im-18-databases-wishgrid.png "Im 18 Databases Wishgrid")
 
+Case we do not have the database we follow the steps detailed in 1.1.1.
+
+•	We deploy the "WishGrid" Database, inside we will find the tables of the database where the information will be stored. Secondary click on the "dbo.Tenant" table and select "Edit Top 200 Rows".
+
 
 ![Im 19 Insert Data In The Table Tenant](/uploads/wish-grid/im-19-insert-data-in-the-table-tenant.png "Im 19 Insert Data In The Table Tenant")
+
+•	The tenant is the WishGrid service, where the information of the people or companies that require it is stored, to start using the application.
+The WishGrid team performs the entire procedure to add the Tenant; otherwise, the team can enter the data to add it as follows:
 
 
 ![Im 20 Table Tenant](/uploads/wish-grid/im-20-table-tenant.png "Im 20 Table Tenant")
 
+a)	Address of the person or company that owns the Tenant.
+b)	Name of the person or company that will be the owner of the Tenant.
+c)	NIT of the person or company that owns the Tenant.
+d)	Landline or mobile phone of the person or company that owns Tenant.
+e)	State of the Tenant (True so that it is activated, otherwise it can not be used).
+f)	Address given by WishGrid (domain for the Tenant).
+g)	Moderation of Tenant (if the suggestion needs to be moderated).	
+h)	Address of the logo of the Person or Company owner of the Tenant (You can save the image inside the folder of te web page deployed, in this case, enter the address of the image, example in the box above).
+i)	Address of the main page of the person or company that owns Tenant.
+
+•	 Once the Tenant is created, from the Application create a user account from the address that WishGrid provided (URLOrigin field in the "Tenant" table), this step can be done after we configure the Database, API and web page.
 
 ![Im 21 Create User In Wishgrid](/uploads/wish-grid/im-21-create-user-in-wishgrid.png "Im 21 Create User In Wishgrid")
 
+Within the Database, in the table "dbo.User" we select "Edit Top 200 Rows", and modify the following data:
 
 ![Im 22 Table User](/uploads/wish-grid/im-22-table-user.png "Im 22 Table User")
 
+c)	Modify the RolId field of 4 by 2 (Administrator), we recommend creating a single "Administrator" to control the application and delegate "Moderator" (Explained in the Implementation Manual).
+d)	All Users created in the Tenant of the people or companies within WishGrid, are created as "False" for the respective validation of the account (Explained in the Implementation Manual). You can modify from the Database and write "True" in the field "Validation", to skip the step of the Implementation Manual.
+
+Once all the steps mentioned above have been completed, you can enter as a WishGrid administrator to start using the application.
+
+### Changes in the API.
+
+In order to make our API communicate with our database we must indicate to the database that we want to locate, for that you must configure the appsettings.json located in the folder where we have published the project /var/wishgrid:
 
 ![Im 29 Datasource](/uploads/wish-grid/im-29-datasource.png "Im 29 Datasource")
+
+Now we write the database that we want to enter modifying the data source in the following way: 
+"DefaultConnection": "Data Source=IPOFMSSQLSERVER;Database=wishgrid;User ID=sa;Password=123abc.-"
+
+Where the datasource is the ip where our SQL server is running in this case the same ip of the docker that contains the API, User ID the system admin user, and password the password of SA.
+
+### Changes in the webpage (WishgridSPA).
+Repeat the process of 1.3.2. Consuming services from the API. Most specifically 1.3.2.2.
+The webpage published is located in /var/www/wishgrid2.com/htdocs inside the docker container.
+
+### Posible problems
+For some reason the license of SQL server is lost when you start the docker container of our API, so we must check if the sql is running, to check it we exec the command: 
+Systemctl status mssql-server
+This will tell us if the sqlserver is running if we have an error that sqlserver couldn’t start we exec the command:
+Sudo /opt/mssql/bin/mssql-conf setup
+Then we get asked which license we want, we choose the Express option, give a password for our sa and exec the command:
+Systemctl start mssql-server
+If the service couldn’t start or the conf setup couldn’t start, it’s because it tried too many times to start and we must wait some time before trying again.
+
+
 # Points of Contacts
 **MegadeV Team: (wishgrid@googlegroups.com)**
 Miguel Castedo (mcastedo@info-arch.com)
