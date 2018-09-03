@@ -358,13 +358,11 @@ If done correctly after we execute the command “docker ps” we will see our c
 now we want to start the apache server on each container to do so in a new terminal window we exec the command “docker exec -ti containercode bash” where containercode is the container ID that was generated when we started the container. This code will take us inside the container, the team will perform the changes so that the only thing that is needed is to start the apache server, to do so inside the container we exec the command: systemctl start httpd, this will start the apache server for the container. Repeat the process for the API/SPA.
 If done successfully we should be able to start our application with the port that we assigned in our PC.
 
-# Troubleshooting
-### Scenario 1
-Scenario and how to fix  it
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
-### Scenario 2
-Scenario and how to fix  it
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
-
 # Points of Contacts
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+MegadeV Team: (wishgrid@googlegroups.com)
+Miguel Castedo (mcastedo@info-arch.com)
+Nathalie Guzmán I. (nguzman@info-arch.com)
+Oscar Laura (olaura@info-arch.com)
+Oscar Soliz (osoliz@info-arch.com)
+Richard Arteaga (rarteaga@info-arch.com)
+Wilber Padilla (wpadilla@info-arch.com)
