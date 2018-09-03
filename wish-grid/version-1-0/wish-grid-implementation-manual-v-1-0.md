@@ -278,11 +278,13 @@ If the steps were followed correctly you should be able to access the applicatio
 
 For the deployment of the Project in CentOs we are going to use Docker, which is a tool designed to make easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
 ## Docker
-	In a way, Docker is a bit like a virtual machine. But unlike a virtual machine, rather than creating a whole virtual operating system, Docker allows applications to use the same Linux kernel as the system that they're running on and only requires applications be shipped with things not already running on the host computer. This gives a significant performance boost and reduces the size of the application.
+In a way, Docker is a bit like a virtual machine. But unlike a virtual machine, rather than creating a whole virtual operating system, Docker allows applications to use the same Linux kernel as the system that they're running on and only requires applications be shipped with things not already running on the host computer. This gives a significant performance boost and reduces the size of the application.
+
 ### Docker in our application
 In the project, since the application is a multi-tenant application we are going to use 2 docker containers, in 1 container we will have our DB + API in an apache server and in the other we will have just an apache server with the websites to consume services from the first container, since the project will have the containers ready, we will explain how to setup docker and how to setup and start the containers which has the projects, also where to make the small modification to change the domains.
 ### Docker Installation using the repository
 1.	Install required packages. yum-utils provides the yum-config-manager utility, and device-mapper-persistent-data and lvm2 are required by the devicemapper storage driver.
+
 
 ![Im 53 Centos Ls Command](/uploads/wish-grid/im-53-centos-ls-command.png "Im 53 Centos Ls Command")
 
