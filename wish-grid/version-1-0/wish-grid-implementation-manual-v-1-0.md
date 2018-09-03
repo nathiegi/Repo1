@@ -207,34 +207,60 @@ cd “ProjectRoute”
 
 ![Im 39 Node Project Location](/uploads/wish-grid/im-39-node-project-location.png "Im 39 Node Project Location")
 
+Then we execute the command:
+ ng build –prod
+this command will give us our project published, these files will be created in a folder called dist located in the same folder with the following files:
 
 
 ![Im 40 Webpage Publish](/uploads/wish-grid/im-40-webpage-publish.png "Im 40 Webpage Publish")
 
+Now we can create a new application:
 
 ![Im 41 Publish To Iis Server 1](/uploads/wish-grid/im-41-publish-to-iis-server-1.png "Im 41 Publish To Iis Server 1")
 
+We enter the data in the following window:
+
 ![Im 42 Publish To Iis Server 2](/uploads/wish-grid/im-42-publish-to-iis-server-2.png "Im 42 Publish To Iis Server 2")
 
+After this step, you will have the site in the "Sites" folder in the IIS administrator. We choose the port (a free port) that we want our application to occupy and accept.
 
 ![Im 43 Publish To Iis Server 3](/uploads/wish-grid/im-43-publish-to-iis-server-3.png "Im 43 Publish To Iis Server 3")
 
+### Consuming services of the API
+The API and the website are separated into 2 different projects, so you have to indicate to the website where the API is located in order to consume the services of this one. There are 2 ways to be able to locate this domain, through the project before compressing in production, such as after deployment in production mode.
+### Through the Project before compressing in production
+In our project we are located on the route. \ WGViewA5 \ src \
+In this folder we will find 2 files: environment.ts and environment.prod.ts, in development mode the environment.ts is used and in production the environment.prod.ts, since we want to deploy our project in production mode we open the envionrment .prod.ts.
+Here we see there are variables, among these is the domain of the API. Here you put the domain of the API so you can consume the services of this in the variable apiURL:
 
 ![Im 44 Environment Prod Ts](/uploads/wish-grid/im-44-environment-prod-ts.png "Im 44 Environment Prod Ts")
 
+Once this is finished, we save the changes and can continue with the steps of deployment of the web page detailed above.
+### Through the Project deployed in production
+Once we perform the command ng build -prod the node.js is responsible for compressing our project in production mode, minifying it, however it does not mean that we cannot find our environment, we must first locate our deployed project and open the main file:
 
 ![Im 45 Webpage Folder](/uploads/wish-grid/im-45-webpage-folder.png "Im 45 Webpage Folder")
 
+This file contains all our typescripts, which we have developed but minified so that the application is fast, however the variables keep their names so we can search the variable apiURL and change it so that it consumes the correct service:
+
 ![Im 46 Main Js](/uploads/wish-grid/im-46-main-js.png "Im 46 Main Js")
 
+Once finished it is recommend to restart the IIS.
+## Posible problems
+Windows can cause a problem that does not find the database, this is because it tries to enter the database with a non-existent Login, to fix this problem we should do the following steps:
+1.- identify the non-existent login: in order to identify the non-existent login we must first try to make some kind of request in our application, once we try this, and fail, Windows will register this event, so what we have to do is watch this event using the Windows viewer event:
 
 ![Im 47 Event Viewer](/uploads/wish-grid/im-47-event-viewer.png "Im 47 Event Viewer")
 
+Once we find our request that we made to he SQL server, which is located in Windows logs applications, we can see the user to whom we want to connect and copy it, now we have to create the same user in our SQL server with the same name and permissions
+In the Database Manager, in this case SQL Server Management Studio, in the Object Explorer, in search for the "Security" folder, when displaying in the "Logins" folder, secondary click
 
 ![Im 48 New Login 1](/uploads/wish-grid/im-48-new-login-1.png "Im 48 New Login 1")
 
+
 ![Im 49 New Login 2](/uploads/wish-grid/im-49-new-login-2.png "Im 49 New Login 2")
 
+Where it says login name copy the user that tried to enter the application and where it says default database chose the database of the application. Then verify that the other checks are equal:
 
 ![Im 50 New Login 3](/uploads/wish-grid/im-50-new-login-3.png "Im 50 New Login 3")
 
@@ -244,6 +270,19 @@ cd “ProjectRoute”
 
 ![Im 52 New Login 5](/uploads/wish-grid/im-52-new-login-5.png "Im 52 New Login 5")
 
+Once you finish creating the Login click Ok.
+If the steps were followed correctly you should be able to access the application without problems.
+
+
+# CentOS and Apache using Docker
+
+For the deployment of the Project in CentOs we are going to use Docker, which is a tool designed to make easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, thanks to the container, the developer can rest assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.
+## Docker
+	In a way, Docker is a bit like a virtual machine. But unlike a virtual machine, rather than creating a whole virtual operating system, Docker allows applications to use the same Linux kernel as the system that they're running on and only requires applications be shipped with things not already running on the host computer. This gives a significant performance boost and reduces the size of the application.
+### Docker in our application
+In the project, since the application is a multi-tenant application we are going to use 2 docker containers, in 1 container we will have our DB + API in an apache server and in the other we will have just an apache server with the websites to consume services from the first container, since the project will have the containers ready, we will explain how to setup docker and how to setup and start the containers which has the projects, also where to make the small modification to change the domains.
+### Docker Installation using the repository
+1.	Install required packages. yum-utils provides the yum-config-manager utility, and device-mapper-persistent-data and lvm2 are required by the devicemapper storage driver.
 
 ![Im 53 Centos Ls Command](/uploads/wish-grid/im-53-centos-ls-command.png "Im 53 Centos Ls Command")
 
