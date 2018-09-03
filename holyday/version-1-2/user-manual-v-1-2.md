@@ -972,12 +972,12 @@ This option allows you to reset the password using a specific user to enter the 
 
 Once carried out the reset to reach the affected user as a notification tray following email:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 47494](/uploads/holyday/user-guide-holyday-47494.png "User Guide Holyday 47494")
 
 ###### <i>**c) Remove a user**</i>
 Option **Delete** allows the administrator session unsubscribe or remove account previously assigned user to a specific employee, but not before asking that the decision to carry out the deletion is confirmed, through a form like this:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 47743](/uploads/holyday/user-guide-holyday-47743.png "User Guide Holyday 47743")
 
 **Delete** button present on this form allows the administrator session to confirm that you want to delete the selected record, otherwise can return to a view of the above list by **Back to List**.
 
@@ -985,26 +985,23 @@ Option **Delete** allows the administrator session unsubscribe or remove account
 
 ##### **iv. List of Supervisors**
 The list of supervisors turn shows drop-down lists for each supervisor, each of these lists corresponds to staff that the supervisor is responsible directly.
-
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of Supervisors, for it must follow the following sequence:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 48502](/uploads/holyday/user-guide-holyday-48502.png "User Guide Holyday 48502")
 
 1. Select the "Employee" option. 
 2. In the menu that will be displayed choose the "View" option. 
 3. In the next menu level select the "Supervisors" option, this will redirect us to a view like the one shown below: 
 This view also presents a number of options that are explained below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 48781](/uploads/holyday/user-guide-holyday-48781.png "User Guide Holyday 48781")
 
 For both supervisors and the direct supervision, there are other options that can be performed on their records: 
 
 ###### <i>**a) Delete a supervisor**</i>
 Selecting the icon Delete the supervisor, the employee's status is changed, taking the rank of supervisor. Prior to this a confirmation box is displayed as follows: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 49081](/uploads/holyday/user-guide-holyday-49081.png "User Guide Holyday 49081")
 
 ###### <i>**b) Details Supervisor (Employee)**</i>
 Icon detail or information both supervisors and supervised redirected to a summary view of the profile of this user with basic and non-confidential information from it. 
@@ -1014,7 +1011,7 @@ Visually similar to present **details of an Employee Information form**.
 ###### <i>**c) Deregister an employee**</i>
 **Unsubscribe** icon allows you to remove an employee from the list of direct supervision of a specific supervisor, confirmed to carry out this action is determined through a confirmation box like the following:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 49582](/uploads/holyday/user-guide-holyday-49582.png "User Guide Holyday 49582")
 
 > **NOTE:** If the view to which you access through this tab is different or does not have all the detailed options here, it is that the role assigned to it does not have the appropriate permissions.
 
@@ -1023,25 +1020,24 @@ Management has the power to register emergency exits any employee, to manage dis
 
 For that reason a sequence continues as follows:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 49994](/uploads/holyday/user-guide-holyday-49994.png "User Guide Holyday 49994")
 
 1. Select the "Employee" option. 
 2. In the menu that will be displayed choose the "View" option. 
 3. In the next menu level select the "Employee Emergency Leaves" option, this will redirect us to a view like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 50216](/uploads/holyday/user-guide-holyday-50216.png "User Guide Holyday 50216")
 
 In this view we find a button **(1)** that redirects us to the registration form emergency exits.
 
 ###### <i>**a) Edit record emergency exit**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
-
+![User Guide Holyday 50339](/uploads/holyday/user-guide-holyday-50339.png "User Guide Holyday 50339")
 The editing form allows us to modify the information or detail of the emergency exit made by the employee, this in case a typographical error was made when entering the data when the record was crated.
 
 ###### <i>**b) Delete Record emergency exit**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 50572](/uploads/holyday/user-guide-holyday-50572.png "User Guide Holyday 50572")
 
 The form allows the elimination of emergency exit by an employee, this when deemed necessary, updating also the Kardex of the affected employee. 
 
@@ -1051,30 +1047,30 @@ Management has the power to register the delays in the entry of any employee, to
 
 For that reason a sequence continues as follows:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 50936](/uploads/holyday/user-guide-holyday-50936.png "User Guide Holyday 50936")
 
 1. Select the "Employee" option. 
 2. In the menu that will be displayed choose the "View" option. 
 3. In the next menu level select the "Delays" option, this will redirect us to a view like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 51139](/uploads/holyday/user-guide-holyday-51139.png "User Guide Holyday 51139")
 
 In this view we find a button **(1)** that redirects us to the registration form delays.
 
 ###### <i>**a) Edit Record delay an employee**</i>
 The edit form allows us to modify the information or detail of a late registration on behalf of an employee, if this would have made a typographical error when entering data when the record was created. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 51461](/uploads/holyday/user-guide-holyday-51461.png "User Guide Holyday 51461")
 
 ###### <i>**b) Delete Record delay an employee**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 51497](/uploads/holyday/user-guide-holyday-51497.png "User Guide Holyday 51497")
 
 The form allows the elimination of registration delays made on behalf of an employee, this when deemed necessary, updating also the Kardex of the affected employee. 
 
 ##### **vii. General Permit List Employees**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 51701](/uploads/holyday/user-guide-holyday-51701.png "User Guide Holyday 51701")
 
 This list details the requests submitted by each employee as compensation for working overtime or time off work.
 The administration has the possibility to cancel the permit, whether this is approved or not. 
@@ -1084,13 +1080,13 @@ The administration has the possibility to cancel the permit, whether this is app
 2. In the menu that will be displayed choose the "View" option. 
 3. In the next menu level select the "Recovery Overtime Hours" option, this will redirect us to a view like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 52178](/uploads/holyday/user-guide-holyday-52178.png "User Guide Holyday 52178")
 
 Next, a detailed list will be displayed, once you entert “Recovery Overtime Hours” option. 
 This list will show us the hours that the worker had previoulsy, when one adds it. 
 In addition, you have the option “Delete”, which servers to delete the record in case one enters erroneous data. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 52467](/uploads/holyday/user-guide-holyday-52467.png "User Guide Holyday 52467")
 
 ### 3.3.3. Item Team
 This section provides access to options for processing information teams.
@@ -1098,11 +1094,9 @@ This section provides access to options for processing information teams.
 #### **3.3.3.1. Add Section.**
 ##### **i. Register a team**
 
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In the case that you want to create a team , you must follow the following sequence:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 52760](/uploads/holyday/user-guide-holyday-52760.png "User Guide Holyday 52760")
 
 1. Select the "Team" option 
 2. In the menu that will be displayed choose "Add" option 
