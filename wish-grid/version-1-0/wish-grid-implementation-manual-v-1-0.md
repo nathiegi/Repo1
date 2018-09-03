@@ -285,6 +285,47 @@ In the project, since the application is a multi-tenant application we are going
 ### Docker Installation using the repository
 1.	Install required packages. yum-utils provides the yum-config-manager utility, and device-mapper-persistent-data and lvm2 are required by the devicemapper storage driver.
 
+![Im 57 Code 1](/uploads/wish-grid/im-57-code-1.png "Im 57 Code 1")
+
+2.	Use the following command to set up the stable repository. You always need the stable repository, even if you want to install builds from the edge or test repositories as well.
+
+![Im 58 Code 2](/uploads/wish-grid/im-58-code-2.png "Im 58 Code 2")
+
+3.	Optional: Enable the edge and test repositories. These repositories are included in the docker.repo file above but are disabled by default. You can enable them alongside the stable repository.
+
+![Im 59 Code 3](/uploads/wish-grid/im-59-code-3.png "Im 59 Code 3")
+
+You can disable the edge or test repository by running the yum-config-manager command with the --disableflag. To re-enable it, use the --enable flag. The following command disables the edge repository.
+
+![Im 60 Code 4](/uploads/wish-grid/im-60-code-4.png "Im 60 Code 4")
+
+Note: Starting with Docker 17.06, stable releases are also pushed to the edge and test repositories.
+
+INSTALL DOCKER CE
+1.	Install the latest version of Docker CE, or go to the next step to install a specific version:
+
+![Im 61 Code 5](/uploads/wish-grid/im-61-code-5.png "Im 61 Code 5")
+
+If prompted to accept the GPG key, verify that the fingerprint matches060A 61C5 1B55 8A7F 742B 77AA C52F EB6B 621E 9F35, and if so, accept it.
+If you have multiple Docker repositories enabled, installing or updating without specifying a version in the yum install or yum update command always installs the highest possible version, which may not be appropriate for your stability needs.
+Docker is installed but not started. The docker group is created, but no users are added to the group.
+2.	To install a specific version of Docker CE, list the available versions in the repo, then select and install:
+a. List and sort the versions available in your repo. This example sorts results by version number, highest to lowest, and is truncated:
+
+![Im 62 Code 6](/uploads/wish-grid/im-62-code-6.png "Im 62 Code 6")
+
+The list returned depends on which repositories are enabled, and is specific to your version of CentOS (indicated by the .el7 suffix in this example).
+b. Install a specific version by its fully qualified package name, which is the package name (docker-ce) plus the version string (2nd column) up to the first hyphen, separated by a hyphen (-), for example,docker-ce-18.03.0.ce.
+
+![Im 63 Code 7](/uploads/wish-grid/im-63-code-7.png "Im 63 Code 7")
+
+Docker is installed but not started. The docker group is created, but no users are added to the group.
+3.	Start Docker.
+![Im 64 Code 8](/uploads/wish-grid/im-64-code-8.png "Im 64 Code 8")
+
+4.	Verify that docker is installed correctly by running the hello-world image.
+
+![Im 65 Code 9](/uploads/wish-grid/im-65-code-9.png "Im 65 Code 9")
 
 ![Im 53 Centos Ls Command](/uploads/wish-grid/im-53-centos-ls-command.png "Im 53 Centos Ls Command")
 
