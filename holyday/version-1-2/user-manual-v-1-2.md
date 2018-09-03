@@ -1242,29 +1242,29 @@ In order to ensure the correct functioning of the system in terms of request man
 
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of configuration parameters for it must follow the following sequence: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 59066](/uploads/holyday/user-guide-holyday-59066.png "User Guide Holyday 59066")
 
 1. Select the "Configuration" option. 
 2. In the menu that is displayed, choose "Tools" option, this will redirect us to a view like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 59216](/uploads/holyday/user-guide-holyday-59216.png "User Guide Holyday 59216")
 
 This window displays a number of lists containing the different parameters or information to be considered within the system. 
 
 ##### **i. See Parameter List of vacation days during years of service in the company**
 List of corresponding holiday days according to years of service rendered by employees, established in the General Labor Law - Bolivia. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 59557](/uploads/holyday/user-guide-holyday-59557.png "User Guide Holyday 59557")
 
 ##### **ii. Parameter List days prior to form submission**
 List of necessary days in advance to send a request for absence in the conventional cases contemplated.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 59710](/uploads/holyday/user-guide-holyday-59710.png "User Guide Holyday 59710")
 
 ##### **iii. Parameter list for discount vacation days accumulated delays**
 List of discounts for delays or unjustified absences.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 59827](/uploads/holyday/user-guide-holyday-59827.png "User Guide Holyday 59827")
 
 <i>a) Add New Parameter</i>
 <i>b) Edit Information Parameter</i>
@@ -1274,7 +1274,7 @@ List of dates in which you should not send vacation requests
 
 Informative section for dates of presentations or other events in which the presence of all the staff is required, for the employee to consider before sending a request for a vacation. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 60178](/uploads/holyday/user-guide-holyday-60178.png "User Guide Holyday 60178")
 
 <i>a) Add New Parameter</i>
 <i>b) Edit Information Parameter</i>
@@ -1282,30 +1282,27 @@ Informative section for dates of presentations or other events in which the pres
 ##### **v. See parameter to reset holiday**
 Parameter set by management for resetting holiday available.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 60318](/uploads/holyday/user-guide-holyday-60318.png "User Guide Holyday 60318")
 
 <i>a) Edit Information Parameter</i>
 
 #### **3.3.4.2. Section Holidays**
 Registration and management of holidays, both holidays as holidays, it is necessary for the proper management of Kardex updates.
-
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of public / Conmemorables days, it should follow the following sequence:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 60700](/uploads/holyday/user-guide-holyday-60700.png "User Guide Holyday 60700")
 
 1. Select the "Configuration" option. 
 2. In the menu displayed select the "Holiday" option, that we redirect to a view like the one shown below:
 
 ##### **i. General list of holiday dates**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 60872](/uploads/holyday/user-guide-holyday-60872.png "User Guide Holyday 60872")
 
 ###### <i>**a) Add festive date**</i>
 When you select the "Create" option from the top left corner of the list of holidays, a form like the one shown below appears:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 61018](/uploads/holyday/user-guide-holyday-61018.png "User Guide Holyday 61018")
 
 1. Enter the name of the event to Commemorate 
 2. Define the start date. 
@@ -1315,7 +1312,7 @@ When you select the "Create" option from the top left corner of the list of holi
 
 ###### <i>**b) Edit Information festive date**</i>
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 61228](/uploads/holyday/user-guide-holyday-61228.png "User Guide Holyday 61228")
 
 1. In the list of holidays, weekends and holidays not for each record is given the option to edit some data from it via the "Edit" button gives access to a view like the one presented here, or the like. 
 2. After editing the data deemed necessary, and that are enabled for editing save the changes using the "Save" button.
@@ -1324,19 +1321,16 @@ When you select the "Create" option from the top left corner of the list of holi
 
 #### **3.3.5.1. Section Add Role**
 This section allows the system administrator to create new user roles from the permissions set for the operation of the system.
-
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the roles creation form, for it must follow the following sequence:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 61910](/uploads/holyday/user-guide-holyday-61910.png "User Guide Holyday 61910")
 
 1. Select the Roles & Permissions "option. 
 2. In the menu that is displayed choose "Add Role option, that we redirect to a view like the one shown below:
 
 ##### **i. Create a new role with existing permits**
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 62101](/uploads/holyday/user-guide-holyday-62101.png "User Guide Holyday 62101")
 
 1. Enter the name of the role you want to create. 
 2. From the list of permissions select those you wish to integrate into the role. 
@@ -1344,12 +1338,9 @@ When you open the drop-down menu are options to access the various sections of t
 
 #### **3.3.5.2. Section View**
 As the administrator who manages the allocation of roles within the system, you need to know the permissions for each role enabled, that is the purpose. 
-
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to join the list of existing roles, for it must follow the following sequence: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 62653](/uploads/holyday/user-guide-holyday-62653.png "User Guide Holyday 62653")
 
 1. Select the "Roles & Permissions" option 
 2. In the menu that is displayed choose the "View" option, that we redirect to a view like the one shown below: 
@@ -1357,7 +1348,7 @@ When you open the drop-down menu are options to access the various sections of t
 ##### **i. General Roles and Permissions List**
 This view shows a list like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 62889](/uploads/holyday/user-guide-holyday-62889.png "User Guide Holyday 62889")
 
 A number of roles that, when deployed, permitting display lists that are associated with each role. 
 
