@@ -846,22 +846,22 @@ The administrator session must choose if he wants to indiscriminately reset info
 ###### <i>**xi) Statistical report**</i>
 To facilitate understanding of the information contained within the system in more general terms, the system allows the generation of some statistical tables through a link at the bottom of the list of active employees. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 40073](/uploads/holyday/user-guide-holyday-40073.png "User Guide Holyday 40073")
 
 This link redirects us to a view like the one presented below, in which you can see the percentage of vacations taken from the total of employees, or the reason that greater absences represent the company: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 40281](/uploads/holyday/user-guide-holyday-40281.png "User Guide Holyday 40281")
 
 ###### <i>**xii) Kardex General of employees PDF**</i>
 As a summary of each employee’s Kardex, the system collects the most important totals and presents them in a list of employees that details the most relef 
 
 You can access this report from the bottom of the list of active employees:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 40546](/uploads/holyday/user-guide-holyday-40546.png "User Guide Holyday 40546")
 
 The report to which we redirected the link has a format like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 40631](/uploads/holyday/user-guide-holyday-40631.png "User Guide Holyday 40631")
 
 1. **CI:** Number of employee identification. 
 2. **Employee:** Employee's full name. 
@@ -896,13 +896,13 @@ To make the discount vacation days for delays must perform the following steps:
 5. Select the "Save" option (g) for the discount. 
 6. Then a message is displayed while it is checked whether there backlogs for discounts vacation days, once made the verification process discounts are performed according to specified table (<a href="">Delays Validation Parameters</a>). Once the process redirected to the list of active employees.
 
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 42750](/uploads/holyday/user-guide-holyday-42750.png "User Guide Holyday 42750")
+![User Guide Holyday 42752](/uploads/holyday/user-guide-holyday-42752.png "User Guide Holyday 42752")
 
 ###### <i>**xiv) Discount vacation days for hours that the employee owes the company**</i>
 Discounts vacation days are made according to the number of hours an employee owes the company, if you owe the equivalent in hours of part time (Depending on your work schedule) will be discounted half-day holiday, if the employee must be a full-time (according to your work schedule) it will be discounted vacation day, if the debt of hours by the employee to the company exceeds the half-day or full day is deducted equivalent in days according to above parameters.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 43290](/uploads/holyday/user-guide-holyday-43290.png "User Guide Holyday 43290")
 
 1. Enter "Active Employee List" (Consult <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-employee-item">Item Employee</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#3-3-2-1-section-view">Section View</a> - <a href="http://172.30.0.138/holyday/version-1-2/user-manual-v-1-2#i-list-of-active-employees">List of active employees</a>). 
 2. Select the "Collective discounts for Compensation Hours" option. It then displays a list of all data registered employees. 
@@ -911,51 +911,46 @@ Discounts vacation days are made according to the number of hours an employee ow
 5. Select the "Save" option to save your changes. 
 6. Next, a message is displayed to verify if there are accumulated hours that the employee owes to the company to make discounts are made according to the specified condition. Once the process if finished, it redirects to the list of active employees. 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 44044](/uploads/holyday/user-guide-holyday-44044.png "User Guide Holyday 44044")
 
 ##### **ii. List of inactive employees**
 
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of inactive employees or previously discharged, for it must follow the following sequence: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 44299](/uploads/holyday/user-guide-holyday-44299.png "User Guide Holyday 44299")
 
 1. Select the "Employee" option. 
 2. In the menu that will be displayed choose the "View" option. 
 3. In the next menu level select the "Inactive Employees" option, this will redirect us to a view like the one shown below: 
 
-![](/uploads/user-manual/1-user-manual.png)
-
+![User Guide Holyday 44514](/uploads/holyday/user-guide-holyday-44514.png "User Guide Holyday 44514")
 In this view, a list of employees previously given low shown, detailing certain information, both personal and business per employee. 
 
 Access to the other options are also allowed:
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 44697](/uploads/holyday/user-guide-holyday-44697.png "User Guide Holyday 44697")
 
 4. The option **"Edit"** redirects us to the employee edit form, which has already detailed in the list of active employees at the point **Edit Employee Information**. 
 5. The option **"Details"** redirects us a detailed view with the corresponding employee data, this view has already been explained in the list of active employees at the point **Details Employee Information**. 
 6. In addition, from this list we can also know the email address associated with this employee, and if deemed necessary contact with him through it.
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 45203](/uploads/holyday/user-guide-holyday-45203.png "User Guide Holyday 45203")
 
 > **NOTE:** If the view to which you access through this tab is different or does not have all the detailed options here, it is that the role assigned to it does not have the appropriate permissions.
 
 ##### **iii. User List**
 The user list, shows a list of currently active users of the system, thus administration knows that employees have an account and, therefore, have access to the system. 
 
-![](/uploads/user-manual/1-user-manual.png)
-
 When you open the drop-down menu are options to access the various sections of the system. In this case you want to enter the list of users, for it must follow the following sequence: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 45767](/uploads/holyday/user-guide-holyday-45767.png "User Guide Holyday 45767")
 
 1. Select the "Employee" option. 
 2. In the menu that will be displayed choose the "View" option. 
 3. In the next menu level select the "User" option, this will redirect us to a view like the one shown below:
 This view also presents a number of options that are explained below: 
 
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 46038](/uploads/holyday/user-guide-holyday-46038.png "User Guide Holyday 46038")
 1. The **Add User** option redirects us to the user creation form, as explained in the section **Add User**.  
 2. The table in which the user list shown also allows us to filter the number of users you want to see per page, to display the list can be done with the greatest possible comfort. 
 3. The first column of the list shows the email that was assigned to that user as user name during registration, allowing you to select that e-mail administrator in session can contact directly to the user accordingly. 
@@ -967,10 +962,10 @@ This view also presents a number of options that are explained below:
 This option redirects you to a form to modify the registered information for this user: 
 After the corresponding correction or modification, it proceeds to consolidate democracy through the Save button.
 
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
-![](/uploads/user-manual/1-user-manual.png)
+![User Guide Holyday 47101](/uploads/holyday/user-guide-holyday-47101.png "User Guide Holyday 47101")
+![User Guide Holyday 47102](/uploads/holyday/user-guide-holyday-47102.png "User Guide Holyday 47102")
+![User Guide Holyday 47103](/uploads/holyday/user-guide-holyday-47103.png "User Guide Holyday 47103")
+![User Guide Holyday 47104](/uploads/holyday/user-guide-holyday-47104.png "User Guide Holyday 47104")
 
 ###### <i>**b) Reset user account password**</i>
 This option allows you to reset the password using a specific user to enter the system in this way is assigned to the user a new password generated directly from the system and unknown by the administrator to maintain the highest degree of confidentiality possible. 
