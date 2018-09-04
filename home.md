@@ -10,7 +10,9 @@ User Manual on: http://172.30.0.138/wish-grid/version-1-0/wish-grid-user-manual-
 Implementation Manual on:  http://172.30.0.138/wish-grid/version-1-0/wish-grid-implementation-manual-v-1-0
 Development Manual on: http://172.30.0.138/wish-grid/version-1-0/wish-grid-development-documentation-v-1-0*
 # Holyday (Due Date: 03/09/2018)
-----Description of the Software-----
+Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
+
+*You can find the manuals for our Version 1.0:
 For more details about this software you can click here : http://172.30.0.138/holyday
 
 # IA Test Player (Due Date: 07/09/2018)
