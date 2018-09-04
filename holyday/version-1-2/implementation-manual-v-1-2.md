@@ -15,8 +15,8 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 # Pre-requisites
 ## Hardware
 
-
 ## Software
+
 ### IIS
 Version: 10.0.16299.15 or above.
 
@@ -45,4 +45,4 @@ No scenarios presented by now.
 # Points of Contacts
 Team: KND.
 # Installer's Path
-Path: \\srv-fap\Shared\HolyDay\HolyDay Installers
+Path:<a href="\\srv-fap\Shared\HolyDay\HolyDay Installers">\\srv-fap\Shared\HolyDay\HolyDay Installers</a>
