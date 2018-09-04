@@ -68,7 +68,7 @@ A component diagram shows the parts of a design for a software system. A compone
 
 ![Img 7](/uploads/holyday/img-7.png "Img 7")
 
-**View Component diagram.**
+**View Components diagram.**
 
 ![Img 8](/uploads/holyday/img-8.png "Img 8")
 
