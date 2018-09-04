@@ -2,10 +2,10 @@
 <!-- SUBTITLE: HolyDay  -->
 
 
-# INTRODUCTION
+# Introduction
 Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 In this document HolyDay structured is detailed, what technologies were used to carry out this project, and the definitions of each diagram implemented.
-# USED TECHNOLOGIES
+# Used Technologies
 
 ![Img 1](/uploads/holyday/img-1.png "Technologies")
 
@@ -26,33 +26,33 @@ Balsamiq Mockups is a graphical user interface mockup and website wireframe buil
 ## Enterprise Architect
 Sparx Systems Enterprise Architect is a visual modeling and design tool based on the OMG UML. The platform supports: the design and construction of software systems; modeling business processes; and modeling industry-based domains. It is used by businesses and organizations to not only model the architecture of their systems, but to process the implementation of these models across the full application development life-cycle.
 
-# SYSTEM MODELS
+# System Models
 
-## DOMAIN MODEL
+## Domain Model
 
-### **DESCRIPTION**
+### **Description**
 A domain model is a structural model of basic domain concepts and the relationships between them. A domain model may contain domain objects, conceptual classes, associations, or attributes.
 
-### **DIAGRAM**
+### **Diagram**
 
 ![Img 2](/uploads/holyday/img-2.png "Domain Model")
 
-## DATABASE MODEL
+## Database Model
 
-### **DESCRIPTION**
+### **Description**
 The database diagram was made with a conceptual design, this makes a high-level description of the structure of the database. Its purpose is to describe the information content of the database and not the storage structures that will be needed to handle that information.
 
-### **DIAGRAM**
+### **Diagram**
 
 ![Img 3](/uploads/holyday/img-3.png "Database Model")
 
-## COMPONENT MODEL
+## Component Model
 
-### **DESCRIPTION**
+### **Description**
 A component diagram shows the parts of a design for a software system. A component diagram helps you visualize the high-level structure of the system and the service behavior that those pieces provide and consume through interfaces.
 **Component. -** A reusable piece of system functionality. A component provides and consumes behavior through interfaces and can use other components.
 
-### **DIAGRAMS**
+### **Diagrams**
 
 ![Img 4](/uploads/holyday/img-4.png "Component Model")
 
@@ -72,11 +72,11 @@ A component diagram shows the parts of a design for a software system. A compone
 
 ![Img 8](/uploads/holyday/img-8.png "View Component Diagram")
 
-## ARCHITECTURE MODEL
+## Architecture Model
 
-### **DESCRIPTION**
+### **Description**
 The physical view depicts the system from a system engineer's point-of-view. It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view. UML Diagrams used to represent physical view include the Deployment diagram.
 
-### **DIAGRAM**
+### **Diagram**
 
 ![Architecture Moden](/uploads/holy-day-development-documentation-v-1-2-0/architecture-moden.jpg "Architecture Model")
