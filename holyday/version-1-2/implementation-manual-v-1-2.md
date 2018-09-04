@@ -1,4 +1,4 @@
-<!-- TITLE: Implementation Guide V1.2 -->
+<!-- TITLE: Installation Guide V1.2 -->
 <!-- SUBTITLE: Holyday -->
 
 # Installation Guide
