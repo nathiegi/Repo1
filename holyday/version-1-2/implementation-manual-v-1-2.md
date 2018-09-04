@@ -11,15 +11,14 @@ In this document, the installation of "HolyDay" is detailed, what steps must be 
 ## System Description
 Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 ## Glossary, Acronyms and Abbreviations
-NA.
+NS/NR.
 # Pre-requisites
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+HolyDay is a software that has some requirements to work in the best way, here is all the detailed information; below, the software and hardware requirements are explained.
 
 ## Hardware
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+![User Guide Holyday 30217](/uploads/holyday/user-guide-holyday-30217.png "User Guide Holyday 30217")
 
 ## Software
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
 
 
 # Implementation
