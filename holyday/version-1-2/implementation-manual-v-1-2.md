@@ -1,18 +1,17 @@
-<!-- TITLE: Holyday - Implementation Manual V1.2 -->
+<!-- TITLE: HolyDay - Implementation Manual V1.2 -->
 <!-- SUBTITLE: A quick summary of Implementation Manual V1.2 -->
 
 # Implementation Manual
-### Project Name:______________________________
-### Version: ___________________________________
-### Last Modified date: _________________________
+### Project Name: HolyDay
+### Version: V1.2
+### Last Modified date: **/**/****
 
 ## Purpose
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+In this document, the installation of "HoliDay" is detailed, what steps must be followed to install it on your host or local server, and what are its requirements..
 ## System Description
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
-
+Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 ## Glossary, Acronyms and Abbreviations
-Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
+NA.
 # Pre-requisites
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
 
