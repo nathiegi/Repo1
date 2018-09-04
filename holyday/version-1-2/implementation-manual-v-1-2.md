@@ -45,4 +45,5 @@ No scenarios presented by now.
 # Points of Contacts
 Team: KND.
 # Installer's Path
-Path: <a href="file://srv-fap/Shared/HolyDay/HolyDay Installers/V 1.2.0/HolyDay setup" target="_blank">\\srv-fap\Shared\HolyDay\HolyDay Installers</a>
+<'a href="FOLDER_PATH" target="_explorer.exe">
+Path: <a href="//srv-fap/Shared/HolyDay/HolyDay Installers/V 1.2.0" target="_explorer.exe">HolyDay Setup</a>
