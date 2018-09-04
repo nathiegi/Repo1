@@ -5,7 +5,6 @@
 ### Project Name: HOLYDAY
 ### Version: 1.2
 ### Last Modified date: 2018/Aug/28
-![](/uploads/holyday/test.png) 
 
 # 1.0. GENERAL INFORMATION
 ## 1.1. Objective of the Document
