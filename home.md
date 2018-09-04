@@ -14,6 +14,7 @@ Holyday is a vacation manager that aims to make easy the requests process of abs
 
 *You can find the manuals for our Version 1.2:
 Development Guide on : http://172.30.0.138/holyday
+Installation Guide on :
 
 # IA Test Player (Due Date: 07/09/2018)
 ----Description of the Software-----
