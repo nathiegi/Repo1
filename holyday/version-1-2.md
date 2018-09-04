@@ -8,4 +8,4 @@
 <a href="http://172.30.0.138/holyday/version-1-2/implementation-manual-v-1-2">Installation Guide</a>
 
 # Guide's Path
-**Path: ** \\srv-fap\Shared\HolyDay\Guides
+**Path:**  \\srv-fap\Shared\HolyDay\Guides
