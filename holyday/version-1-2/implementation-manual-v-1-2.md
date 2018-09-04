@@ -45,4 +45,4 @@ No scenarios presented by now.
 # Points of Contacts
 Team: KND.
 # Installer's Path
-Path:<a href=@"\\srv-fap\Shared\HolyDay\HolyDay Installers">\\srv-fap\Shared\HolyDay\HolyDay Installers</a>
+Path:<a href="//srv-fap/Shared/HolyDay/HolyDay Installers">\\srv-fap\Shared\HolyDay\HolyDay Installers</a>
