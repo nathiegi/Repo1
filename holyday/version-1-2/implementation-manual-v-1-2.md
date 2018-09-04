@@ -24,7 +24,8 @@ Version: 10.0.16299.15 or above.
 
 
 ### Microsoft SQL Server Management Studio 
-
+Version: 17.3
+![Sql Server](/uploads/holyday-implementation-manual/sql-server.jpeg "Sql Server")
 
 # Implementation
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
