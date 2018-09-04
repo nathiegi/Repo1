@@ -70,8 +70,8 @@ Facilitate the process of requests for absences, provide a better way to manage 
 8. From the item 'Roles & Permissions' you can manage roles and permissions. 
 9. If the user clicks on the 'Log out' option, the session will end.
 
-# 3.0. MENU ITEM SPECIFICATIONS
-## 3.1. LOGIN / LOGOUT
+# 3.0. Menu Item Specifications
+## 3.1. Login / Logout
 
 ![2 1 Login](/uploads/holyday/2-1-login.png "2 1 Login")
 
@@ -80,7 +80,7 @@ When you go to the site, and if you have not yet logged in, you can see the Holy
 2. Enter your password. 
 3. Do click on Login button. 
 
-## 3.2. USER ROLE
+## 3.2. User Role
 ### 3.2.1. Profile item
 #### **3.2.1.1. View profile**
 
@@ -308,7 +308,7 @@ To delete a request you must perform the following steps:
 
 > **NOTE:** You can only delete requests that are in waiting status and only if no supervisor has answered these.
 
-## 3.2. SUPERVISOR ROLE
+## 3.2. Supervisor Role
 A supervisor can reply to the requests of his supervisees, this is because he knows if the absence of a particular employee harms or not the progress of his team.
 
 ### 3.2.1. “Team Request” Section.
@@ -361,7 +361,7 @@ Once the request has received the necessary number of answers in relation to the
 
 In addition, if the reques had been approved, the corresponding update is performed Kardex affected.
 
-## 3.3. ADMINISTRATOR ROLE
+## 3.3. Administrator Role
 ### 3.3.1. Organization Item.
 #### **3.3.1.1. Add area.**
 *1)* Pull down the menu and select the "Organization" option, then the "Add" and "View" options are displayed. 
