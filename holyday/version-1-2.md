@@ -1,5 +1,5 @@
 <!-- TITLE: Version 1.2 -->
-<!-- SUBTITLE: A quick summary of Version 1.2 -->
+<!-- SUBTITLE: Release Date:  -->
 
 # Guides
 <a href="http://172.30.0.138/holyday/version-1-2/development-documentation-v-1-2-0">Development Guide</a>
