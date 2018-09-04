@@ -11,7 +11,7 @@
 Facilitate the process of requests for absences, provide a better way to manage each employee and provide this information quickly and easily for both workers and management way. 
 
 ## 1.2. Main Functions
-## 1.3. Acronyms & Abbriviations
+## 1.3. Acronyms & Abbreviations
 1. **CI:** Number of employee identification. 
 2. **ACCUM:** Vacation days accrued seniority. 
 3. **TAKED:** Days taken from the total of accumulated days. 
