@@ -20,7 +20,7 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 ### IIS
 Version: 10.0.16299.15 or above.
 
-<center>![Iis](/uploads/holyday-implementation-manual/iis.jpeg "Iis")</center>
+<center><a href="![Iis](/uploads/holyday-implementation-manual/iis.jpeg "Iis")"></a></center>
 
 
 ### Microsoft SQL Server Management Studio 
