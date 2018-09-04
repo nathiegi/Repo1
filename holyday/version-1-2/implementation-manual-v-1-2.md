@@ -11,6 +11,9 @@ In this document, the installation of "HolyDay" is detailed, what steps must be 
 ## System Description
 HolyDay is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 ## Glossary, Acronyms and Abbreviations
+### Acronyms
+**KND:** Kids Next Door.
+**IIS:** Internet Information Services.
 
 # Pre-requisites
 ## Hardware
