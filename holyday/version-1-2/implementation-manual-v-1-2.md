@@ -17,25 +17,21 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 
 # Pre-requisites
 ## Hardware
-
-### Windows
-**Version.**
-
-![Windows Version](/uploads/holyday-implementation-manual/windows-version.jpg "Windows Version")
-
-
 ### System 
 **Requirements.**
 
 ![System Requirements](/uploads/holyday-implementation-manual/system-requirements.jpg "System Requirements")
 
 ## Software
+### Windows
+**Version.**
+
+![Windows Version](/uploads/holyday-implementation-manual/windows-version.jpg "Windows Version")
 
 ### IIS
 **Version:** 10.0.16299.15 or above.
 
 ![Iis](/uploads/holyday-implementation-manual/iis.jpeg "is")
-
 
 ### Microsoft SQL Server Management Studio 
 **Version:** 17.3
