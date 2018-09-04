@@ -9,22 +9,24 @@
 ## Purpose
 In this document, the installation of "HolyDay" is detailed, what steps must be followed to install it on your host or local server, and what are its requirements.
 ## System Description
-Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
+HolyDay is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 ## Glossary, Acronyms and Abbreviations
-NS/NR.
-# Pre-requisites
-HolyDay is a software that has some requirements to work in the best way, here is all the detailed information; below, the software and hardware requirements are explained.
 
+# Pre-requisites
 ## Hardware
 
 
 ## Software
 ### IIS
-HolyDay is working with the 10.0.16299.15 IIS version, Nevertheless HolyDay was not tested with any minor version.
-![Iis](/uploads/holyday-implementation-manual/iis.jpeg "Iis")
+Version: 10.0.16299.15 or above.
+
+```html
+<center>![Iis](/uploads/holyday-implementation-manual/iis.jpeg "Iis")</center>
+```
+
 
 ### Microsoft SQL Server Management Studio 
-To connect HolyDay to a Database, 
+
 
 # Implementation
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
