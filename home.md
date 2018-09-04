@@ -5,7 +5,7 @@
 # Wish Grid (Due Date: 31/08/2018)
 WishGrid is a software where people can make suggestions of a company service and the registered community can vote for those suggestions, so in that way, the company can have a feedback from their users.
 
- *You can find the manuals for our Version 1.0:
+*You can find the manuals for our Version 1.0:
 User Manual on: http://172.30.0.138/wish-grid/version-1-0/wish-grid-user-manual-v-1-0
 Implementation Manual on:  http://172.30.0.138/wish-grid/version-1-0/wish-grid-implementation-manual-v-1-0
 Development Manual on: http://172.30.0.138/wish-grid/version-1-0/wish-grid-development-documentation-v-1-0*
