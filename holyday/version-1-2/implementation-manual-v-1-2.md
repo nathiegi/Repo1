@@ -50,7 +50,7 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 ## Step 2
 
 
-## Step N
+## Step 3
 
 
 # Troubleshooting
