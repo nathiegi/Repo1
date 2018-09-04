@@ -1,5 +1,5 @@
 <!-- TITLE: Version 1.2 -->
-<!-- SUBTITLE: Release Date:  -->
+<!-- SUBTITLE: Release Date: 14/08/18 -->
 
 # Features
 # Guides
