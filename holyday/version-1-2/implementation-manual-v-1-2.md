@@ -27,7 +27,7 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 ### System 
 **Requirements.**
 
-![Windows Version](/uploads/holyday-implementation-manual/windows-version.jpg "Windows Version")
+![System Requirements](/uploads/holyday-implementation-manual/system-requirements.jpg "System Requirements")
 
 ## Software
 
