@@ -7,7 +7,7 @@ Holyday is a vacation manager that aims to make easy the requests process of abs
 In this document HolyDay structured is detailed, what technologies were used to carry out this project, and the definitions of each diagram implemented.
 # USED TECHNOLOGIES
 
-![Img 1](/uploads/holyday/img-1.png "Img 1")
+![Img 1](/uploads/holyday/img-1.png "Technologies")
 
 In this application, some technologies were used to help facilitate the stages of development, implementation and documentation.
 
