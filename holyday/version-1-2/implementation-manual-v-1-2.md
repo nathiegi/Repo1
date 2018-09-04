@@ -7,7 +7,7 @@
 ### Last Modified date: **/**/****
 
 ## Purpose
-In this document, the installation of "HoliDay" is detailed, what steps must be followed to install it on your host or local server, and what are its requirements..
+In this document, the installation of "HolyDay" is detailed, what steps must be followed to install it on your host or local server, and what are its requirements..
 ## System Description
 Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 ## Glossary, Acronyms and Abbreviations
