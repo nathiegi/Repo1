@@ -1,5 +1,5 @@
-<!-- TITLE: HolyDay -->
-<!-- SUBTITLE: Implementation Guide V1.2 -->
+<!-- TITLE: Implementation Guide V1.2 -->
+<!-- SUBTITLE: Holyday -->
 
 # Installation Guide
 ### Project Name: HolyDay
