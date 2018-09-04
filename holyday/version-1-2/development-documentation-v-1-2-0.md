@@ -2,7 +2,7 @@
 <!-- SUBTITLE: HolyDay  -->
 
 
-# Development Manual for Holyday
+# INTRODUCTION
 Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 In this document HolyDay structured is detailed, what technologies were used to carry out this project, and the definitions of each diagram implemented.
 # USED TECHNOLOGIES.
