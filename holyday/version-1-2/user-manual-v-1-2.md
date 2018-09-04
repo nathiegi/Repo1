@@ -1,12 +1,12 @@
 <!-- TITLE: User Guide V1.2 -->
 <!-- SUBTITLE: HolyDay -->
 
-# USER MANUAL FOR CLIENT
+# User Manual For Client
 ### Project Name: HOLYDAY
 ### Version: 1.2
 ### Last Modified date: 2018/Aug/28
 
-# 1.0. GENERAL INFORMATION
+# 1.0. General Information
 ## 1.1. Objective of the Document
 Facilitate the process of requests for absences, provide a better way to manage each employee and provide this information quickly and easily for both workers and management way. 
 
@@ -21,14 +21,14 @@ Facilitate the process of requests for absences, provide a better way to manage 
 7. **DBT:** Debit
 	<i>**a) EM:**</i> Total hours that the employee owes the company. 
 	<i>**b) COM:**</i> Total hours that the company owes to the employee. 
-# 2.0    SYSTEM FUNCTIONS
-## 2.1    SYSTEM CONFIGURATION
-## 2.2    SOFTWARE ROLES
+# 2.0    System Functions
+## 2.1    System Configuration
+## 2.2    Software Roles
 * Administrator
 * Supervisor
 * User
 
-## 2.3    APPLICATION MODULES
+## 2.3    Application Modules
 ### User Role.
 
 ![1 1 1 User Role](/uploads/holyday/1-1-1-user-role.png "1 1 1 User Role")
