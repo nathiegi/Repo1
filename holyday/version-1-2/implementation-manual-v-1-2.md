@@ -59,4 +59,4 @@ No scenarios presented by now.
 # Points of Contacts
 **Team:** KND.
 # Installer's Path
-**Path:** \\srv-fap\Shared\HolyDay\HolyDay Installers\V 1.2.0
+**Path:** \\\srv-fap\Shared\HolyDay\HolyDay Installers\V 1.2.0
