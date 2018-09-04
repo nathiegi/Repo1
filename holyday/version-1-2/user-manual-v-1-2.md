@@ -1,5 +1,5 @@
-<!-- TITLE: Holyday -->
-<!-- SUBTITLE: User Guide V1.2 -->
+<!-- TITLE: User Guide V1.2 -->
+<!-- SUBTITLE: Holyday -->
 
 # USER MANUAL FOR CLIENT
 ### Project Name: HOLYDAY
