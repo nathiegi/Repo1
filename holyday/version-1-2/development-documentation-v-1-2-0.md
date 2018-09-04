@@ -6,6 +6,9 @@
 Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 In this document HolyDay structured is detailed, what technologies were used to carry out this project, and the definitions of each diagram implemented.
 ## USED TECHNOLOGIES.
+
+![Img 1](/uploads/holyday/img-1.png "Img 1")
+
 In this application, some technologies were used to help facilitate the stages of development, implementation and documentation.
 
 ### Visual Studio.
@@ -32,6 +35,8 @@ A domain model is a structural model of basic domain concepts and the relationsh
 
 #### **DIAGRAM.**
 
+![Img 2](/uploads/holyday/img-2.png "Img 2")
+
 ### DATABASE MODEL.
 
 #### **DESCRIPTION.**
@@ -39,21 +44,33 @@ The database diagram was made with a conceptual design, this makes a high-level 
 
 #### **DIAGRAM.**
 
+![Img 3](/uploads/holyday/img-3.png "Img 3")
+
 ### COMPONENT MODEL.
 
 #### **DESCRIPTION.**
 A component diagram shows the parts of a design for a software system. A component diagram helps you visualize the high-level structure of the system and the service behavior that those pieces provide and consume through interfaces.
-Component. - A reusable piece of system functionality. A component provides and consumes behavior through interfaces and can use other components.
+**Component. -** A reusable piece of system functionality. A component provides and consumes behavior through interfaces and can use other components.
 
 #### **DIAGRAMS.**
 
+![Img 4](/uploads/holyday/img-4.png "Img 4")
+
 **The three main components.**
+
+![Img 5](/uploads/holyday/img-5.png "Img 5")
 
 **Model component**
 
+![Img 6](/uploads/holyday/img-6.png "Img 6")
+
 **Controller component**
 
+![Img 7](/uploads/holyday/img-7.png "Img 7")
+
 **View Component**
+
+![Img 8](/uploads/holyday/img-8.png "Img 8")
 
 ### SYSTEM ARCHITECTURE.
 
@@ -61,3 +78,5 @@ Component. - A reusable piece of system functionality. A component provides and 
 The physical view depicts the system from a system engineer's point-of-view. It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view. UML Diagrams used to represent physical view include the Deployment diagram.
 
 #### **DIAGRAM.**
+
+![Img 9](/uploads/holyday/img-9.png "Img 9")
