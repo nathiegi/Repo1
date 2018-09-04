@@ -35,7 +35,7 @@ A domain model is a structural model of basic domain concepts and the relationsh
 
 ### **DIAGRAM**
 
-![Img 2](/uploads/holyday/img-2.png "Img 2")
+![Img 2](/uploads/holyday/img-2.png "Domain Model")
 
 ## DATABASE MODEL
 
@@ -44,7 +44,7 @@ The database diagram was made with a conceptual design, this makes a high-level 
 
 ### **DIAGRAM**
 
-![Img 3](/uploads/holyday/img-3.png "Img 3")
+![Img 3](/uploads/holyday/img-3.png "Database Model")
 
 ## COMPONENT MODEL
 
@@ -54,23 +54,23 @@ A component diagram shows the parts of a design for a software system. A compone
 
 ### **DIAGRAMS**
 
-![Img 4](/uploads/holyday/img-4.png "Img 4")
+![Img 4](/uploads/holyday/img-4.png "Component Model")
 
 ### **Main components diagram**
 
-![Img 5](/uploads/holyday/img-5.png "Img 5")
+![Img 5](/uploads/holyday/img-5.png "Main Components Diagram")
 
 ### **Model component diagram**
 
-![Img 6](/uploads/holyday/img-6.png "Img 6")
+![Img 6](/uploads/holyday/img-6.png "Model Component Diagram")
 
 ### **Controller component diagram**
 
-![Img 7](/uploads/holyday/img-7.png "Img 7")
+![Img 7](/uploads/holyday/img-7.png "Controller Component Diagram")
 
 ### **View Components diagram**
 
-![Img 8](/uploads/holyday/img-8.png "Img 8")
+![Img 8](/uploads/holyday/img-8.png "View Component Diagram")
 
 ## ARCHITECTURE MODEL
 
@@ -79,4 +79,4 @@ The physical view depicts the system from a system engineer's point-of-view. It 
 
 ### **DIAGRAM**
 
-![Architecture Moden](/uploads/holy-day-development-documentation-v-1-2-0/architecture-moden.jpg "Architecture Moden")
+![Architecture Moden](/uploads/holy-day-development-documentation-v-1-2-0/architecture-moden.jpg "Architecture Model")
