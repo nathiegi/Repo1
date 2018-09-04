@@ -1,5 +1,5 @@
 <!-- TITLE: Holyday -->
-<!-- SUBTITLE: Development Documentation V1.2 -->
+<!-- SUBTITLE: Development Guide V1.2 -->
 
 
 # Development Manual for Holyday
