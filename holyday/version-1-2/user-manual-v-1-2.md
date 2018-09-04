@@ -11,6 +11,17 @@
 Facilitate the process of requests for absences, provide a better way to manage each employee and provide this information quickly and easily for both workers and management way. 
 
 ## 1.2. Main Functions
+- Register of Employees
+- Register of Work Teams.
+- Creation and assignment of users.
+- Register of Work Schedules assigned.
+- Request Management by Hour to favor.
+- Vacation Request Management.
+- Absence Management.
+- Assignment of Collective Vacations.
+- Compensation of working hours.
+- Generation and visualization of Kardex Individual.
+
 ## 1.3. Acronyms & Abbreviations
 1. **CI:** Number of employee identification. 
 2. **ACCUM:** Vacation days accrued seniority. 
