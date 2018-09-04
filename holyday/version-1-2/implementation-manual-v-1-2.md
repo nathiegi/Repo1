@@ -18,13 +18,13 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 ## Software
 
 ### IIS
-Version: 10.0.16299.15 or above.
+**Version:** 10.0.16299.15 or above.
 
 ![Iis](/uploads/holyday-implementation-manual/iis.jpeg "is")
 
 
 ### Microsoft SQL Server Management Studio 
-Version: 17.3
+**Version:** 17.3
 
 ![Sql Server](/uploads/holyday-implementation-manual/sql-server.jpeg "Sql Server")
 
@@ -43,6 +43,6 @@ Version: 17.3
 No scenarios presented by now.
 
 # Points of Contacts
-Team: KND.
+**Team:** KND.
 # Installer's Path
 **Path:** \\srv-fap\Shared\HolyDay\HolyDay Installers\V 1.2.0
