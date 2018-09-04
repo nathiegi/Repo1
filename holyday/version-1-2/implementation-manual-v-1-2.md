@@ -1,13 +1,13 @@
 <!-- TITLE: HolyDay - Implementation Manual V1.2 -->
 <!-- SUBTITLE: A quick summary of Implementation Manual V1.2 -->
 
-# Implementation Manual
+# Installation Guide
 ### Project Name: HolyDay
 ### Version: V1.2
 ### Last Modified date: **/**/****
 
 ## Purpose
-In this document, the installation of "HolyDay" is detailed, what steps must be followed to install it on your host or local server, and what are its requirements..
+In this document, the installation of "HolyDay" is detailed, what steps must be followed to install it on your host or local server, and what are its requirements.
 ## System Description
 Holyday is a vacation manager that aims to make easy the requests process of absences, provide employees information and notify the status of it.
 ## Glossary, Acronyms and Abbreviations
@@ -19,7 +19,12 @@ HolyDay is a software that has some requirements to work in the best way, here i
 
 
 ## Software
+### IIS
+HolyDay is working with the 10.0.16299.15 IIS version, Nevertheless HolyDay was not tested with any minor version.
+![Iis](/uploads/holyday-implementation-manual/iis.jpeg "Iis")
 
+### Microsoft SQL Server Management Studio 
+To connect HolyDay to a Database, 
 
 # Implementation
 Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text 
