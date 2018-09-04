@@ -16,7 +16,7 @@ NS/NR.
 HolyDay is a software that has some requirements to work in the best way, here is all the detailed information; below, the software and hardware requirements are explained.
 
 ## Hardware
-![User Guide Holyday 30217](/uploads/holyday/user-guide-holyday-30217.png "User Guide Holyday 30217")
+
 
 ## Software
 
