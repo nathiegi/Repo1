@@ -30,53 +30,53 @@ Sparx Systems Enterprise Architect is a visual modeling and design tool based on
 
 ## DOMAIN MODEL.
 
-#### **DESCRIPTION.**
+### **DESCRIPTION.**
 A domain model is a structural model of basic domain concepts and the relationships between them. A domain model may contain domain objects, conceptual classes, associations, or attributes.
 
-#### **DIAGRAM.**
+### **DIAGRAM.**
 
 ![Img 2](/uploads/holyday/img-2.png "Img 2")
 
 ## DATABASE MODEL.
 
-#### **DESCRIPTION.**
+### **DESCRIPTION.**
 The database diagram was made with a conceptual design, this makes a high-level description of the structure of the database. Its purpose is to describe the information content of the database and not the storage structures that will be needed to handle that information.
 
-#### **DIAGRAM.**
+### **DIAGRAM.**
 
 ![Img 3](/uploads/holyday/img-3.png "Img 3")
 
 ## COMPONENT MODEL.
 
-#### **DESCRIPTION.**
+### **DESCRIPTION.**
 A component diagram shows the parts of a design for a software system. A component diagram helps you visualize the high-level structure of the system and the service behavior that those pieces provide and consume through interfaces.
 **Component. -** A reusable piece of system functionality. A component provides and consumes behavior through interfaces and can use other components.
 
-#### **DIAGRAMS.**
+### **DIAGRAMS.**
 
 ![Img 4](/uploads/holyday/img-4.png "Img 4")
 
-**The three main components.**
+**Main components diagram.**
 
 ![Img 5](/uploads/holyday/img-5.png "Img 5")
 
-**Model component**
+**Model component diagram.**
 
 ![Img 6](/uploads/holyday/img-6.png "Img 6")
 
-**Controller component**
+**Controller component diagram.**
 
 ![Img 7](/uploads/holyday/img-7.png "Img 7")
 
-**View Component**
+**View Component diagram.**
 
 ![Img 8](/uploads/holyday/img-8.png "Img 8")
 
 ## ARCHITECTURE MODEL.
 
-#### **DESCRIPTION.**
+### **DESCRIPTION.**
 The physical view depicts the system from a system engineer's point-of-view. It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view. UML Diagrams used to represent physical view include the Deployment diagram.
 
-#### **DIAGRAM.**
+### **DIAGRAM.**
 
 ![Img 9](/uploads/holyday/img-9.png "Img 9")
