@@ -42,11 +42,25 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 
 ## Step 1
 
+![Step 1](/uploads/holyday-implementation-manual/step-1.jpg "Step 1")
 
 ## Step 2
 
+![Step 2](/uploads/holyday-implementation-manual/step-2.jpg "Step 2")
 
 ## Step 3
+
+![Step 3](/uploads/holyday-implementation-manual/step-3.jpg "Step 3")
+
+
+## Step 4
+
+![Step 4](/uploads/holyday-implementation-manual/step-4.jpg "Step 4")
+
+
+## Step 5
+
+![Step 5](/uploads/holyday-implementation-manual/step-5.jpg "Step 5")
 
 
 # Troubleshooting
