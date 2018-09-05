@@ -43,9 +43,10 @@ A domain model is a structural model of basic domain concepts and the relationsh
 The database diagram was made with a conceptual design, this makes a high-level description of the structure of the database. Its purpose is to describe the information content of the database and not the storage structures that will be needed to handle that information.
 
 ### **Diagram**
-
+**1**
 ![Database Diagram](/uploads/holy-day-development-documentation-v-1-2-0/database-diagram.jpg "Database Diagram")
 
+**2**
 ![Database Diagram 2](/uploads/holy-day-development-documentation-v-1-2-0/database-diagram-2.jpg "Database Diagram 2")
 
 ## Component Model
