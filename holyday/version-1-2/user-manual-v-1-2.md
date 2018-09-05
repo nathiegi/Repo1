@@ -33,13 +33,12 @@ Facilitate the process of requests for absences, provide a better way to manage 
 	<i>**a) EM:**</i> Total hours that the employee owes the company. 
 	<i>**b) COM:**</i> Total hours that the company owes to the employee. 
 # 2.0    System Functions
-## 2.1    System Configuration
-## 2.2    Software Roles
+## 2.1    Software Roles
 * Administrator
 * Supervisor
 * User
 
-## 2.3    Application Modules
+## 2.2    Application Modules
 ### User Role.
 
 ![1 1 1 User Role](/uploads/holyday/1-1-1-user-role.png "1 1 1 User Role")
