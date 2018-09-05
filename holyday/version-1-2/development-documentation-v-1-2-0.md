@@ -46,6 +46,10 @@ The database diagram was made with a conceptual design, this makes a high-level 
 
 ![Img 3](/uploads/holyday/img-3.png "Database Model")
 
+![Database Diagram 2](/uploads/holy-day-development-documentation-v-1-2-0/database-diagram-2.jpg "Database Diagram 2")
+
+![Database Diagram](/uploads/holy-day-development-documentation-v-1-2-0/database-diagram.jpg "Database Diagram")
+
 ## Component Model
 
 ### **Description**
