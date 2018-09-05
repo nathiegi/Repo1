@@ -45,7 +45,7 @@ First you will see the Welcome Wizard, which will notify you that **HolyDay** is
 
 ![Step 1](/uploads/holyday-implementation-manual/step-1.jpg "Step 1")
 
-You must click on the "Next" button.
+You must click on the **"Next>"** button.
 
 ## Step 2
 
