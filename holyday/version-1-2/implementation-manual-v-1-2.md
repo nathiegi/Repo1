@@ -1,5 +1,5 @@
 <!-- TITLE: Installation Guide V1.2 -->
-<!-- SUBTITLE: Holyday -->
+<!-- SUBTITLE: HolyDay -->
 
 # Installation Guide
 ### Project Name: HolyDay
@@ -41,8 +41,11 @@ HolyDay is a vacation manager that aims to make easy the requests process of abs
 # Implementation
 
 ## Step 1
+First you will see the Welcome Wizard, which will notify you that **HolyDay** is about to start installing.
 
 ![Step 1](/uploads/holyday-implementation-manual/step-1.jpg "Step 1")
+
+You must click on the "Next" button.
 
 ## Step 2
 
